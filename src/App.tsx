@@ -68,23 +68,14 @@ function AnimatedText({ text, className }: { text: string; className?: string })
   );
 }
 
-// Marquee component with asymmetric cards
+// Marquee component with asymmetric cards - pauses on hover
 function Marquee({ items, onClick }: { items: { id: string; img: string; title: string; categoryId?: string }[]; onClick?: (id: string) => void }) {
   const doubled = [...items, ...items];
 
   return (
-    <div className="w-full overflow-hidden py-16 group">
-      <motion.div
-        className="flex gap-8"
-        animate={{ x: [0, -50 * items.length + '%'] }}
-        transition={{
-          x: {
-            repeat: Infinity,
-            repeatType: 'loop',
-            duration: 40,
-            ease: 'linear',
-          },
-        }}
+    <div className="w-full overflow-hidden py-16 group/marquee">
+      <div
+        className="flex gap-8 animate-marquee group-hover/marquee:[animation-play-state:paused]"
         style={{ width: `${doubled.length * 300}px` }}
       >
         {doubled.map((item, index) => {
@@ -109,7 +100,7 @@ function Marquee({ items, onClick }: { items: { id: string; img: string; title: 
             </div>
           );
         })}
-      </motion.div>
+      </div>
     </div>
   );
 }

@@ -74,3 +74,22 @@
 .font-mono {
   font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', monospace;
 }
+
+/* Marquee animation - pauses on hover */
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 40s linear infinite;
+}
+
+.animate-marquee:hover,
+.group-hover\/marquee .animate-marquee {
+  animation-play-state: paused;
+}
