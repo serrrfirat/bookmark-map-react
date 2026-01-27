@@ -4,40 +4,37 @@
 
 @layer base {
   html {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
 
   body {
-    letter-spacing: -0.02em;
+    letter-spacing: -0.01em;
     line-height: 1.5;
+    background-color: #f7f6f2;
+    color: #1c1c1c;
   }
 }
 
 * {
   -webkit-tap-highlight-color: transparent;
+  box-sizing: border-box;
 }
 
-/* MUST: Hide default cursor */
-@media (min-width: 768px) {
-  html, body {
-    cursor: none !important;
-  }
-  
-  *, *::before, *::after {
-    cursor: none !important;
-  }
+/* Editorial bezier easing */
+:root {
+  --ease-editorial: cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 ::selection {
-  background: #000;
+  background: #3d7068;
   color: #fff;
 }
 
 /* Custom scrollbar - thin 1px style */
 ::-webkit-scrollbar {
-  width: 1px;
+  width: 2px;
 }
 
 ::-webkit-scrollbar-track {
@@ -45,7 +42,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(0, 0, 0, 0.15);
+  background: rgba(61, 112, 104, 0.3);
 }
 
 /* Line clamp utilities */
@@ -70,9 +67,14 @@
   overflow: hidden;
 }
 
-/* Mono font */
+/* Space Mono font */
 .font-mono {
-  font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', monospace;
+  font-family: 'Space Mono', monospace;
+}
+
+/* Playfair Display font */
+.font-serif {
+  font-family: 'Playfair Display', serif;
 }
 
 /* Marquee animation - pauses on hover */
@@ -90,6 +92,32 @@
 }
 
 .animate-marquee:hover,
-.group-hover\/marquee .animate-marquee {
+.group-hover\:marquee .animate-marquee {
   animation-play-state: paused;
+}
+
+/* Fixed background grid */
+.bg-editorial-grid {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-image: 
+    linear-gradient(to right, rgba(61, 112, 104, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(61, 112, 104, 0.05) 1px, transparent 1px);
+  background-size: 40px 40px;
+  pointer-events: none;
+}
+
+/* Grid with radial fade */
+.bg-editorial-grid-radial {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-image: 
+    linear-gradient(to right, rgba(61, 112, 104, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(61, 112, 104, 0.05) 1px, transparent 1px);
+  background-size: 40px 40px;
+  pointer-events: none;
+  mask-image: radial-gradient(ellipse at center, black 40%, transparent 70%);
+  -webkit-mask-image: radial-gradient(ellipse at center, black 40%, transparent 70%);
 }
