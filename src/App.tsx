@@ -1,7 +1,13 @@
-import { useState, useEffect, useMemo, useRef } from 'react';
+import { useState, useEffect, useMemo, useRef, useCallback, memo } from 'react';
 import { motion } from 'framer-motion';
 import {
-  ArrowLeft, ArrowUpRight, X, Search, ChevronDown, Sun, Moon
+  ArrowLeft,
+  ArrowUpRight,
+  X,
+  Search,
+  ChevronDown,
+  Sun,
+  Moon,
 } from 'lucide-react';
 
 interface Bookmark {
@@ -51,7 +57,7 @@ const themes = {
 };
 
 // Scroll down indicator
-function ScrollIndicator({ colors }: { colors: typeof themes.light }) {
+const ScrollIndicator = memo(function ScrollIndicator({ colors }: { colors: typeof themes.light }) {
   return (
     <motion.div
       className="absolute bottom-12 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2"
@@ -70,10 +76,10 @@ function ScrollIndicator({ colors }: { colors: typeof themes.light }) {
       </motion.div>
     </motion.div>
   );
-}
+});
 
 // CTA Button component
-function CtaButton({ children, onClick, colors }: { children: React.ReactNode; onClick?: () => void; colors: typeof themes.light }) {
+const CtaButton = memo(function CtaButton({ children, onClick, colors }: { children: React.ReactNode; onClick?: () => void; colors: typeof themes.light }) {
   return (
     <motion.button
       onClick={onClick}
@@ -94,15 +100,15 @@ function CtaButton({ children, onClick, colors }: { children: React.ReactNode; o
       <span className="relative z-10">{children}</span>
     </motion.button>
   );
-}
+});
 
 // Theme Toggle Switch
-function ThemeToggle({ darkMode, setDarkMode, colors }: { darkMode: boolean; setDarkMode: (v: boolean) => void; colors: typeof themes.light }) {
+const ThemeToggle = memo(function ThemeToggle({ darkMode, onToggle, colors }: { darkMode: boolean; onToggle: () => void; colors: typeof themes.light }) {
   return (
     <button
-      onClick={() => setDarkMode(!darkMode)}
+      onClick={onToggle}
       className="relative w-12 h-6 rounded-full border transition-all duration-500 ease-editorial"
-      style={{ 
+      style={{
         backgroundColor: darkMode ? colors.primary : colors.border,
         borderColor: colors.border
       }}
@@ -121,7 +127,7 @@ function ThemeToggle({ darkMode, setDarkMode, colors }: { darkMode: boolean; set
       </motion.div>
     </button>
   );
-}
+});
 
 function App() {
   const [data, setData] = useState<BookmarkData>({});
@@ -135,6 +141,51 @@ function App() {
   const heroRef = useRef<HTMLDivElement>(null);
 
   const colors = darkMode ? themes.dark : themes.light;
+
+  // Memoized event handlers to prevent unnecessary re-renders
+  const handleGoBack = useCallback(() => {
+    setSelectedCategory(null);
+    setShowAllBookmarks(false);
+    setSearchQuery('');
+  }, []);
+
+  const handleToggleMenu = useCallback(() => {
+    setMenuOpen(prev => !prev);
+  }, []);
+
+  const handleToggleDarkMode = useCallback(() => {
+    setDarkMode(prev => !prev);
+  }, []);
+
+  const handleOpenMenu = useCallback(() => {
+    setMenuOpen(true);
+  }, []);
+
+  const handleViewAllBookmarks = useCallback(() => {
+    setShowAllBookmarks(true);
+  }, []);
+
+  const handleSelectCategory = useCallback((category: string) => {
+    setSelectedCategory(category);
+    setMenuOpen(false);
+  }, []);
+
+  const handleViewAllFromMenu = useCallback(() => {
+    setShowAllBookmarks(true);
+    setMenuOpen(false);
+  }, []);
+
+  const handleSortByDate = useCallback(() => {
+    setSortBy('date');
+  }, []);
+
+  const handleSortByLikes = useCallback(() => {
+    setSortBy('likes');
+  }, []);
+
+  const handleSearchChange = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
+    setSearchQuery(e.target.value);
+  }, []);
 
   useEffect(() => {
     fetch('/data.json')
@@ -224,11 +275,7 @@ function App() {
         >
           <div className="max-w-7xl mx-auto flex items-center justify-between">
             <button
-              onClick={() => {
-                setSelectedCategory(null);
-                setShowAllBookmarks(false);
-                setSearchQuery('');
-              }}
+              onClick={handleGoBack}
               className="flex items-center gap-2 text-sm transition-all duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] hover:opacity-60"
               style={{ color: colors.fg }}
             >
@@ -244,7 +291,7 @@ function App() {
                   type="text"
                   placeholder=""
                   value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
+                  onChange={handleSearchChange}
                   className="pl-10 pr-4 py-3 text-sm bg-transparent border-b w-48 focus:outline-none transition-colors duration-700 ease-editorial"
                   style={{ 
                     borderColor: colors.border, 
@@ -256,14 +303,14 @@ function App() {
 
               <div className="flex items-center gap-6">
                 <button
-                  onClick={() => setSortBy('date')}
+                  onClick={handleSortByDate}
                   className={`text-[10px] uppercase font-mono tracking-[0.3em] transition-all duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] ${sortBy === 'date' ? 'opacity-100' : 'opacity-40 hover:opacity-60'}`}
                   style={{ color: colors.fg }}
                 >
                   Recent
                 </button>
                 <button
-                  onClick={() => setSortBy('likes')}
+                  onClick={handleSortByLikes}
                   className={`text-[10px] uppercase font-mono tracking-[0.3em] transition-all duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] ${sortBy === 'likes' ? 'opacity-100' : 'opacity-40 hover:opacity-60'}`}
                   style={{ color: colors.fg }}
                 >
@@ -292,7 +339,7 @@ function App() {
                   <span style={{ color: darkMode ? '#666' : '#b4b4b4' }} className="italic">Bookmarks</span>
                 </>
               ) : (
-                selectedCategory.split(' ').map((word, i) => (
+                selectedCategory!.split(' ').map((word, i) => (
                   <span key={i} className={i % 2 === 1 ? 'italic' : ''} style={{ color: i % 2 === 1 ? (darkMode ? '#666' : '#b4b4b4') : 'inherit' }}>
                     {word}{' '}
                   </span>
@@ -420,10 +467,10 @@ function App() {
           </nav>
 
           <div className="flex items-center gap-6">
-            <ThemeToggle darkMode={darkMode} setDarkMode={setDarkMode} colors={colors} />
-            
+            <ThemeToggle darkMode={darkMode} onToggle={handleToggleDarkMode} colors={colors} />
+
             <button
-              onClick={() => setMenuOpen(!menuOpen)}
+              onClick={handleToggleMenu}
               className="transition-transform duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] hover:rotate-90"
               style={{ color: colors.fg }}
             >
@@ -454,7 +501,7 @@ function App() {
                   initial={{ opacity: 0, y: 20 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: i * 0.04, duration: 0.6, ease: editorialEase }}
-                  onClick={() => { setSelectedCategory(cat); setMenuOpen(false); }}
+                  onClick={() => handleSelectCategory(cat)}
                   className="block w-full text-4xl md:text-6xl font-serif font-light tracking-tight uppercase transition-opacity duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] hover:opacity-40"
                   style={{ color: colors.fg }}
                 >
@@ -465,7 +512,7 @@ function App() {
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: categories.length * 0.04, duration: 0.6, ease: editorialEase }}
-                onClick={() => { setShowAllBookmarks(true); setMenuOpen(false); }}
+                onClick={handleViewAllFromMenu}
                 className="block w-full text-4xl md:text-6xl font-serif font-light tracking-tight uppercase transition-opacity duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] hover:opacity-40 mt-8 pt-8 border-t"
                 style={{ color: colors.fg, borderColor: colors.border }}
               >
@@ -508,10 +555,10 @@ function App() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 1.2, duration: 0.8, ease: editorialEase }}
         >
-          <CtaButton onClick={() => setMenuOpen(true)} colors={colors}>
+          <CtaButton onClick={handleOpenMenu} colors={colors}>
             Browse Categories
           </CtaButton>
-          <CtaButton onClick={() => setShowAllBookmarks(true)} colors={colors}>
+          <CtaButton onClick={handleViewAllBookmarks} colors={colors}>
             View All Bookmarks
           </CtaButton>
         </motion.div>
@@ -570,6 +617,9 @@ function App() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: index * 0.08, duration: 0.8, ease: editorialEase }}
                   onClick={() => setSelectedCategory(category)}
+                  role="button"
+                  tabIndex={0}
+                  onKeyDown={(e) => e.key === 'Enter' && setSelectedCategory(category)}
                   className="group relative p-8 border-b cursor-pointer transition-colors duration-700 ease-[cubic-bezier(0.16,1,0.3,1)]"
                   style={{ borderColor: colors.border }}
                 >
