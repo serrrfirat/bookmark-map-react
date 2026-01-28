@@ -1,8 +1,10 @@
 import { useState, useEffect, useMemo, useRef } from 'react';
 import { motion } from 'framer-motion';
 import {
-  ArrowLeft, ArrowUpRight, X, Search, ChevronDown, Sun, Moon
+  ArrowLeft, ArrowUpRight, X, Search, ChevronDown, Sun, Moon, Sparkles
 } from 'lucide-react';
+import { StylePromptModal } from './components/StylePromptModal';
+import { isStyleEnabledCategory, type StyleAnalysis } from './utils/styleAnalyzer';
 
 interface Bookmark {
   id: string;
@@ -17,6 +19,8 @@ interface Bookmark {
   mediaType: string | null;
   mediaUrl: string | null;
   category?: string;
+  stylePrompt?: string;
+  styleAnalysis?: StyleAnalysis;
 }
 
 interface BookmarkData {
@@ -132,9 +136,18 @@ function App() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [darkMode, setDarkMode] = useState(false);
+  const [styleModalOpen, setStyleModalOpen] = useState(false);
+  const [selectedStyleBookmark, setSelectedStyleBookmark] = useState<Bookmark | null>(null);
   const heroRef = useRef<HTMLDivElement>(null);
 
   const colors = darkMode ? themes.dark : themes.light;
+
+  const handleOpenStylePrompt = (bookmark: Bookmark, e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setSelectedStyleBookmark(bookmark);
+    setStyleModalOpen(true);
+  };
 
   useEffect(() => {
     fetch('/data.json')
@@ -350,9 +363,25 @@ function App() {
 
                 <div className="flex items-center gap-4 mt-4 text-[10px] font-mono uppercase tracking-[0.2em]" style={{ color: colors.mutedAlt }}>
                   <span>❤️ {bookmark.likes.toLocaleString()}</span>
+                  {bookmark.styleAnalysis && (
+                    <span className="px-2 py-0.5 border text-[8px]" style={{ borderColor: colors.primary, color: colors.primary }}>
+                      STYLE
+                    </span>
+                  )}
                 </div>
 
-                <div className="absolute top-8 right-8 opacity-0 group-hover:opacity-100 transition-opacity duration-700 ease-[cubic-bezier(0.16,1,0.3,1)]">
+                <div className="absolute top-8 right-8 flex items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity duration-700 ease-[cubic-bezier(0.16,1,0.3,1)]">
+                  {/* Style Prompt Button - only for Art & UI categories with media */}
+                  {bookmark.styleAnalysis && bookmark.mediaUrl && (
+                    <button
+                      onClick={(e) => handleOpenStylePrompt(bookmark, e)}
+                      className="p-1.5 border transition-all duration-300 hover:scale-110"
+                      style={{ borderColor: colors.primary, backgroundColor: colors.bg }}
+                      title="View Style Prompt"
+                    >
+                      <Sparkles className="w-4 h-4" style={{ color: colors.primary }} />
+                    </button>
+                  )}
                   <ArrowUpRight className="w-4 h-4" style={{ color: colors.primary }} />
                 </div>
               </motion.a>
@@ -370,6 +399,16 @@ function App() {
             </span>
           </div>
         </footer>
+
+        {/* Style Prompt Modal */}
+        <StylePromptModal
+          isOpen={styleModalOpen}
+          onClose={() => setStyleModalOpen(false)}
+          styleAnalysis={selectedStyleBookmark?.styleAnalysis || null}
+          bookmarkTitle={selectedStyleBookmark?.text || ''}
+          colors={colors}
+          darkMode={darkMode}
+        />
       </div>
     );
   }
@@ -596,10 +635,19 @@ function App() {
                     <span className="text-[10px] font-mono uppercase tracking-[0.2em]" style={{ color: colors.muted }}>
                       {items.length} items
                     </span>
+                    {isStyleEnabledCategory(category) && (
+                      <span className="text-[8px] font-mono uppercase tracking-[0.15em] px-2 py-0.5 border opacity-0 group-hover:opacity-100 transition-opacity duration-500" style={{ color: colors.primary, borderColor: colors.primary }}>
+                        Style Prompts
+                      </span>
+                    )}
                   </div>
 
                   <div className="absolute top-8 right-8 opacity-0 group-hover:opacity-100 transition-opacity duration-700 ease-[cubic-bezier(0.16,1,0.3,1)]">
-                    <ArrowUpRight className="w-4 h-4" style={{ color: colors.primary }} />
+                    {isStyleEnabledCategory(category) ? (
+                      <Sparkles className="w-4 h-4" style={{ color: colors.primary }} />
+                    ) : (
+                      <ArrowUpRight className="w-4 h-4" style={{ color: colors.primary }} />
+                    )}
                   </div>
                 </motion.div>
               );
@@ -655,6 +703,16 @@ function App() {
           </div>
         </div>
       </footer>
+
+      {/* Style Prompt Modal (also needed here for when navigating from home) */}
+      <StylePromptModal
+        isOpen={styleModalOpen}
+        onClose={() => setStyleModalOpen(false)}
+        styleAnalysis={selectedStyleBookmark?.styleAnalysis || null}
+        bookmarkTitle={selectedStyleBookmark?.text || ''}
+        colors={colors}
+        darkMode={darkMode}
+      />
     </div>
   );
 }
