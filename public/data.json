@@ -1109,6 +1109,19 @@
   ],
   "General": [
     {
+      "id": "2019435524532904205",
+      "text": "https://t.co/4hDRinAaLz",
+      "fullText": "https://t.co/4hDRinAaLz",
+      "author": "VibeMarketer_",
+      "authorName": "J.B.",
+      "url": "https://x.com/VibeMarketer_/status/2019435524532904205",
+      "likes": 0,
+      "date": 1770305923000,
+      "dateStr": "Thu Feb 05 15:38:43 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2019073081881293302",
       "text": "https://t.co/iXuDFf6GVy",
       "fullText": "https://t.co/iXuDFf6GVy",
@@ -10717,6 +10730,75 @@
       "dateStr": "Dec 19",
       "mediaType": "photo",
       "mediaUrl": "https://pbs.twimg.com/media/G8Im8FbXMAorfee.jpg:small"
+    }
+  ],
+  "AI & Agents": [
+    {
+      "id": "2019266527137263979",
+      "text": "What if @Claude_Code could teach itself to help you better — session after session? I've been experimenting with a single seed prompt (~100 lines) you drop into https://t.co/R7tCBTxMPd and it bootstraps a learning loop. https://t.co/KcUajucc1f",
+      "fullText": "What if @Claude_Code could teach itself to help you better — session after session? I've been experimenting with a single seed prompt (~100 lines) you drop into https://t.co/R7tCBTxMPd and it bootstraps a learning loop. https://t.co/KcUajucc1f",
+      "author": "ChristopherA",
+      "authorName": "Christopher Allen",
+      "url": "https://x.com/ChristopherA/status/2019266527137263979",
+      "likes": 0,
+      "date": 1770265630000,
+      "dateStr": "Thu Feb 05 04:27:10 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2019190773300842725",
+      "text": "Desktop application for parallel agentic development. https://t.co/dNAbRGnmq5 https://t.co/Z0v7iqxJI1",
+      "fullText": "Desktop application for parallel agentic development. https://t.co/dNAbRGnmq5 https://t.co/Z0v7iqxJI1",
+      "author": "tom_doerr",
+      "authorName": "Tom Dörr",
+      "url": "https://x.com/tom_doerr/status/2019190773300842725",
+      "likes": 0,
+      "date": 1770247569000,
+      "dateStr": "Wed Feb 04 23:26:09 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2019482153541915097",
+      "text": "Been running agent swarms for a few weeks now. I think this is the future. But I'm relearning what feature development even means. Compound Engineering commands + Opus 4.6 can accelerate complex features. Still figuring it out but here is the /slfg command that enables swarms in compound engineering. https://t.co/ySl0a402SQ",
+      "fullText": "Been running agent swarms for a few weeks now. I think this is the future. But I'm relearning what feature development even means. Compound Engineering commands + Opus 4.6 can accelerate complex features. Still figuring it out but here is the /slfg command that enables swarms in compound engineering. https://t.co/ySl0a402SQ",
+      "author": "kieranklaassen",
+      "authorName": "Kieran Klaassen",
+      "url": "https://x.com/kieranklaassen/status/2019482153541915097",
+      "likes": 0,
+      "date": 1770317040000,
+      "dateStr": "Thu Feb 05 18:44:00 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2019548783869325331",
+      "text": "GPT-5.3-Codex with image gen skill (NBP). I'm loving this model so much. This is one-shot https://t.co/uJsLKueLJC",
+      "fullText": "GPT-5.3-Codex with image gen skill (NBP). I'm loving this model so much. This is one-shot https://t.co/uJsLKueLJC",
+      "author": "Angaisb_",
+      "authorName": "Angel ❄️",
+      "url": "https://x.com/Angaisb_/status/2019548783869325331",
+      "likes": 0,
+      "date": 1770332926000,
+      "dateStr": "Thu Feb 05 23:08:46 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    }
+  ],
+  "Dev Tools": [
+    {
+      "id": "2019568360284209550",
+      "text": "@shipscode Google 3d tiles",
+      "fullText": "@shipscode Google 3d tiles",
+      "author": "levelsio",
+      "authorName": "levelsio",
+      "url": "https://x.com/levelsio/status/2019568360284209550",
+      "likes": 0,
+      "date": 1770337593000,
+      "dateStr": "Fri Feb 06 00:26:33 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
     }
   ]
 }
