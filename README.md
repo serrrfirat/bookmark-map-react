@@ -47,3 +47,4 @@ Bookmarks are fetched from X using the `bird` CLI and categorized into:
 ## License
 
 MIT
+
