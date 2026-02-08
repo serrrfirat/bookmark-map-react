@@ -1,6 +1,34 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2020222062279672231",
+      "text": "How to build your own Trade Analyzer with Claude Code https://t.co/WxMpGxY79o",
+      "fullText": "How to build your own Trade Analyzer with Claude Code https://t.co/WxMpGxY79o",
+      "author": "DeFiMinty",
+      "authorName": "Minty",
+      "url": "https://x.com/DeFiMinty/status/2020222062279672231",
+      "likes": 817,
+      "retweets": 95,
+      "date": null,
+      "dateStr": "Sat Feb 07 19:44:08 +0000 2026",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HAlET4NWMAADgKm.jpg:small"
+    },
+    {
+      "id": "2020100264578207828",
+      "text": "Meet the game dev's new best friend: a Flux model that generates sprite sheets in one go! This AI creates 2x2 multi-view character grids perfect for top-down or isometric games. No more painstakingly drawing each angle separately. https://t.co/G1ZyKLVLdD",
+      "fullText": "Meet the game dev's new best friend: a Flux model that generates sprite sheets in one go! This AI creates 2x2 multi-view character grids perfect for top-down or isometric games. No more painstakingly drawing each angle separately. https://t.co/G1ZyKLVLdD",
+      "author": "HuggingModels",
+      "authorName": "Hugging Models",
+      "url": "https://x.com/HuggingModels/status/2020100264578207828",
+      "likes": 676,
+      "retweets": 40,
+      "date": null,
+      "dateStr": "Sat Feb 07 11:40:09 +0000 2026",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HAjWfE0acAA-QhT.jpg:small"
+    },
+    {
       "id": "2019894389099892746",
       "text": "This is literally everything you need to master Claude Code: https://t.co/HS1fJXKKdt",
       "fullText": "This is literally everything you need to master Claude Code: https://t.co/HS1fJXKKdt",
@@ -3010,6 +3038,20 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2020317149152297341",
+      "text": "I made a mini browser that sees the web like an AI\n\nIntroducing: md-browse. free, open source\n\nGo make your websites and docs AI-friendly!\nhttps://t.co/rwv8I003gt https://t.co/LlWN1VsxG3",
+      "fullText": "I made a mini browser that sees the web like an AI\n\nIntroducing: md-browse. free, open source\n\nGo make your websites and docs AI-friendly!\nhttps://t.co/rwv8I003gt https://t.co/LlWN1VsxG3",
+      "author": "hybridherbst",
+      "authorName": "herbst",
+      "url": "https://x.com/hybridherbst/status/2020317149152297341",
+      "likes": 381,
+      "retweets": 19,
+      "date": null,
+      "dateStr": "Sun Feb 08 02:01:58 +0000 2026",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2020315362454376448/img/hJ4KYsbdiH6BgsL9.jpg:small"
+    },
+    {
       "id": "2019568360284209550",
       "text": "@shipscode Google 3d tiles",
       "fullText": "@shipscode Google 3d tiles",
@@ -5754,6 +5796,76 @@
   ],
   "Design & UI": [
     {
+      "id": "2020176952527900988",
+      "text": "landing and takeoff UI #threejs https://t.co/HdXb5kqn2B",
+      "fullText": "landing and takeoff UI #threejs https://t.co/HdXb5kqn2B",
+      "author": "taylor_sntx",
+      "authorName": "Taylor",
+      "url": "https://x.com/taylor_sntx/status/2020176952527900988",
+      "likes": 90,
+      "retweets": 6,
+      "date": null,
+      "dateStr": "Sat Feb 07 16:44:53 +0000 2026",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2020176894507761664/img/YLXdho8LqVRPRwyB.jpg:small"
+    },
+    {
+      "id": "2020052613778362565",
+      "text": "Orbital Factory https://t.co/5fS043kgTl",
+      "fullText": "Orbital Factory https://t.co/5fS043kgTl",
+      "author": "RuiHuang_art",
+      "authorName": "Rui Huang",
+      "url": "https://x.com/RuiHuang_art/status/2020052613778362565",
+      "likes": 12506,
+      "retweets": 1336,
+      "date": null,
+      "dateStr": "Sat Feb 07 08:30:48 +0000 2026",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2020052412770447362/img/BrWdokXOmKsnJZiu.jpg:small"
+    },
+    {
+      "id": "2019800392788480318",
+      "text": "Paint Trails \ud83c\udf31 #indygame #gamedev #godot https://t.co/hOGrfkm7hO",
+      "fullText": "Paint Trails \ud83c\udf31 #indygame #gamedev #godot https://t.co/hOGrfkm7hO",
+      "author": "lowpolylover",
+      "authorName": "Lowpolylover",
+      "url": "https://x.com/lowpolylover/status/2019800392788480318",
+      "likes": 780,
+      "retweets": 29,
+      "date": null,
+      "dateStr": "Fri Feb 06 15:48:34 +0000 2026",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2019800341613817858/img/CxqynoMtApxg5f11.jpg:small"
+    },
+    {
+      "id": "2020262404865528058",
+      "text": "Sometime in the mid 2000s they conspired to make this shade of blue illegal https://t.co/s7n3coMsUm",
+      "fullText": "Sometime in the mid 2000s they conspired to make this shade of blue illegal https://t.co/s7n3coMsUm",
+      "author": "joeybeastmarket",
+      "authorName": "Moongazer",
+      "url": "https://x.com/joeybeastmarket/status/2020262404865528058",
+      "likes": 13934,
+      "retweets": 1336,
+      "date": null,
+      "dateStr": "Sat Feb 07 22:24:26 +0000 2026",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2020262345444839424/img/VxflmO-IDnpoh1VQ.jpg:small"
+    },
+    {
+      "id": "2020120358997684293",
+      "text": "It costs $0.00 to support a background illustrator \u2728 https://t.co/f2kB4pyPnh",
+      "fullText": "It costs $0.00 to support a background illustrator \u2728 https://t.co/f2kB4pyPnh",
+      "author": "Omorphia1",
+      "authorName": "Omorphia | Background Art Illustrator \ud83c\udf90",
+      "url": "https://x.com/Omorphia1/status/2020120358997684293",
+      "likes": 39436,
+      "retweets": 4719,
+      "date": null,
+      "dateStr": "Sat Feb 07 13:00:00 +0000 2026",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HAcoG4ZaUAAlEg0.jpg:small"
+    },
+    {
       "id": "2018782189870272703",
       "text": "Add some motion to your static dither graphics.\n\nThe trick is using a \"Blue Noise\" dither underneath the ASCII dither. Blue noise is a very uniformly distributed random that feels almost as smooth as procedural noise. \n\nThe result is this pleasing shimmer effect. https://t.co/FUwJkCuVCI",
       "fullText": "Add some motion to your static dither graphics.\n\nThe trick is using a \"Blue Noise\" dither underneath the ASCII dither. Blue noise is a very uniformly distributed random that feels almost as smooth as procedural noise. \n\nThe result is this pleasing shimmer effect. https://t.co/FUwJkCuVCI",
@@ -6627,6 +6739,20 @@
     }
   ],
   "Business & SaaS": [
+    {
+      "id": "2020213386571837902",
+      "text": "This is one of the most underrated observations in tech right now. if AI commoditizes software, what's actually safe?\n- regulated and liability-bearing businesses (someone has to be on the hook)\n- anything touching the physical world (hardware, manufacturing, energy)\n- proprietary data sets (AI makes your data more valuable, not less)\n- marketplaces and businesses with network effects (liquidity > software)\n- operationally intense businesses (the \"bad\" businesses become the best ones)\n- cybersecurity and physical security (more AI = more attack surface)",
+      "fullText": "This is one of the most underrated observations in tech right now. if AI commoditizes software, what's actually safe?\n- regulated and liability-bearing businesses (someone has to be on the hook)\n- anything touching the physical world (hardware, manufacturing, energy)\n- proprietary data sets (AI makes your data more valuable, not less)\n- marketplaces and businesses with network effects (liquidity > software)\n- operationally intense businesses (the \"bad\" businesses become the best ones)\n- cybersecurity and physical security (more AI = more attack surface)",
+      "author": "michaelxbloch",
+      "authorName": "Michael Bloch",
+      "url": "https://x.com/michaelxbloch/status/2020213386571837902",
+      "likes": 671,
+      "retweets": 59,
+      "date": null,
+      "dateStr": "Sat Feb 07 19:09:39 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2017303906179481839",
       "text": "@jeffrey_way https://t.co/rc5GHb2B3S not only because it's not a subscription. it has WAY more bells and whistles than the rest of them. and more coming soon \ud83d\udc40",
