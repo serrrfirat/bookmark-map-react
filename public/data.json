@@ -1,6 +1,18 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2022714386712776875",
+      "text": "Automation skills for AI agents https://t.co/lWdlD2Iv9F https://t.co/RpqsZdnrRO",
+      "fullText": "Automation skills for AI agents\nhttps://t.co/lWdlD2Iv9F https://t.co/RpqsZdnrRO",
+      "author": "tom_doerr",
+      "authorName": "Tom Dörr",
+      "url": "https://x.com/tom_doerr/status/2022714386712776875",
+      "likes": 0,
+      "dateStr": "Sat Feb 14 16:47:44 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2022334105820471632",
       "text": "give your OpenClaw these 2 skills & get millions of tikt0k views this month",
       "fullText": "give your OpenClaw these 2 skills & get millions of tikt0k views this month\n\nand 1000s of free downloads to your mobile app...\n\nhere's how, with prompts and links to 2 skills i made just for this for my own OpenClaw:\n\nfirst off, either copy and paste the following prompt into your OpenClaw, or use the skills i made directly - the skills are just markdown you can view with nothing of harm inside of them, this is the better route IMO to give full context and not have to repeat yourself.\n\n- links to skills to give your OpenClaw -\n\nb2c mobile app marketing: https://t.co/lsh9vAcRFu\n\nsocial media manager skill via post-bridge:\nhttps://t.co/gE5mTKPZp4\n\nprompt if prefered:\n------ START OF PROMPT ------\n\nYou are my social media manager for my B2C mobile app. Your job is to help me get thousands of free downloads through organic short-form video content on TikTok, Instagram Reels, and YouTube Shorts.\n\nHere's how we work:\n\nACCOUNT WARMUP: If I'm starting a new account, remind me to scroll 15 min/day for 2-3 days in my target audience niche before posting. Follow, comment, and like relevant posts to train the algorithm.\n\nCONTENT RESEARCH: Browse competitor accounts I share with you. Sort by Popular on TikTok. Note what's going viral — caption patterns, hooks, video length, formats. Save findings for reference.\n\nCAPTION WRITING: Use this hook formula — [Another person] + [conflict/doubt] → showed them [app/result] → they changed their mind. Always use \"pov:\" framing, emotional triggers, and max 4-5 hashtags. Never name the app in the caption — let comments ask \"what app?\"\n\nPOSTING: Use Post Bridge API (https://t.co/FbSKC6labr) to upload and schedule content across all platforms simultaneously. Send TikTok as draft so I can add trending sound manually. Set video cover to 3 seconds. Give me the TikTok caption in a copy-paste code block with every post.\n\nTRACKING: After each post, move the video file to a posted/ folder. Check post status 5 mins after scheduled time and report results. Track what performs best and double down on winners.\n\nStart with 1 post/day. Once we find a winning format, scale to 2-6/day. Quality over quantity — 1 creative post beats 5 pieces of slop.\n\nTo get started: I need to give you my Post Bridge API key and the API docs from https://t.co/2axSrzFEvc. Then connect my social accounts on https://t.co/Tyvpr1DQEL and tell you the video folder path.\n\n------ END OF PROMPT ------\n\n++ bonus read is the article linked below, it's got the sauce i made my skills off of and my own pinned tweet experience getting 200,000+ downloads for $0 using organic content I MADE ON MY OWN, now you can do this using help of your OpenClaw and its 10x more fun like a cofounder.",
@@ -3172,6 +3184,30 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2022673605071638573",
+      "text": "claude code enhancement prompt: please set my terminal line height to 1.3 ✨enjoy your new reading experience",
+      "fullText": "claude code enhancement\nprompt:\nplease set my terminal line height to 1.3\n✨enjoy your new reading experience",
+      "author": "mds",
+      "authorName": "MDS",
+      "url": "https://x.com/mds/status/2022673605071638573",
+      "likes": 0,
+      "dateStr": "Sat Feb 14 14:05:41 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2022595248992719212",
+      "text": "I’ve released three-simplecloth, an npm module for @threejs that enables vertex-painted cloth simulation directly on your mesh, designed to integrate smoothly with animated models. (Requires WebGPU renderer) Feedback and contributions are w",
+      "fullText": "I’ve released three-simplecloth, an npm module for @threejs that enables vertex-painted cloth simulation directly on your mesh, designed to integrate smoothly with animated models. (Requires WebGPU renderer) Feedback and contributions are welcome. Demo and source code below ⬇️ https://t.co/oeevKUfVG3",
+      "author": "bandinopla",
+      "authorName": "Bandinopla",
+      "url": "https://x.com/bandinopla/status/2022595248992719212",
+      "likes": 0,
+      "dateStr": "Sat Feb 14 08:54:20 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2019568360284209550",
       "text": "@shipscode Google 3d tiles",
       "fullText": "@shipscode Google 3d tiles",
@@ -5995,6 +6031,42 @@
   ],
   "Design & UI": [
     {
+      "id": "2022954306253758521",
+      "text": "#あんずとUnity 壁際を検知して自動で草を生成したり、良い具合にレンガ風のテクスチャを出したり、雲の動きやら... めちゃくちゃワクワクするビジュアルになってきた！ たのしいーーーー！！ #Unity #indiedev #ゲーム開発 #ゲーム制作 https://t.co/X3iDDhIFaM",
+      "fullText": "#あんずとUnity\n壁際を検知して自動で草を生成したり、良い具合にレンガ風のテクスチャを出したり、雲の動きやら...\nめちゃくちゃワクワクするビジュアルになってきた！\nたのしいーーーー！！\n#Unity #indiedev #ゲーム開発 #ゲーム制作 https://t.co/X3iDDhIFaM",
+      "author": "AnzuTekno",
+      "authorName": "あんずてくの@個人ゲーム開発",
+      "url": "https://x.com/AnzuTekno/status/2022954306253758521",
+      "likes": 0,
+      "dateStr": "Sun Feb 15 08:41:05 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2022679724305068162",
+      "text": "All this Diablo 2 new character excitement has got me thinking about the eventual Corpse Kings ARPG. https://t.co/cVmwCG5Dz0",
+      "fullText": "All this Diablo 2 new character excitement has got me thinking about the eventual Corpse Kings ARPG. https://t.co/cVmwCG5Dz0",
+      "author": "CorpseKings",
+      "authorName": "Corpse Kings",
+      "url": "https://x.com/CorpseKings/status/2022679724305068162",
+      "likes": 0,
+      "dateStr": "Sat Feb 14 14:30:00 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2022595925227483319",
+      "text": "UI/UX Designers, this might be one of the most creative color tools I’ve seen in a while. ColorPalette Pro is a platform that treats color like a synthesiser for color, turning palette building into a fun, music-hardware-style experience. B",
+      "fullText": "UI/UX Designers, this might be one of the most creative color tools I’ve seen in a while.\nColorPalette Pro is a platform that treats color like a synthesiser for color, turning palette building into a fun, music-hardware-style experience.\nBookmark it for later 💜 https://t.co/C9ygulj6NF",
+      "author": "Abmankendrick",
+      "authorName": "Abraham John 🦄🦓",
+      "url": "https://x.com/Abmankendrick/status/2022595925227483319",
+      "likes": 0,
+      "dateStr": "Sat Feb 14 08:57:01 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2021160634428309908",
       "text": "Google just dropped a Duolingo killer for free 🤯\n\nIt's called Little Language Lessons. It generates custom conversation partners, slang guides, and visual vocab decks for 40+ languages.\n\n✓ 40+ Languag",
       "fullText": "Google just dropped a Duolingo killer for free 🤯\n\nIt's called Little Language Lessons. It generates custom conversation partners, slang guides, and visual vocab decks for 40+ languages.\n\n✓ 40+ Languages ( English, German, Chinese... more )\n✓ 0% Subscription fees.\n✓ 100% Real-world utility.",
@@ -7133,6 +7205,18 @@
   ],
   "Business & SaaS": [
     {
+      "id": "2022788750388998543",
+      "text": "https://t.co/tjmbT5ytUN",
+      "fullText": "https://t.co/tjmbT5ytUN",
+      "author": "RayDalio",
+      "authorName": "Ray Dalio",
+      "url": "https://x.com/RayDalio/status/2022788750388998543",
+      "likes": 0,
+      "dateStr": "Sat Feb 14 21:43:14 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2017303906179481839",
       "text": "@jeffrey_way https://t.co/rc5GHb2B3S not only because it's not a subscription. it has WAY more bells and whistles than the rest of them. and more coming soon 👀",
       "fullText": "@jeffrey_way https://t.co/rc5GHb2B3S not only because it's not a subscription. it has WAY more bells and whistles than the rest of them. and more coming soon 👀",
@@ -8270,6 +8354,18 @@
     }
   ],
   "Tools & Apps": [
+    {
+      "id": "2022567275228729645",
+      "text": "Everyone should spend 1 minute to improve their life and install Orbstack",
+      "fullText": "Everyone should spend 1 minute to improve their life and install Orbstack",
+      "author": "DanielLockyer",
+      "authorName": "Daniel Lockyer",
+      "url": "https://x.com/DanielLockyer/status/2022567275228729645",
+      "likes": 0,
+      "dateStr": "Sat Feb 14 07:03:10 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2020849654003331130",
       "text": "made this in 2 days",
@@ -11350,6 +11446,30 @@
     }
   ],
   "General": [
+    {
+      "id": "2022997405239808340",
+      "text": "30-sec trailer during SuperBowl: $8,000,000 Posting a teaser on X: Free https://t.co/eVjmmjz83P",
+      "fullText": "30-sec trailer during SuperBowl:\n$8,000,000\nPosting a teaser on X:\nFree https://t.co/eVjmmjz83P",
+      "author": "cemukadev",
+      "authorName": "cemuka | Making Knightborn",
+      "url": "https://x.com/cemukadev/status/2022997405239808340",
+      "likes": 0,
+      "dateStr": "Sun Feb 15 11:32:21 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2022672178152640764",
+      "text": "https://t.co/E4feya5Vvh",
+      "fullText": "https://t.co/E4feya5Vvh",
+      "author": "DailyArchX",
+      "authorName": "Architecture",
+      "url": "https://x.com/DailyArchX/status/2022672178152640764",
+      "likes": 0,
+      "dateStr": "Sat Feb 14 14:00:01 +0000 2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2022292733000597619",
       "text": "https://t.co/l44RfoK11I",
