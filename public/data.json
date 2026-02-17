@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2023386898455261360",
+      "text": "ANNOUNCEMENT: We've built a coding agent that beats Claude Code on long tasks. ",
+      "fullText": "ANNOUNCEMENT: We've built a coding agent that beats Claude Code on long tasks. \n\nToday we're releasing it for free. Meet Volt: The coding agent who never forgets. \n\n→ Dominates Claude Code on the OOLONG long-context benchmark, including at every length from 32K to 1M tokens. \n\n→ Has unlimited recall. No more amnesia. Volt can code for weeks in a single coherent session. \n\n→ Massively parallel. One tool call can process thousands of tasks. Like \"Map\" for LLMs. \n→ Open source and model agnostic. Try Volt today with @OpenRouterAI or your API of choice. \n\nVolt's performance is the result of a new architecture, Lossless Context Management (LCM), which applies lessons from the history of operating systems and programming languages to LLMs. \n\nLCM is like paged virtual memory, except for managing context: \n\n- Layer 1. An immutable append-only store of everything that occurs in the coding session.\n\n- Layer 2. The active \"context window\" which functions like a cache layer for navigating to the appropriate section(s) of Layer 1 via a high-fanout DAG. \n\nFrom a user perspective, this feels like an infinite context window, because the model never forgets and performance stays crisp. \n\nFor the technical details, read our paper: https://t.co/wuyz3osmJh\n\nFor the code, go to https://t.co/tBGzZWyngT. \n\nOr get started with one line: \ncurl -fsSL https://t.co/sIHoG3zHfQ | sh",
+      "author": "Voltropy",
+      "authorName": "Voltropy",
+      "url": "https://x.com/Voltropy/status/2023386898455261360",
+      "likes": 37,
+      "retweets": 5,
+      "date": 1771248003000,
+      "dateStr": "Yesterday",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBQ85LfbsAEhQB6.png:small"
+    },
+    {
       "id": "2022714386712776875",
       "text": "Automation skills for AI agents https://t.co/lWdlD2Iv9F https://t.co/RpqsZdnrRO",
       "fullText": "Automation skills for AI agents\nhttps://t.co/lWdlD2Iv9F https://t.co/RpqsZdnrRO",
@@ -3184,6 +3198,62 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2023756828740313545",
+      "text": "Updated the hello-terrain library to alpha.5.  Now you can provide an elevation function using #threejs's #TSL to create procedural terrains or consume heightmaps (or both). ⛰️ ",
+      "fullText": "Updated the hello-terrain library to alpha.5.  Now you can provide an elevation function using #threejs's #TSL to create procedural terrains or consume heightmaps (or both). ⛰️ \n\nhttps://t.co/s8MbE8q9dR https://t.co/lYS2pQ53Va",
+      "author": "KennyPirman",
+      "authorName": "Kenneth Pirman 🔮",
+      "url": "https://x.com/KennyPirman/status/2023756828740313545",
+      "likes": 14,
+      "retweets": 2,
+      "date": 1771336202000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBXUHFTW8AAykDE.jpg:small"
+    },
+    {
+      "id": "2023626173654200404",
+      "text": "Quick ASCII wireframe prototyping tool https://t.co/88pTy32Olz https://t.co/7p9aNMFqik",
+      "fullText": "Quick ASCII wireframe prototyping tool https://t.co/88pTy32Olz https://t.co/7p9aNMFqik",
+      "author": "bbssppllvv",
+      "authorName": "Mike Bespalov",
+      "url": "https://x.com/bbssppllvv/status/2023626173654200404",
+      "likes": 1787,
+      "retweets": 128,
+      "date": 1771305051000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBVccXAXAAAtt1_.jpg:small"
+    },
+    {
+      "id": "2023427001588273157",
+      "text": "built an open source asset processing library that runs 100% in browser with webGPU",
+      "fullText": "built an open source asset processing library that runs 100% in browser with webGPU\n\n1) build pipelines with the node editor\n2) run them in your web app using the runtime\n\ntry it out → https://t.co/gHjkW24Slc https://t.co/8UVSqSTHtR",
+      "author": "KMkota0",
+      "authorName": "Xavier (Jack)",
+      "url": "https://x.com/KMkota0/status/2023427001588273157",
+      "likes": 1129,
+      "retweets": 61,
+      "date": 1771257565000,
+      "dateStr": "Yesterday",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2023426683626205185/img/GPWJPVfGHU0yDRFQ.jpg:small"
+    },
+    {
+      "id": "2023412059644539005",
+      "text": "Hiroshi Yoshida - Color woodblock prints from the series United States of America. https://t.co/hUFnecZkJ6",
+      "fullText": "Hiroshi Yoshida - Color woodblock prints from the series United States of America. https://t.co/hUFnecZkJ6",
+      "author": "artenpedia",
+      "authorName": "Art Encyclopedia",
+      "url": "https://x.com/artenpedia/status/2023412059644539005",
+      "likes": 5021,
+      "retweets": 664,
+      "date": 1771254002000,
+      "dateStr": "Yesterday",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBRyXhCacAA-fIf.jpg:small"
+    },
+    {
       "id": "2023103184655523985",
       "text": "EdelweissTheGame (in development): house building system preview - short video #UnrealEngine5 #indiedev #gamedev #pcgaming #StrategyGames https://t.co/MYq7KXDj7m",
       "fullText": "EdelweissTheGame (in development): house building system preview - short video #UnrealEngine5 #indiedev #gamedev #pcgaming #StrategyGames https://t.co/MYq7KXDj7m",
@@ -6044,6 +6114,20 @@
     }
   ],
   "Design & UI": [
+    {
+      "id": "2023497853046604227",
+      "text": "npm install unicode-animations https://t.co/sOMPjngOBB",
+      "fullText": "npm install unicode-animations https://t.co/sOMPjngOBB",
+      "author": "gunnargray",
+      "authorName": "Gunnar Gray",
+      "url": "https://x.com/gunnargray/status/2023497853046604227",
+      "likes": 1073,
+      "retweets": 58,
+      "date": 1771274457000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBToLn8a8AADJyV.png:small"
+    },
     {
       "id": "2022954306253758521",
       "text": "#あんずとUnity 壁際を検知して自動で草を生成したり、良い具合にレンガ風のテクスチャを出したり、雲の動きやら... めちゃくちゃワクワクするビジュアルになってきた！ たのしいーーーー！！ #Unity #indiedev #ゲーム開発 #ゲーム制作 https://t.co/X3iDDhIFaM",
@@ -11502,6 +11586,62 @@
     }
   ],
   "General": [
+    {
+      "id": "2023719682285691355",
+      "text": "How large is your artistic range? https://t.co/GGesyZX7HD",
+      "fullText": "How large is your artistic range? https://t.co/GGesyZX7HD",
+      "author": "RajaNandepu",
+      "authorName": "Raja Nandepu",
+      "url": "https://x.com/RajaNandepu/status/2023719682285691355",
+      "likes": 507,
+      "retweets": 41,
+      "date": 1771327345000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBWyB1pbcAUdUwR.jpg:small"
+    },
+    {
+      "id": "2023660612241228117",
+      "text": "90’s anime art style will forever be a vibe https://t.co/7Rw35RWTCg",
+      "fullText": "90’s anime art style will forever be a vibe https://t.co/7Rw35RWTCg",
+      "author": "retrroanime",
+      "authorName": "Retro Anime",
+      "url": "https://x.com/retrroanime/status/2023660612241228117",
+      "likes": 5448,
+      "retweets": 1016,
+      "date": 1771313262000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2023660551872839680/img/0_82mw0H2WvslaWY.jpg:small"
+    },
+    {
+      "id": "2023536120093700519",
+      "text": "New home https://t.co/a6RrsKjGj1",
+      "fullText": "New home https://t.co/a6RrsKjGj1",
+      "author": "archdrawsalot",
+      "authorName": "Archie",
+      "url": "https://x.com/archdrawsalot/status/2023536120093700519",
+      "likes": 27114,
+      "retweets": 2979,
+      "date": 1771283581000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBULX58XEAARMaU.jpg:small"
+    },
+    {
+      "id": "2023417294672777417",
+      "text": "Has everyone seen my art yet? 🤔 https://t.co/1rciouQbTM",
+      "fullText": "Has everyone seen my art yet? 🤔 https://t.co/1rciouQbTM",
+      "author": "Lasha3D",
+      "authorName": "Lasha3D",
+      "url": "https://x.com/Lasha3D/status/2023417294672777417",
+      "likes": 478,
+      "retweets": 35,
+      "date": 1771255250000,
+      "dateStr": "Yesterday",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBSfQr9bsAAYdle.jpg:small"
+    },
     {
       "id": "2023414062000824383",
       "text": "GLM-5 just nailed this liquid front end in one shot. ",
