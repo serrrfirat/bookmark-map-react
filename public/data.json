@@ -3240,6 +3240,20 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2024870857609216151",
+      "text": "44 regex patterns for prompt injection detection.",
+      "fullText": "44 regex patterns for prompt injection detection.\n\nbrilliant. https://t.co/il80Zt4cB6",
+      "author": "badlogicgames",
+      "authorName": "Mario Zechner",
+      "url": "https://x.com/badlogicgames/status/2024870857609216151",
+      "likes": 249,
+      "retweets": 7,
+      "date": 1771601807000,
+      "dateStr": "Yesterday",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBnJL05XgAAhvMP.jpg:small"
+    },
+    {
       "id": "2024515509241381132",
       "text": "built a small CLI tool that moves your AI coding session context between Claude Code, Gemini, Copilot, Codex and OpenCode when you hit rate limits. ",
       "fullText": "built a small CLI tool that moves your AI coding session context between Claude Code, Gemini, Copilot, Codex and OpenCode when you hit rate limits. \n\nno more re-explaining what you were doing, or painful copy/paste from terminal that lose tool-call context.\n\njust `npx continues` https://t.co/SbYsWsXtS9",
@@ -7301,6 +7315,20 @@
     }
   ],
   "Robotics & Hardware": [
+    {
+      "id": "2024938104403197994",
+      "text": "Lay of the Land is an upcoming sandbox adventure game developed solo by Tooley.",
+      "fullText": "Lay of the Land is an upcoming sandbox adventure game developed solo by Tooley.\n\nSet for release on Steam on April 8, it features fully physics-simulated worlds and procedural generation across varied biomes\nhttps://t.co/EfPOE56EFB",
+      "author": "Pirat_Nation",
+      "authorName": "Pirat_Nation 🔴",
+      "url": "https://x.com/Pirat_Nation/status/2024938104403197994",
+      "likes": 1893,
+      "retweets": 96,
+      "date": 1771617840000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2024625355055910921/img/lIdKZtRZZucK45MM.jpg:small"
+    },
     {
       "id": "2023357137905410389",
       "text": "Witchbrook 2026🍂",
