@@ -3240,6 +3240,20 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2025278306858246376",
+      "text": "Seaside village https://t.co/HHRP5sjaPe",
+      "fullText": "Seaside village https://t.co/HHRP5sjaPe",
+      "author": "Gentleman_1965",
+      "authorName": "♠️ Gentleman ♠️",
+      "url": "https://x.com/Gentleman_1965/status/2025278306858246376",
+      "likes": 564,
+      "retweets": 65,
+      "date": 1771698950000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBs74z8XcAEC4wS.jpg:small"
+    },
+    {
       "id": "2024870857609216151",
       "text": "44 regex patterns for prompt injection detection.",
       "fullText": "44 regex patterns for prompt injection detection.\n\nbrilliant. https://t.co/il80Zt4cB6",
@@ -7315,6 +7329,34 @@
     }
   ],
   "Robotics & Hardware": [
+    {
+      "id": "2025429415279083772",
+      "text": "World simulator with real-time interactivity",
+      "fullText": "World simulator with real-time interactivity\n\nhttps://t.co/QG6WHUNMRl https://t.co/fDXW25rY0I",
+      "author": "tom_doerr",
+      "authorName": "Tom Dörr",
+      "url": "https://x.com/tom_doerr/status/2025429415279083772",
+      "likes": 94,
+      "retweets": 11,
+      "date": 1771734977000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBvFUf5WcAAmDfI.png:small"
+    },
+    {
+      "id": "2025284207820357715",
+      "text": "Framework for quadruped robots on Arduino and Raspberry Pi",
+      "fullText": "Framework for quadruped robots on Arduino and Raspberry Pi\n\nhttps://t.co/MSFrTKHwVz https://t.co/2vkGBaRGXv",
+      "author": "tom_doerr",
+      "authorName": "Tom Dörr",
+      "url": "https://x.com/tom_doerr/status/2025284207820357715",
+      "likes": 430,
+      "retweets": 48,
+      "date": 1771700357000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBtBQT2W8AAO3zS.png:small"
+    },
     {
       "id": "2024938104403197994",
       "text": "Lay of the Land is an upcoming sandbox adventure game developed solo by Tooley.",
@@ -11726,6 +11768,48 @@
     }
   ],
   "General": [
+    {
+      "id": "2025496534041891040",
+      "text": "Maps in all their glory – a little retrospect on the ones that were part of our gaming journey. https://t.co/wwSpHXyzFT",
+      "fullText": "Maps in all their glory – a little retrospect on the ones that were part of our gaming journey. https://t.co/wwSpHXyzFT",
+      "author": "exQUIZitely",
+      "authorName": "exQUIZitely 🕹️",
+      "url": "https://x.com/exQUIZitely/status/2025496534041891040",
+      "likes": 121,
+      "retweets": 10,
+      "date": 1771750980000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2025359548504997889/img/wDmgxTG3fHNlyjze.jpg:small"
+    },
+    {
+      "id": "2025290860607279202",
+      "text": "Exploring abandoned rural areas of Spain 🏚️🌳",
+      "fullText": "Exploring abandoned rural areas of Spain 🏚️🌳\nConcept art for DETOUR by @DaenisMynd \n\n#DETOURgame #conceptart #gamedev #conceptartist https://t.co/Wq1vWVrLa8",
+      "author": "alafrescastudio",
+      "authorName": "A la fresca studio | DETOUR",
+      "url": "https://x.com/alafrescastudio/status/2025290860607279202",
+      "likes": 29,
+      "retweets": 1,
+      "date": 1771701943000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBtHPjRX0AAJJee.jpg:small"
+    },
+    {
+      "id": "2025243597592035563",
+      "text": "Now I need to shape a surfboard #screenshotsaturaday  #indiegame #indiegamedev #gamedev #madewithunity #unity3d https://t.co/Q19asf1coo",
+      "fullText": "Now I need to shape a surfboard #screenshotsaturaday  #indiegame #indiegamedev #gamedev #madewithunity #unity3d https://t.co/Q19asf1coo",
+      "author": "nocanwin",
+      "authorName": "nocanwin - Rubble Eats The World",
+      "url": "https://x.com/nocanwin/status/2025243597592035563",
+      "likes": 116,
+      "retweets": 6,
+      "date": 1771690675000,
+      "dateStr": "Yesterday",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2025243425822674944/img/lOAPM4nlHeVlS5dI.jpg:small"
+    },
     {
       "id": "2024745029873373551",
       "text": "Generates maps for writers and masters",
