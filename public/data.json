@@ -1,6 +1,34 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2026245071671357752",
+      "text": "Seedream 5.0 is here. Create stunning images from text, single photos, or multiple references, with support for style blending, batch generation, and precise editing. https://t.co/Y9H8jOi99u",
+      "fullText": "Seedream 5.0 is here. Create stunning images from text, single photos, or multiple references, with support for style blending, batch generation, and precise editing. https://t.co/Y9H8jOi99u",
+      "author": "replicate",
+      "authorName": "Replicate",
+      "url": "https://x.com/replicate/status/2026245071671357752",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1771929445000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2025893835327316138",
+      "text": "The Codex team added a Codex skill to babysit PR on their repo, I want to try that myself and see how that works. It tries to ensure the CI passes, that all comments are resolved, etc. Code review is ",
+      "fullText": "The Codex team added a Codex skill to babysit PR on their repo, I want to try that myself and see how that works. It tries to ensure the CI passes, that all comments are resolved, etc. Code review is where the biggest bottleneck is right now. https://t.co/4NNvBP0ga1",
+      "author": "Dimillian",
+      "authorName": "Thomas Ricouard",
+      "url": "https://x.com/Dimillian/status/2025893835327316138",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1771845704000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2024539530699689996",
       "text": "finally, official LLM skills for 3d in react 🤖",
       "fullText": "finally, official LLM skills for 3d in react 🤖",
@@ -6254,6 +6282,20 @@
     }
   ],
   "Design & UI": [
+    {
+      "id": "2025991708429979780",
+      "text": "What if your UI had physical mass? https://t.co/s1weWiLVz7",
+      "fullText": "What if your UI had physical mass? https://t.co/s1weWiLVz7",
+      "author": "flornkm",
+      "authorName": "Florian",
+      "url": "https://x.com/flornkm/status/2025991708429979780",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1771869039000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2023497853046604227",
       "text": "npm install unicode-animations https://t.co/sOMPjngOBB",
