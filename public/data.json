@@ -1,6 +1,34 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2027013524048769458",
+      "text": "Starter kit for towns of autonomous agents",
+      "fullText": "Starter kit for towns of autonomous agents\n\nhttps://t.co/6QJwEK8WWm https://t.co/V0AdD3iKuO",
+      "author": "tom_doerr",
+      "authorName": "Tom Dörr",
+      "url": "https://x.com/tom_doerr/status/2027013524048769458",
+      "likes": 97,
+      "retweets": 11,
+      "date": 1772112658000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HCFmDu6WUAAuU2L.png:small"
+    },
+    {
+      "id": "2026531052613968019",
+      "text": "Just tried Paper MCP for Claude. This is wild🔥 https://t.co/TJiOQy3Cxi",
+      "fullText": "Just tried Paper MCP for Claude. This is wild🔥 https://t.co/TJiOQy3Cxi",
+      "author": "shashpicious_",
+      "authorName": "Shashi (シャシ)",
+      "url": "https://x.com/shashpicious_/status/2026531052613968019",
+      "likes": 928,
+      "retweets": 33,
+      "date": 1771997628000,
+      "dateStr": "Yesterday",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2026530211588878343/img/LRTEpLXkJxVahUDe.jpg:small"
+    },
+    {
       "id": "2026361399190978957",
       "text": "I made an agent skill called 'YOLO Build'",
       "fullText": "I made an agent skill called 'YOLO Build'\n\nIf I'm leaving my computer for more than an hour, I run /yolo \n\nThe agent scans online, my ideas, finds something worth building, and makes it. \n\nGreat when you go afk and can't think of a specific idea\n\nhttps://t.co/W3RZFS5pe2",
@@ -11881,6 +11909,20 @@
   ],
   "General": [
     {
+      "id": "2026774022990508180",
+      "text": "@0x5am5 @mrdoob Here’s mine for WebGPU / TSL.",
+      "fullText": "@0x5am5 @mrdoob Here’s mine for WebGPU / TSL.\nhttps://t.co/ZvcBwi7K0m",
+      "author": "dangreenheck",
+      "authorName": "Dan Greenheck",
+      "url": "https://x.com/dangreenheck/status/2026774022990508180",
+      "likes": 43,
+      "retweets": 5,
+      "date": 1772055557000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2026326287606796566",
       "text": "angel in my bedroom https://t.co/bwwtTXEOx2",
       "fullText": "angel in my bedroom https://t.co/bwwtTXEOx2",
@@ -11895,6 +11937,20 @@
       "mediaUrl": "https://pbs.twimg.com/tweet_video_thumb/HB7yKgSWcAAfcGH.jpg:small"
     },
     {
+      "id": "2026284023434170493",
+      "text": "GAUSSIAN SPLATTING VOLUMETRICS!! ☁️",
+      "fullText": "GAUSSIAN SPLATTING VOLUMETRICS!! ☁️\n\nLevel up with COLMAP Bridge v1.1 by capturing any VDB, including this @jorenkandel asset, in Gaussian Splatting.\n\nDiscover the power of mathematical \"Ground Truth\" extraction directly from Cinema 4D with @OTOY for very light real-time results! https://t.co/ENoCJ3jJet",
+      "author": "leomllt",
+      "authorName": "Léo Mallet",
+      "url": "https://x.com/leomllt/status/2026284023434170493",
+      "likes": 191,
+      "retweets": 20,
+      "date": 1771938732000,
+      "dateStr": "2 days ago",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2026273207188107264/img/DUU_1KPmlYb8JGO1.jpg:small"
+    },
+    {
       "id": "2026243486471651475",
       "text": "Diane, 11:30 a m., February 24th.",
       "fullText": "Diane, 11:30 a m., February 24th.\n\nShort thread showing some wi elements before the game was canceled! ☕ https://t.co/JsZB41QXbE",
@@ -11907,6 +11963,20 @@
       "dateStr": "Yesterday",
       "mediaType": "animated_gif",
       "mediaUrl": "https://pbs.twimg.com/tweet_video_thumb/HB6psx_W0AAKjyz.jpg:small"
+    },
+    {
+      "id": "2026065875884036344",
+      "text": "sparkles on a lake that summer https://t.co/FSakAqQxwj",
+      "fullText": "sparkles on a lake that summer https://t.co/FSakAqQxwj",
+      "author": "farayofsun",
+      "authorName": "fara",
+      "url": "https://x.com/farayofsun/status/2026065875884036344",
+      "likes": 7840,
+      "retweets": 1489,
+      "date": 1771886721000,
+      "dateStr": "2 days ago",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2026064783271976960/img/0WBWs6UgQiLKXK0u.jpg:small"
     },
     {
       "id": "2025912264256307447",
