@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2027073302083301539",
+      "text": "We've crossed the rubicon where AI generates most of our code, so we rebuilt our eng interviews for our new reality https://t.co/14nxHyYFAW",
+      "fullText": "We've crossed the rubicon where AI generates most of our code, so we rebuilt our eng interviews for our new reality https://t.co/14nxHyYFAW",
+      "author": "quintendf",
+      "authorName": "Quinten Farmer",
+      "url": "https://x.com/quintendf/status/2027073302083301539",
+      "likes": 1003,
+      "retweets": 46,
+      "date": 1772126911000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HCGbwnaaoAAtUOH.jpg:small"
+    },
+    {
       "id": "2027013524048769458",
       "text": "Starter kit for towns of autonomous agents",
       "fullText": "Starter kit for towns of autonomous agents\n\nhttps://t.co/6QJwEK8WWm https://t.co/V0AdD3iKuO",
@@ -3323,6 +3337,20 @@
     }
   ],
   "Code & Dev Tools": [
+    {
+      "id": "2027155305378074960",
+      "text": "To celebrate nano-banana-2 launching on @fal , I built FalSprite, sprite sheet generator that turns a text prompt into game-ready animations.                                                           ",
+      "fullText": "To celebrate nano-banana-2 launching on @fal , I built FalSprite, sprite sheet generator that turns a text prompt into game-ready animations.                                                                                       \n                                                                                                                                                                                                                                                         \n  One https://t.co/SpUceQWzbJ key powers the whole pipeline:                                                                                                                                                                                                              \n  → nano-banana-2 for image generation                      \n  → BRIA for background removal\n  → OpenRouter LLM for prompt rewriting\n\n  ~$0.20 per generation. Try it live or fork it:\n\n  🔗 https://t.co/GAbZTKokVG\n  🔗 https://t.co/jLQoHGg8Sq\n\n  Thanks @BlendiByl  for the help on this 🙏",
+      "author": "OdinLovis",
+      "authorName": "Lovis Odin",
+      "url": "https://x.com/OdinLovis/status/2027155305378074960",
+      "likes": 1002,
+      "retweets": 92,
+      "date": 1772146462000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2027155006764580864/img/2lzpDmjQtgXkSr5L.jpg:small"
+    },
     {
       "id": "2026348251805262069",
       "text": "GPU Infinite Grass v.1.1.0 released!",
