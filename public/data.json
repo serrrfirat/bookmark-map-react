@@ -29,6 +29,20 @@
       "mediaUrl": "https://pbs.twimg.com/media/HCFmDu6WUAAuU2L.png:small"
     },
     {
+      "id": "2026621857756250215",
+      "text": "If you’re still getting shitty PPT-type animation from Gemini 3.1 Pro…",
+      "fullText": "If you’re still getting shitty PPT-type animation from Gemini 3.1 Pro…\n\nIt’s not the model.\nIt’s the prompt.\n\nHere’s what actually works for me:\n- Don’t mix planning + implementation in one go\n- Break down prompt into clear scene structure\n- Specify timing, states, triggers, effects\n\nOnce you have clear structured scene-based prompt, output quality jumps instantly.\n\nBelow is a quick break down of what I mean\n\nWe also baked this into a “Product Launch Animation” skill inside Superdesign.",
+      "author": "jasonzhou1993",
+      "authorName": "Jason Zhou",
+      "url": "https://x.com/jasonzhou1993/status/2026621857756250215",
+      "likes": 147,
+      "retweets": 6,
+      "date": 1772019278000,
+      "dateStr": "2 days ago",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2026615730146533376/img/QFDzjaT0mBdP-tbR.jpg:small"
+    },
+    {
       "id": "2026531052613968019",
       "text": "Just tried Paper MCP for Claude. This is wild🔥 https://t.co/TJiOQy3Cxi",
       "fullText": "Just tried Paper MCP for Claude. This is wild🔥 https://t.co/TJiOQy3Cxi",
@@ -99,6 +113,34 @@
       "mediaUrl": null
     },
     {
+      "id": "2025756160175796553",
+      "text": "fine, i'll build it myself, open source ofc",
+      "fullText": "fine, i'll build it myself, open source ofc\n\nLaunching Three-Maps, a rapid blockout editor for building game maps for threejs games:\n\nCreate a floor plan in 2D, automatically generate 3D levels from it, edit them, export to .glb and use in your games (see end of video)\n\nFeatures:\n- Floorplan 2D: A 2D canvas to map out the floor\n- Edit Mode for Objects: Edit Vertices/Edges/Faces, extrude, bevel, fillet and chamfer\n- Brush Mode: Rapidly build map elements with a RealtimeCSG like experience. Cubes, Stairs, Doors, Arch, Cylinder, Custom polygons. Yes, you can even curve the stairs\n- Modifiers: Yes, you read that right, slap that array modifier on your pillar and call it a day\n- Terrain Generator: Perlin, Voronoi, you name it. Oh yes, you can rasterize it and edit every single vertex in edit mode.\n\nKeyboard shortcuts are mostly same as blender to activate that muscle memory (G/R/S, axis lock XYZ)\n\nSoon:\n- AI integration. Boot that MCP and directly connect your fav AI agent to build the floorplan, generate 3D maps and more (you will love how this movie ends)\n\nIt's a little rough and in early, very early alpha so come and join as a contributor instead of calling it slop\n\nIt's all vibe coded btw, i have no idea what the code does\n\nI need this to build my game, as i'm a total blender noob and threejs is great, so why not?\n\nOutshipping every CAD and 3D startup just because i want to build a game, that's how you accelerate",
+      "author": "alightinastorm",
+      "authorName": "robot",
+      "url": "https://x.com/alightinastorm/status/2025756160175796553",
+      "likes": 856,
+      "retweets": 69,
+      "date": 1771812879000,
+      "dateStr": "4 days ago",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2025755869015605248/img/f_wz9GI2w33bEqi9.jpg:small"
+    },
+    {
+      "id": "2025645582782480827",
+      "text": "When you think you're finished with your development plan for your agent, try this prompt with a few different frontier models. You might be amazed what they come up with:",
+      "fullText": "When you think you're finished with your development plan for your agent, try this prompt with a few different frontier models. You might be amazed what they come up with:\n\n\"What's the single smartest and most radically innovative and accretive and useful and compelling addition you could make to the plan at this point?\"\n\nIf you've already started development and have a fleshed out project already, replace the word \"plan\" with \"project.\"",
+      "author": "doodlestein",
+      "authorName": "Jeffrey Emanuel",
+      "url": "https://x.com/doodlestein/status/2025645582782480827",
+      "likes": 1663,
+      "retweets": 77,
+      "date": 1771786516000,
+      "dateStr": "4 days ago",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2024539530699689996",
       "text": "finally, official LLM skills for 3d in react 🤖",
       "fullText": "finally, official LLM skills for 3d in react 🤖",
@@ -139,6 +181,20 @@
       "dateStr": "Yesterday",
       "mediaType": "video",
       "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2024286081798328321/img/zqOhSgfORkMDgYqq.jpg:small"
+    },
+    {
+      "id": "2023812711151259772",
+      "text": "I've been on/off Obsidian too but one thing that has been working well for me lately is: ",
+      "fullText": "I've been on/off Obsidian too but one thing that has been working well for me lately is: \n\nI created a /done skill that I run after every session. It takes everything that was discussed, key decisions, questions, follow-ups, dumps it into a .md file with the claude session id and branch name.\n\nHelpful when I need context later.",
+      "author": "shadcn",
+      "authorName": "shadcn",
+      "url": "https://x.com/shadcn/status/2023812711151259772",
+      "likes": 3403,
+      "retweets": 104,
+      "date": 1771349525000,
+      "dateStr": "2/17/2026",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBYGNvyWcAEehtG.jpg:small"
     },
     {
       "id": "2023386898455261360",
@@ -3352,6 +3408,48 @@
       "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2027155006764580864/img/2lzpDmjQtgXkSr5L.jpg:small"
     },
     {
+      "id": "2027045520708112390",
+      "text": "I praised conductor like crazy so its only fair I bring up issues with as well. The past 2 weeks I can barely use it.",
+      "fullText": "I praised conductor like crazy so its only fair I bring up issues with as well. The past 2 weeks I can barely use it.\n\nAt first it was performance issues and huge lag when typing or clicking.\n\nThe past week, it's completely consuming my GitHub graphql rate limits in no time (15-20 minutes???) and then all the \"in review\" status move back to \"in progress\" like they have no memory that a PR exists. Create PR button comes back (but PR already exists). It's so jarring when they bounce around.\n\nEventually rate limit resets and they jump back to correct status (even more jarring because I got use to them in wrong spot). It's legit scrambling my brain. Now I'm starting to try cmux (beach balls for me non-zero number of times an hour) and use ghostty again. That's further scrambling because now I have to remember which app I was in for which work I'm getting done.\n\nI thought maybe I could manually set status, but conductor randomly overrides my override unless I use backlog. But putting active things in backlog just feels wrong. Tried putting them in \"done\" but they bounce back to in review or in progress due to rate limits.\n\nI've heard of superset, didn't love it first run. Also saw worktrunk (all TUI which I'm kind of meh on, I like pretty mac apps and clicking).\n\nI want:\n\n- workspaces on the left with a few pinned that I'm actively working on\n- clicking on workspace gives me claudes, terminal, setup/teardown hooks, consistent port range to use and github flow (link PR is enough, claude does the rest).\n\nWhat's out there? Do I have to build something? Please say no... :D",
+      "author": "jnunemaker",
+      "authorName": "John Nunemaker",
+      "url": "https://x.com/jnunemaker/status/2027045520708112390",
+      "likes": 18,
+      "retweets": 0,
+      "date": 1772120287000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2026826887159235027",
+      "text": "We use Greptile as PR review tool. It ranks PRs.",
+      "fullText": "We use Greptile as PR review tool. It ranks PRs.\n\nSomeone manually edited their PR review score from 2/5 to 5/5.",
+      "author": "steipete",
+      "authorName": "Peter Steinberger 🦞",
+      "url": "https://x.com/steipete/status/2026826887159235027",
+      "likes": 1870,
+      "retweets": 37,
+      "date": 1772068161000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2026473288562516327",
+      "text": "I just published my first skill on Github, this is for Seedance V2, hopefully it will help so many people to write good prompt and make amazing videos. The link in the second comment, there will be 29",
+      "fullText": "I just published my first skill on Github, this is for Seedance V2, hopefully it will help so many people to write good prompt and make amazing videos. The link in the second comment, there will be 299 more skills in the coming days and weeks, my target is 300 before Gemini 4 Pro.",
+      "author": "IamEmily2050",
+      "authorName": "Emily",
+      "url": "https://x.com/IamEmily2050/status/2026473288562516327",
+      "likes": 1212,
+      "retweets": 121,
+      "date": 1771983856000,
+      "dateStr": "2 days ago",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HB96tf5W0AI6g4T.jpg:small"
+    },
+    {
       "id": "2026348251805262069",
       "text": "GPU Infinite Grass v.1.1.0 released!",
       "fullText": "GPU Infinite Grass v.1.1.0 released!\n- Unity Terrain support\n- Surface Mask shader improved\n- New surface setup workflow\n- You can now draw grass on ceilings too\n- Fixed several bugs where grass wasn't rendering in VRChat or Play Mode\nhttps://t.co/yGgAVeWH4X https://t.co/SvH2snDEsX",
@@ -3364,6 +3462,20 @@
       "dateStr": "Today",
       "mediaType": "photo",
       "mediaUrl": "https://pbs.twimg.com/media/HB8I2PiWIAI-bk-.jpg:small"
+    },
+    {
+      "id": "2026066461215883271",
+      "text": "made with shaders to render raymarched waves, post processed sparkles, and a frequency modulated halftone inspired by @MaximeHeckel :)",
+      "fullText": "made with shaders to render raymarched waves, post processed sparkles, and a frequency modulated halftone inspired by @MaximeHeckel :)",
+      "author": "farayofsun",
+      "authorName": "fara",
+      "url": "https://x.com/farayofsun/status/2026066461215883271",
+      "likes": 76,
+      "retweets": 1,
+      "date": 1771886861000,
+      "dateStr": "3 days ago",
+      "mediaType": null,
+      "mediaUrl": null
     },
     {
       "id": "2025756167876542738",
@@ -3408,6 +3520,20 @@
       "mediaUrl": "https://pbs.twimg.com/media/HBs74z8XcAEC4wS.jpg:small"
     },
     {
+      "id": "2024885035774738700",
+      "text": "We just open-sourced the system we use to manage 30 parallel AI coding agents per person.",
+      "fullText": "We just open-sourced the system we use to manage 30 parallel AI coding agents per person.\n\n40K lines of TypeScript. 3,288 tests. 17 plugins. Built in 8 days — by the agents it orchestrates.\n\nYes, we used Agent Orchestrator to build Agent Orchestrator.\n\nSome numbers:\n→ 500+ agent-hours in 24 human-hours (20x leverage)\n→ 86 of 102 PRs created by AI (84%)\n→ After Day 4, I stopped writing code entirely\n\nSpawn agents. Step away. Ship faster.",
+      "author": "agent_wrapper",
+      "authorName": "prateek",
+      "url": "https://x.com/agent_wrapper/status/2024885035774738700",
+      "likes": 1513,
+      "retweets": 267,
+      "date": 1771605187000,
+      "dateStr": "6 days ago",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HBnV-jvasAANbQu.jpg:small"
+    },
+    {
       "id": "2024870857609216151",
       "text": "44 regex patterns for prompt injection detection.",
       "fullText": "44 regex patterns for prompt injection detection.\n\nbrilliant. https://t.co/il80Zt4cB6",
@@ -3436,6 +3562,20 @@
       "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2024515034211405825/img/LLItbMX7hWbXPJ5A.jpg:small"
     },
     {
+      "id": "2024167501928812844",
+      "text": "FORGET MY PREVIOUS POST, LET ME BLOW YOUR MINDS! 🤯NEW METHOD!",
+      "fullText": "FORGET MY PREVIOUS POST, LET ME BLOW YOUR MINDS! 🤯NEW METHOD!\n\nAI 2D SPRITES ARE SOLVED. PERIOD.\n\nDay 50 of building a webGL game engine using @cursor_ai \n\n🔽🔽🔽\n\nI was wrong. The previous system had flaws. It wasn't the best. If you use it on VFX heavy sprites, it would start falling apart - either via grain/artifacts, or displacement.\n\nBut I just couldn't give up. I knew I needed something more. This was the limit the models could give me. So I consulted science:\n\nZheng et al., \"Bilateral Reference for High-Resolution Dichotomous Image Segmentation\" (CAAI AIR 2024, arXiv:2401.03407) - BiRefNet\n\nIf any of the brilliant minds who wrote this paper read this post, I'm extremely thankful for your research. It made me solve a really big problem with 2D sprites, and I'm extremely grateful! Thank you! Please reach out if you see this!\n\nNow, how does this solution work:\n\n1⃣ Generate your Kling animation (still king for anime 2D style).\n2⃣ Run BiRefNet (HR-matting variant rocks) → get solid character alpha.\n3⃣ Compute simple brightness/luminance alpha (luma → alpha curve, easy in any tool).\n4⃣ Final alpha = max(BiRefNet_alpha, brightness_alpha) — that's it. No fancy weights needed.\n5⃣ Feed to your engine / Comfy / whatever. Dynamic lights now play nice with zero artifacts.\n\nMind you, this solution requires an nVidia GPU to run local inference. Alternatively, you can get it done on Colab likely with the free tier!\n\nYou can try CPU, but no guarantees. Try a lighter model like BiRefNet_lite-2K.\n\nDemo is purposely in 30 fps even though I wouldn't run an anime 2D game above 12 fps - for both style and performance.  Just wanted to show you the absolute results.\n\nPlease bookmark this! ☑️\n\nIf you love 2D and sprite work, this is truly the best way, the best method I could find. Use it, steal it. Enjoy it! \n\nRepost if it saves your workflows too!\n\nI think I need a break... almost 40 hours straight solving this. Next are dynamic shadows, and I'm not looking forward to that...",
+      "author": "startracker",
+      "authorName": "Startracker 🔺",
+      "url": "https://x.com/startracker/status/2024167501928812844",
+      "likes": 876,
+      "retweets": 53,
+      "date": 1771434114000,
+      "dateStr": "2/18/2026",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2024167126261780480/img/RDzflroDNY9cLeCm.jpg:small"
+    },
+    {
       "id": "2023806596015444308",
       "text": "Want to prompt worlds to life?",
       "fullText": "Want to prompt worlds to life?\n\nThreeWzrd is an open source hashtag#AiAgent that can be installed via Node.js who makes 3D worlds from text prompts. \n\nEasy to run and specializes in three.js world building\n\nhttps://t.co/3ubZjhugvu https://t.co/995PiiiGzz",
@@ -3448,6 +3588,20 @@
       "dateStr": "Today",
       "mediaType": "video",
       "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2023806468647014400/img/IPrZXKkg4-jYon5h.jpg:small"
+    },
+    {
+      "id": "2023786067137359955",
+      "text": "I MADE THE BEST 2D SPRITE AI PIPELINE EVER!",
+      "fullText": "I MADE THE BEST 2D SPRITE AI PIPELINE EVER!\n\nAfter testing so much, doing tons of math, trying various different methods I finally got truly the cleanest sprite result I could ask for! You should bookmark this post! ✅\n\nI think this is the happiest 'aha' moment I've had since starting this journey.\n\nDay 48 of making a custom webGL game engine using @cursor_ai \n\n🔽🔽🔽\n\nI've been trying to solve sprites since I started this project. I came close a couple of times but it was always something - either dynamic lights wouldn't work, or the genAI results would make them grainy, or I would have to have incorrect alpha etc.\n\nAfter so much struggling, wanting to give up, thinking it's impossible - it was finally done!\n\nPerfect matte interpolation of black & white backgrounds resulting in a clean outline of the sprite, half transparent effects keeping their full quality.\n\nBut this was not enough for me. I wanted more. I wanted those dynamic lights for the most badass anime effects that I'll be creating for the next many weeks!\n\nAnd somehow, I managed to come up with the perfect balance that is nice to the eye with almost no visible imperfections or artifacts when using any kind of dynamic lights.\n\nSee for yourself!\n🔽🔽🔽\n\nHow does this magic happen?\n\n1⃣ First, the animation is created using @Kling_ai. I found it the best to keep the quality anime 2D style I wanted, but I guess others may work as well.\n\n2⃣ Then, the frames are carefully extracted at lossless quality and processed via automation through Nano Banana pass to create an opposite background (white->black or black->white).\n\n3⃣ Once we have a proper spritesheet, I then used MiDaS to compute the depth maps, and then algorithmically create PBR maps for lighting. The remaining depth maps can also be used for various effects, although haven't explored it much yet.\n\n4⃣ Finally, all elements are cut into single frames and overlapped with their respective normal maps. If done right, they're pretty much ready for runtime. \n\nI like my heroes to be 512 to truly stand out like fighting game characters, but all of this works with far smaller or bigger sprites.\n\nMind you, it's important to note that Nano Banana has a max output of 4k. Therefore you don't want to make your atlases larger than 4k - which is still quite a lot since it allows you 8x8 512 frames.\n\n💡💡💡\nI believe the output quality is beyond anything currently available, and I'll be looking into packaging the whole thing into a web app so people can use it.\n\nIf you find this useful, please repost it! I really wanted to share this method to the world. \n\nThank you for reading! Look forward to day 49 update!",
+      "author": "startracker",
+      "authorName": "Startracker 🔺",
+      "url": "https://x.com/startracker/status/2023786067137359955",
+      "likes": 1251,
+      "retweets": 80,
+      "date": 1771343173000,
+      "dateStr": "2/17/2026",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2023783407508221954/img/uXRDuw823aGuGxWQ.jpg:small"
     },
     {
       "id": "2023756828740313545",
