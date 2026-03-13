@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2031802820924436506",
+      "text": "This is one of the most impressive guides I've seen for building games with Codex. ",
+      "fullText": "This is one of the most impressive guides I've seen for building games with Codex. \n\nEven if you're not building any games, just look how impressive this is. \n\nYou're not pushing your agents enough.\n\nWe are just barely tapping into their potential.",
+      "author": "LLMJunky",
+      "authorName": "am.will",
+      "url": "https://x.com/LLMJunky/status/2031802820924436506",
+      "likes": 3151,
+      "retweets": 172,
+      "date": 1773254516000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2028022503319203926",
       "text": "We just open-sourced Mission Control — our dashboard for AI agent orchestration.",
       "fullText": "We just open-sourced Mission Control — our dashboard for AI agent orchestration.\n\n26 panels. Real-time WebSocket + SSE. SQLite — no external services needed.\n\nKanban board, cost tracking, role-based access, quality gates, and multi-gateway support.\n\nOne pnpm start, and you're running.\n\nhttps://t.co/GVybvosdmI",
@@ -13,6 +27,34 @@
       "dateStr": "3/1/2026",
       "mediaType": null,
       "mediaUrl": null
+    },
+    {
+      "id": "2027451712131440653",
+      "text": "we built an extremely good code search agent.",
+      "fullText": "we built an extremely good code search agent.\n\nit’s called tracer, and it can search across the entire github in less than 5 minutes and come back with a clean report.\n\nyou can try it by running 'bunx nia-wizard' https://t.co/Yu1BHNUPVv",
+      "author": "arlanr",
+      "authorName": "Arlan",
+      "url": "https://x.com/arlanr/status/2027451712131440653",
+      "likes": 731,
+      "retweets": 41,
+      "date": 1772217131000,
+      "dateStr": "2/27/2026",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2027451410745593860/img/gkSuBUzjzqvjCLGl.jpg:small"
+    },
+    {
+      "id": "2027248376375562724",
+      "text": "most popular guy in tech in the last 90 days telling young people to stay away from crypto -- the only asset class left where they can make any money. ",
+      "fullText": "most popular guy in tech in the last 90 days telling young people to stay away from crypto -- the only asset class left where they can make any money. \n\nmy rec: switch to ironclaw. built by @near_ai and carries forward the original openclaw vision, while strengthening it with cryptographic security  https://t.co/CwnZU6gEFI",
+      "author": "0xDeployer",
+      "authorName": "deployer",
+      "url": "https://x.com/0xDeployer/status/2027248376375562724",
+      "likes": 1445,
+      "retweets": 100,
+      "date": 1772168652000,
+      "dateStr": "2/27/2026",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HCI51gKaQAApOY9.jpg:small"
     },
     {
       "id": "2027073302083301539",
@@ -7566,6 +7608,20 @@
   ],
   "Midjourney & Sref": [
     {
+      "id": "2032194346632839279",
+      "text": "By the way, it's super easy to make gadgets like these in @variantui using style code: --sref d51101 https://t.co/VNo8yPIOXe",
+      "fullText": "By the way, it's super easy to make gadgets like these in @variantui using style code: --sref d51101 https://t.co/VNo8yPIOXe",
+      "author": "bnj",
+      "authorName": "Ben South",
+      "url": "https://x.com/bnj/status/2032194346632839279",
+      "likes": 1083,
+      "retweets": 48,
+      "date": 1773347863000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2032193512440283138/img/bY6k-dZThJmTrRO9.jpg:small"
+    },
+    {
       "id": "2018771997489349053",
       "text": "just the most basic sref\n\n--sref 1502059545 https://t.co/kXCfo4lw76",
       "fullText": "just the most basic sref\n\n--sref 1502059545 https://t.co/kXCfo4lw76",
@@ -7777,6 +7833,20 @@
     }
   ],
   "Robotics & Hardware": [
+    {
+      "id": "2032187689135718479",
+      "text": "Creators, worldbuilders, game devs, ",
+      "fullText": "Creators, worldbuilders, game devs, \nToday we’re launching the first ever Moonlake Creator Cup. \n\nIt can be a game, a simulation, a story or a tiny world of your own. Anything you imagine. \n\nWe’ll award $30,000 across the most creative worlds, including $10,000 for first place. If you’ve been curious about Moonlake, this is a good excuse to build something.\n\nRepost “Moonlake Creator Cup” to join. \nLet’s see some magic ✨",
+      "author": "moonlake",
+      "authorName": "Moonlake",
+      "url": "https://x.com/moonlake/status/2032187689135718479",
+      "likes": 114,
+      "retweets": 27,
+      "date": 1773346275000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2032186048135249922/img/wqch2ZQHQPGYpPpI.jpg:small"
+    },
     {
       "id": "2031150375722766691",
       "text": "YO, SOME BATSHIT GENIUS JUST DROPPED AN AI PARTICLE SIMULATOR THAT TURNS YOUR LAZY-ASS ",
@@ -12244,6 +12314,48 @@
     }
   ],
   "General": [
+    {
+      "id": "2032212536716578932",
+      "text": "And the most important part: we open sourced the /autoresearch plugin for pi. Just tell it what you want, it will do the rest.  ",
+      "fullText": "And the most important part: we open sourced the /autoresearch plugin for pi. Just tell it what you want, it will do the rest.  \n\nhttps://t.co/C2H6kxR7jG",
+      "author": "tobi",
+      "authorName": "tobi lutke",
+      "url": "https://x.com/tobi/status/2032212536716578932",
+      "likes": 985,
+      "retweets": 67,
+      "date": 1773352200000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2032197072469049423",
+      "text": "I feel like this could be used to make a billion dollar game.",
+      "fullText": "I feel like this could be used to make a billion dollar game.\n\nIs it just me?",
+      "author": "Shedletsky",
+      "authorName": "John Shedletsky",
+      "url": "https://x.com/Shedletsky/status/2032197072469049423",
+      "likes": 259,
+      "retweets": 8,
+      "date": 1773348513000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2031771247751663973",
+      "text": "@KenneyNL @isaac_mason_ https://t.co/9ZElIexc8o",
+      "fullText": "@KenneyNL @isaac_mason_ https://t.co/9ZElIexc8o\n\nhttps://t.co/ouzUSD779y",
+      "author": "mustache_dev",
+      "authorName": "Alex",
+      "url": "https://x.com/mustache_dev/status/2031771247751663973",
+      "likes": 2,
+      "retweets": 0,
+      "date": 1773246988000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2031146634067779927",
       "text": "Added some older characters I made to get a feel for what I'm looking for in the character designs. They might need actual faces. https://t.co/8MaoAjryFf",
