@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2032556565367001181",
+      "text": "@chadboyda @tobi Ported to Claude code",
+      "fullText": "@chadboyda @tobi Ported to Claude code\n\nhttps://t.co/lHyhwSEIut",
+      "author": "hey_iam_alex",
+      "authorName": "alex",
+      "url": "https://x.com/hey_iam_alex/status/2032556565367001181",
+      "likes": 4,
+      "retweets": 0,
+      "date": 1773434222000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2031802820924436506",
       "text": "This is one of the most impressive guides I've seen for building games with Codex. ",
       "fullText": "This is one of the most impressive guides I've seen for building games with Codex. \n\nEven if you're not building any games, just look how impressive this is. \n\nYou're not pushing your agents enough.\n\nWe are just barely tapping into their potential.",
@@ -3449,6 +3463,34 @@
     }
   ],
   "Code & Dev Tools": [
+    {
+      "id": "2032600091609964590",
+      "text": "This is not Stalker",
+      "fullText": "This is not Stalker\nThis is not Darkwood\nThis is not Metro\nThis is not Projet Zomboid\nTHIS IS SCAVLAND\n\nScavland is a hardcore open-world survival RPG with a striking pixel art visual style. Navigate dangerous territory, interact with NPCs, and search for the items needed to progress. Every decision matters in this unforgiving environment, where your inventory and discoveries can make the difference between survival and defeat.",
+      "author": "Scavland_",
+      "authorName": "Scavland",
+      "url": "https://x.com/Scavland_/status/2032600091609964590",
+      "likes": 1033,
+      "retweets": 104,
+      "date": 1773444600000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2032586016616235008/img/YvmmOdt2suqUK0Ut.jpg:small"
+    },
+    {
+      "id": "2032572753547596241",
+      "text": "Some old dev footage from our indie game, There Are Millions of Goblins. Testing out moving colliders inside the horde particle simulation, with tens of thousands of enemies.",
+      "fullText": "Some old dev footage from our indie game, There Are Millions of Goblins. Testing out moving colliders inside the horde particle simulation, with tens of thousands of enemies.\n\nI think this might have been the moment we thought \"oh... this could be a thing\".\n\nYou can really see the fluid like quality of the goblins here. Feels like there's lots of fun emergent gameplay to be found with interesting obstacles, perhaps weapon emplacements and traps.\n\nForever impressed by what @UnrealEngine and Niagara is capable of.\n\n#gamedev #indiedev",
+      "author": "RayEpsilon",
+      "authorName": "Ray Epsilon",
+      "url": "https://x.com/RayEpsilon/status/2032572753547596241",
+      "likes": 206,
+      "retweets": 14,
+      "date": 1773438082000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2032569050690117632/img/5EDENZzUmDlV1FsR.jpg:small"
+    },
     {
       "id": "2031010332391751908",
       "text": "I built a procedural medieval island map generator using Wave Function Collapse on hex grids. 4,100 cells, 900 possible states per cell, 60fps on mobile. Wrote up the whole process with lessons learne",
@@ -12342,6 +12384,34 @@
     }
   ],
   "General": [
+    {
+      "id": "2032772741435371651",
+      "text": "https://t.co/Z9L1DfDxqt TIL there's an open source alternative to @screenstudio 🤔",
+      "fullText": "https://t.co/Z9L1DfDxqt TIL there's an open source alternative to @screenstudio 🤔",
+      "author": "thekitze",
+      "authorName": "kitze 🛠️ tinkerer.club",
+      "url": "https://x.com/thekitze/status/2032772741435371651",
+      "likes": 805,
+      "retweets": 53,
+      "date": 1773485763000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2032494585536991439",
+      "text": "https://t.co/DdIa2IJ63A",
+      "fullText": "https://t.co/DdIa2IJ63A",
+      "author": "dangreenheck",
+      "authorName": "Dan Greenheck",
+      "url": "https://x.com/dangreenheck/status/2032494585536991439",
+      "likes": 78,
+      "retweets": 4,
+      "date": 1773419445000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2032212536716578932",
       "text": "And the most important part: we open sourced the /autoresearch plugin for pi. Just tell it what you want, it will do the rest.  ",
