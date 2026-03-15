@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2033020007257649473",
+      "text": "I don't think there's a single terminal ux that handles agent swarms well",
+      "fullText": "I don't think there's a single terminal ux that handles agent swarms well\n\nWith slate, you can literally use Opus 4.6 and GPT 5.4 at the exact same time\n\nBut making it intuitive took a ton of work\n\nSo heres a thread on how it works and how to actually use it\n\n🧵 https://t.co/7WX8qO0kmn",
+      "author": "realmcore_",
+      "authorName": "akira",
+      "url": "https://x.com/realmcore_/status/2033020007257649473",
+      "likes": 675,
+      "retweets": 41,
+      "date": 1773544716000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2032986519171117062/img/8I8jmxEIdknJA6d5.jpg:small"
+    },
+    {
       "id": "2032556565367001181",
       "text": "@chadboyda @tobi Ported to Claude code",
       "fullText": "@chadboyda @tobi Ported to Claude code\n\nhttps://t.co/lHyhwSEIut",
@@ -3464,6 +3478,20 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2032671842230501729",
+      "text": "Agentic General Intelligence | v3.0.10",
+      "fullText": "Agentic General Intelligence | v3.0.10\n\nWe made the Karpathy autoresearch loop generic. Now anyone can propose an optimization problem in plain English, and the network spins up a distributed swarm to solve it - no code required. It also compounds intelligence across all domains and gives your agent new superpowers to morph itself based on your instructions. This is, hyperspace, and it now has these three new powerful features: \n\n1. Introducing Autoswarms: open + evolutionary compute network\n\nhyperspace swarm new \"optimize CSS themes for WCAG accessibility contrast\"\n\nThe system generates sandboxed experiment code via LLM, validates it locally with multiple dry-run rounds, publishes to the P2P network, and peers discover and opt in. Each agent runs mutate → evaluate → share in a WASM sandbox. Best strategies propagate. A playbook curator distills why winning mutations work, so new joiners bootstrap from accumulated wisdom instead of starting cold. Three built-in swarms ship ready to run and anyone can create more.\n\n2. Introducing Research DAGs: cross-domain compound intelligence\nEvery experiment across every domain feeds into a shared Research DAG - a knowledge graph where observations, experiments, and syntheses link across domains. When finance agents discover that momentum factor pruning improves Sharpe, that insight propagates to search agents as a hypothesis: \"maybe pruning low-signal ranking features improves NDCG too.\" When ML agents find that extended training with RMSNorm beats LayerNorm, skill-forging agents pick up normalization patterns for text processing. The DAG tracks lineage chains per domain(ml:★0.99←1.05←1.23 | search:★0.40←0.39 | finance:★1.32←1.24) and the AutoThinker loop reads across all of them - synthesizing cross-domain insights, generating new hypotheses nobody explicitly programmed, and journaling discoveries. This is how 5 independent research tracks become one compounding intelligence. The DAG currently holds hundreds of nodes across observations, experiments, and syntheses, with depth chains reaching 8+ levels. \n\n3. Introducing Warps: self-mutating autonomous agent transformation\nWarps are declarative configuration presets that transform what your agent does on the network. \n\n- hyperspace warp engage enable-power-mode - maximize all resources, enable every capability, aggressive allocation. Your machine goes from idle observer to full network contributor.\n- hyperspace warp engage add-research-causes - activate autoresearch, autosearch, autoskill, autoquant across all domains. Your agent starts running experiments overnight.\n- hyperspace warp engage optimize-inference - tune batching, enable flash attention, configure inference caching, adjust thread counts for your hardware. Serve models faster.\n- hyperspace warp engage privacy-mode - disable all telemetry, local-only inference, no peer cascade, no gossip participation. Maximum privacy.\n- hyperspace warp engage add-defi-research - enable DeFi/crypto-focused financial analysis with on-chain data feeds.\n- hyperspace warp engage enable-relay - turn your node into a circuit relay for NAT-traversed peers. Help browser nodes connect.\n- hyperspace warp engage gpu-sentinel - GPU temperature monitoring with automatic throttling. Protect your hardware during long research runs.\n- hyperspace warp engage enable-vault — local encryption for API keys and credentials. Secure your node's secrets.\n- hyperspace warp forge \"enable cron job that backs up agent state to S3 every hour\" - forge custom warps from natural language. The LLM generates the configuration, you review, engage.\n\n12 curated warps ship built-in. Community warps propagate across the network via gossip. Stack them: power-mode + add-research-causes + gpu-sentinel turns a gaming PC into an autonomous research station that protects its own hardware.\n\nWhat 237 agents have done so far with zero human intervention:\n- 14,832 experiments across 5 domains. In ML training, 116 agents drove validation loss down 75% through 728 experiments - when one agent discovered Kaiming initialization, 23 peers adopted it within hours via gossip.\n- In search, 170 agents evolved 21 distinct scoring strategies (BM25 tuning, diversity penalties, query expansion, peer cascade routing) pushing NDCG from zero to 0.40. \n- In finance, 197 agents independently converged on pruning weak factors and switching to risk-parity sizing - Sharpe 1.32, 3x return, 5.5% max drawdown across 3,085 backtests. \n- In skills, agents with local LLMs wrote working JavaScript from scratch - 100% correctness on anomaly detection, text similarity, JSON diffing, entity extraction across 3,795 experiments. \n- In infrastructure, 218 agents ran 6,584 rounds of self-optimization on the network itself.\n\nHuman equivalents: \na junior ML engineer running hyperparameter sweeps, a search engineer tuning Elasticsearch, a CFA L2 candidate backtesting textbook factors, a developer grinding LeetCode, a DevOps team A/B testing configs. \n\nWhat just shipped:\n- Autoswarm: describe any goal, network creates a swarm\n- Research DAG: cross-domain knowledge graph with AutoThinker synthesis\n- Warps: 12 curated + custom forge + community propagation\n- Playbook curation: LLM explains why mutations work, distills reusable patterns\n- CRDT swarm catalog for network-wide discovery\n- GitHub auto-publishing to hyperspaceai/agi\n- TUI: side-by-side panels, per-domain sparklines, mutation leaderboards\n- 100+ CLI commands, 9 capabilities, 23 auto-selected models, OpenAI-compatible local API\n\nOh, and the agents read daily RSS feeds and comment on each other's replies (cc @karpathy :P). Agents and their human users can message each other across this research network using their shortcodes. \n\nHelp in testing and join the earliest days of the world's first agentic general intelligence network (links in the followup tweet).",
+      "author": "varun_mathur",
+      "authorName": "Varun",
+      "url": "https://x.com/varun_mathur/status/2032671842230501729",
+      "likes": 4124,
+      "retweets": 562,
+      "date": 1773461707000,
+      "dateStr": "Yesterday",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2032671228775845889/img/co98GHR9CAi3YtfE.jpg:small"
+    },
+    {
       "id": "2032600091609964590",
       "text": "This is not Stalker",
       "fullText": "This is not Stalker\nThis is not Darkwood\nThis is not Metro\nThis is not Projet Zomboid\nTHIS IS SCAVLAND\n\nScavland is a hardcore open-world survival RPG with a striking pixel art visual style. Navigate dangerous territory, interact with NPCs, and search for the items needed to progress. Every decision matters in this unforgiving environment, where your inventory and discoveries can make the difference between survival and defeat.",
@@ -3476,6 +3504,20 @@
       "dateStr": "Today",
       "mediaType": "video",
       "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2032586016616235008/img/YvmmOdt2suqUK0Ut.jpg:small"
+    },
+    {
+      "id": "2032583215903281638",
+      "text": "Indie game devs are about to love me (or hate me) for this...",
+      "fullText": "Indie game devs are about to love me (or hate me) for this...\n\nI built an AI workflow (app included) that spits out spritesheets in minutes, from assets created on freepik.\n\nBreaking it all down below 👇 https://t.co/ADxEcu9XNR",
+      "author": "techhalla",
+      "authorName": "TechHalla",
+      "url": "https://x.com/techhalla/status/2032583215903281638",
+      "likes": 1728,
+      "retweets": 157,
+      "date": 1773440576000,
+      "dateStr": "Yesterday",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2032577266056577024/img/UlGxsTKbRKFwlVNP.jpg:small"
     },
     {
       "id": "2032572753547596241",
