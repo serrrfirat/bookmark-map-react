@@ -6787,6 +6787,20 @@
   ],
   "Design & UI": [
     {
+      "id": "2033315367766884602",
+      "text": "Introducing Texel Splatting: Perspective-Stable 3D Pixel Art",
+      "fullText": "Introducing Texel Splatting: Perspective-Stable 3D Pixel Art\n\nopen source paper+code\n\nMost 3D pixel art techniques (e.g. t3ssel8r, ProPixelizer) snap pixels to a screen grid, which only works with an orthographic camera\n\nTexel splatting solves this for perspective cameras: first, https://t.co/VEPyXgNvsY",
+      "author": "dylan_ebert_",
+      "authorName": "dylan",
+      "url": "https://x.com/dylan_ebert_/status/2033315367766884602",
+      "likes": 1342,
+      "retweets": 101,
+      "date": 1773615135000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2033315075801444352/img/U-SOXWjzenHRkd3a.jpg:small"
+    },
+    {
       "id": "2025991708429979780",
       "text": "What if your UI had physical mass? https://t.co/s1weWiLVz7",
       "fullText": "What if your UI had physical mass? https://t.co/s1weWiLVz7",
@@ -12426,6 +12440,20 @@
     }
   ],
   "General": [
+    {
+      "id": "2033206539595461070",
+      "text": "https://t.co/R60ja9pTKc",
+      "fullText": "https://t.co/R60ja9pTKc",
+      "author": "coreyganim",
+      "authorName": "Corey Ganim",
+      "url": "https://x.com/coreyganim/status/2033206539595461070",
+      "likes": 3032,
+      "retweets": 300,
+      "date": 1773589188000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2032772741435371651",
       "text": "https://t.co/Z9L1DfDxqt TIL there's an open source alternative to @screenstudio 🤔",
