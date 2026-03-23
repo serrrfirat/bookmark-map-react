@@ -99,6 +99,20 @@
       "mediaUrl": null
     },
     {
+      "id": "2029796262606950424",
+      "text": "This port tries to stay extremely faithful to original ROM but run without emulation in plain JS.  So that you can also see how game works and change it easily.",
+      "fullText": "This port tries to stay extremely faithful to original ROM but run without emulation in plain JS.  So that you can also see how game works and change it easily.\n\nI made Claude Code skill to make this easy with any binary on any platform:\nhttps://t.co/YVC3mBu7dA",
+      "author": "vgrichina",
+      "authorName": "Vlad Berrry",
+      "url": "https://x.com/vgrichina/status/2029796262606950424",
+      "likes": 62,
+      "retweets": 3,
+      "date": 1772776115000,
+      "dateStr": "3/6/2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2028022503319203926",
       "text": "We just open-sourced Mission Control — our dashboard for AI agent orchestration.",
       "fullText": "We just open-sourced Mission Control — our dashboard for AI agent orchestration.\n\n26 panels. Real-time WebSocket + SSE. SQLite — no external services needed.\n\nKanban board, cost tracking, role-based access, quality gates, and multi-gateway support.\n\nOne pnpm start, and you're running.\n\nhttps://t.co/GVybvosdmI",
@@ -8058,6 +8072,20 @@
   ],
   "Robotics & Hardware": [
     {
+      "id": "2036043907776098345",
+      "text": "NVIDIA's Kimodo is the release of the week 🔥",
+      "fullText": "NVIDIA's Kimodo is the release of the week 🔥\n\nPrompt the timeline whatever your want like: \"a person walks forward\" → \"a person starts jumping\", hit Generate, and watch a 3D character do it in seconds\n\n(700hrs of pro mocap training. Works on human + robot skeletons. Super fast + free to use on HF)",
+      "author": "victormustar",
+      "authorName": "Victor M",
+      "url": "https://x.com/victormustar/status/2036043907776098345",
+      "likes": 1173,
+      "retweets": 126,
+      "date": 1774265670000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2036043801354244096/img/01Y2q2SDR6dgyHgG.jpg:small"
+    },
+    {
       "id": "2032422111390666787",
       "text": "You can use CesiumJS and Threejs to create a real open-world game or simulation.",
       "fullText": "You can use CesiumJS and Threejs to create a real open-world game or simulation.\n\nIt runs entirely in your web browser and performs very smoothly. https://t.co/p8rMLSaOaG",
@@ -12566,6 +12594,20 @@
     }
   ],
   "General": [
+    {
+      "id": "2035402224260550921",
+      "text": "https://t.co/zZ6qICXppV",
+      "fullText": "https://t.co/zZ6qICXppV",
+      "author": "emanueledpt",
+      "authorName": "Emanuele Di Pietro",
+      "url": "https://x.com/emanueledpt/status/2035402224260550921",
+      "likes": 1846,
+      "retweets": 115,
+      "date": 1774112680000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2034924354337714642",
       "text": "https://t.co/wYn8VuTNz2",
