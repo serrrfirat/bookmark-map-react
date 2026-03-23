@@ -1,6 +1,62 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2035719951882068301",
+      "text": "i always made fun of the \"just one more skill\" bros, but this game dev one is actually useful",
+      "fullText": "i always made fun of the \"just one more skill\" bros, but this game dev one is actually useful\n\n`npx skills add OpusGameLabs/game-creator -a claude-code`\n\nBest practices, coding gotchas, where to find models/assets etc for building 2d and 3d browser games https://t.co/WklHgbIEs4",
+      "author": "AzFlin",
+      "authorName": "AzFlin 🌎",
+      "url": "https://x.com/AzFlin/status/2035719951882068301",
+      "likes": 180,
+      "retweets": 7,
+      "date": 1774188433000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HEBTg_db0AAY_bN.png:small"
+    },
+    {
+      "id": "2035182726421057790",
+      "text": "Wild that a GitHub gist, a single text file, has 53 stars ⭐️ ",
+      "fullText": "Wild that a GitHub gist, a single text file, has 53 stars ⭐️ \n\nIt’s the Ghostty config I built for this article on how to run multiple Claude Code agents across different worktrees with lazygit and yazi\n\nHere’s the article: https://t.co/dntRGsjY6m https://t.co/mHUZ9wTPRS",
+      "author": "dani_avila7",
+      "authorName": "Daniel San",
+      "url": "https://x.com/dani_avila7/status/2035182726421057790",
+      "likes": 381,
+      "retweets": 19,
+      "date": 1774060348000,
+      "dateStr": "2 days ago",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HD5r5ahXwAEwaah.jpg:small"
+    },
+    {
+      "id": "2034955640872083785",
+      "text": "Sub-millisecond VM sandboxes are here.",
+      "fullText": "Sub-millisecond VM sandboxes are here.\n\nZeroboot boots preloaded environments, snapshots them, then forks new isolated VMs in ~0.8ms.\n\nThis changes how we think about running agents and serverless workloads. https://t.co/sxIQmlKm9W",
+      "author": "GithubProjects",
+      "authorName": "GitHub Projects Community",
+      "url": "https://x.com/GithubProjects/status/2034955640872083785",
+      "likes": 1529,
+      "retweets": 167,
+      "date": 1774006207000,
+      "dateStr": "2 days ago",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HD2dXvtboAIXG7P.jpg:small"
+    },
+    {
+      "id": "2034846740336013338",
+      "text": "open sourced the small model we trained as a personal agent router https://t.co/4DoYDYA6nd",
+      "fullText": "open sourced the small model we trained as a personal agent router https://t.co/4DoYDYA6nd",
+      "author": "TGUPJ",
+      "authorName": "Udara",
+      "url": "https://x.com/TGUPJ/status/2034846740336013338",
+      "likes": 665,
+      "retweets": 53,
+      "date": 1773980243000,
+      "dateStr": "3 days ago",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2034846408868597760/img/F1pAMsiXjiuV4J2m.jpg:small"
+    },
+    {
       "id": "2033020007257649473",
       "text": "I don't think there's a single terminal ux that handles agent swarms well",
       "fullText": "I don't think there's a single terminal ux that handles agent swarms well\n\nWith slate, you can literally use Opus 4.6 and GPT 5.4 at the exact same time\n\nBut making it intuitive took a ton of work\n\nSo heres a thread on how it works and how to actually use it\n\n🧵 https://t.co/7WX8qO0kmn",
@@ -3478,6 +3534,34 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2035637459183104197",
+      "text": "how your set up your folder is the difference between you and the great karpathy. ",
+      "fullText": "how your set up your folder is the difference between you and the great karpathy. \n\nfolders are everything. \n\nthis is a great guide into building each layer of the wondrous folder. \n\ndo bookmark this. and do implement this.",
+      "author": "iruletheworldmo",
+      "authorName": "🍓🍓🍓",
+      "url": "https://x.com/iruletheworldmo/status/2035637459183104197",
+      "likes": 862,
+      "retweets": 62,
+      "date": 1774168765000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2035108510653194337",
+      "text": "Stylized Water by ANGRY MESH handles ripples, caustics, and underwater depth so you can focus on your projects. ",
+      "fullText": "Stylized Water by ANGRY MESH handles ripples, caustics, and underwater depth so you can focus on your projects. \n\nNow on Fab: https://t.co/0LrPnVmiTE https://t.co/FTXdea7xVj",
+      "author": "fab",
+      "authorName": "Fab",
+      "url": "https://x.com/fab/status/2035108510653194337",
+      "likes": 697,
+      "retweets": 58,
+      "date": 1774042654000,
+      "dateStr": "2 days ago",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2035108437743607809/img/18cnWieq1q56rj2x.jpg:small"
+    },
+    {
       "id": "2033838659959468334",
       "text": "Removes AI writing patterns from prose",
       "fullText": "Removes AI writing patterns from prose\n\nhttps://t.co/7nEXW5ie0e https://t.co/NhlKtmqJ9m",
@@ -6800,6 +6884,20 @@
     }
   ],
   "Design & UI": [
+    {
+      "id": "2035562662273179923",
+      "text": "Launching Animation Studio",
+      "fullText": "Launching Animation Studio\n\nA full animation graph editor for ThreeJS games\n\nYou can directly use Codex chat inside the app to build the graph for you\n\nFeatures:\n- Graph editor\n- Blendtrees\n- State Machines\n- Subgraphs\n- Parameters\n- Root Motion\n- Bone Masks\n- Additive Animations\n\nFree and Open Source (MIT), enjoy",
+      "author": "alightinastorm",
+      "authorName": "robot",
+      "url": "https://x.com/alightinastorm/status/2035562662273179923",
+      "likes": 523,
+      "retweets": 52,
+      "date": 1774150932000,
+      "dateStr": "Yesterday",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2035562450477879297/img/HT2QaKy1oeQjcraW.jpg:small"
+    },
     {
       "id": "2033315367766884602",
       "text": "Introducing Texel Splatting: Perspective-Stable 3D Pixel Art",
@@ -12468,6 +12566,34 @@
     }
   ],
   "General": [
+    {
+      "id": "2034924354337714642",
+      "text": "https://t.co/wYn8VuTNz2",
+      "fullText": "https://t.co/wYn8VuTNz2",
+      "author": "zodchiii",
+      "authorName": "darkzodchi",
+      "url": "https://x.com/zodchiii/status/2034924354337714642",
+      "likes": 8634,
+      "retweets": 1292,
+      "date": 1773998747000,
+      "dateStr": "2 days ago",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2034624479435870504",
+      "text": "This NES emulator transforms classic graphics into 3D. It's called 3D Sen. https://t.co/Zn1cpnRSHB",
+      "fullText": "This NES emulator transforms classic graphics into 3D. It's called 3D Sen. https://t.co/Zn1cpnRSHB",
+      "author": "Abathor_Game",
+      "authorName": "Abathor 🎮 Garay GameDev",
+      "url": "https://x.com/Abathor_Game/status/2034624479435870504",
+      "likes": 3040,
+      "retweets": 357,
+      "date": 1773927252000,
+      "dateStr": "3 days ago",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2034624406996328448/pu/img/izv3E74mHXcmWLHp.jpg:small"
+    },
     {
       "id": "2034453903572337013",
       "text": "this guy built an application that generates 3D models from images ",
