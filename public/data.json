@@ -3548,6 +3548,20 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2036252448399171717",
+      "text": "Pretty much every PR I review:",
+      "fullText": "Pretty much every PR I review:\n\n0) review <URL> [codex does it's thing and finds issues]\n1) is the issue clear? [if not, trash PR]\n2) is this the best possible fix? [95% of the time no]\n3) continue discussion, consider tradeoffs, usually rewrite PR\n\nMost folks send too localized, small fixes that would end up making the project unmaintainable.",
+      "author": "steipete",
+      "authorName": "Peter Steinberger 🦞",
+      "url": "https://x.com/steipete/status/2036252448399171717",
+      "likes": 1229,
+      "retweets": 64,
+      "date": 1774315390000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HEI4Nt4aIAETdOk.jpg:small"
+    },
+    {
       "id": "2035637459183104197",
       "text": "how your set up your folder is the difference between you and the great karpathy. ",
       "fullText": "how your set up your folder is the difference between you and the great karpathy. \n\nfolders are everything. \n\nthis is a great guide into building each layer of the wondrous folder. \n\ndo bookmark this. and do implement this.",
@@ -6899,6 +6913,20 @@
   ],
   "Design & UI": [
     {
+      "id": "2036227535818674634",
+      "text": "Introducing Agentic Animator",
+      "fullText": "Introducing Agentic Animator\n\nYou can now just tell Codex to create new model animations from scratch, here's how it works:\n\n- Be precise. Describe exactly the motion, hands, shoulders, legs\n\n- Don't expect a oneshot, we're in a completely new field here, it will get the rotation of arms wrong (see demo), just tell it what you see.\n\n- The harness: If you try to build a similar app, you will be frustrated very quickly, because a skeleton rig may contain dozens of bones, each with translation, rotation, scale. We're talking about at least 12 properties per bone per frame!\nInstead, I gave it some high level tool to build an initial animation \"blockout\", it only places a few keyframes on select bones. That is often enough! ThreeJS can interpolate between the frames and you might not need 30 fps to get a good animation for your model.\n\nAnyways it's open source and on github so you can just tell your agent to copy whatever i did and it'll likely work\n\nJust promise me to stay open source, yea? Don't you apply to YC with my findings bro",
+      "author": "alightinastorm",
+      "authorName": "robot",
+      "url": "https://x.com/alightinastorm/status/2036227535818674634",
+      "likes": 109,
+      "retweets": 10,
+      "date": 1774309450000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2036227025980063744/img/kOLzoeoHgBrxsPYi.jpg:small"
+    },
+    {
       "id": "2035562662273179923",
       "text": "Launching Animation Studio",
       "fullText": "Launching Animation Studio\n\nA full animation graph editor for ThreeJS games\n\nYou can directly use Codex chat inside the app to build the graph for you\n\nFeatures:\n- Graph editor\n- Blendtrees\n- State Machines\n- Subgraphs\n- Parameters\n- Root Motion\n- Bone Masks\n- Additive Animations\n\nFree and Open Source (MIT), enjoy",
@@ -8757,6 +8785,20 @@
       "dateStr": "Yesterday",
       "mediaType": "video",
       "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2024504757692338176/img/7J3FdM5tjs3462AI.jpg:small"
+    },
+    {
+      "id": "2023469666945909242",
+      "text": "You can easily make +10% on BTC 5-min markets on Polymarket",
+      "fullText": "You can easily make +10% on BTC 5-min markets on Polymarket\n\nHere's what I tested:\n- I deposited $21 just to test (yeah, small size lol)\n- Did 10 trades in 50 minutes\n- Each trade brings around +1-5% if you put $5-10 per trade\n- Now the balance is $23\n- That's ez +10% in under an hour\n\nMy simple tactic:\n- Enter 30-60 seconds before the market closes\n- Only take odds 85-90%+\n- Wait a few seconds -> take small profit -> done\n\nYeah, a lot of people trade like this using clawdbots.\nBut you don't need a bot - you can do it manually without any problem.\n\nEven with a small deposit, you can slowly scale it up if you don't get greedy",
+      "author": "nnevvesss",
+      "authorName": "nnevvesss",
+      "url": "https://x.com/nnevvesss/status/2023469666945909242",
+      "likes": 465,
+      "retweets": 17,
+      "date": 1771267737000,
+      "dateStr": "2/16/2026",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2023468348772937728/img/qAJk3x8LMa_1Tfgv.jpg:small"
     },
     {
       "id": "2020541790332342581",
@@ -12594,6 +12636,34 @@
     }
   ],
   "General": [
+    {
+      "id": "2036191401524801831",
+      "text": "Unity plugin for real-time AI in compiled games",
+      "fullText": "Unity plugin for real-time AI in compiled games\n\nhttps://t.co/akFd60IRwP https://t.co/UURJGaPu3U",
+      "author": "tom_doerr",
+      "authorName": "Tom Dörr",
+      "url": "https://x.com/tom_doerr/status/2036191401524801831",
+      "likes": 577,
+      "retweets": 76,
+      "date": 1774300835000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HEIBSi0WEAAuNbc.png:small"
+    },
+    {
+      "id": "2036152957604077827",
+      "text": "Generate images in less than 1 second. 99% cheaper than NanoBanna. 🚀 😱 ",
+      "fullText": "Generate images in less than 1 second. 99% cheaper than NanoBanna. 🚀 😱 \n\nOur latest 26.2 release ships FLUX.2 image generation with a 4.1x speedup over torch.compile on NVIDIA Blackwell - translating to a 5.5x TCO advantage with AMD MI355X. Read more ⬇️ https://t.co/ITXaFHvgCd",
+      "author": "Modular",
+      "authorName": "Modular",
+      "url": "https://x.com/Modular/status/2036152957604077827",
+      "likes": 880,
+      "retweets": 76,
+      "date": 1774291669000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2036151776530014210/img/3qA8GfXT-BSDB2ME.jpg:small"
+    },
     {
       "id": "2035402224260550921",
       "text": "https://t.co/zZ6qICXppV",
