@@ -3618,6 +3618,20 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2038393642130272762",
+      "text": "Introducing GGEZ: The Nextjs for ThreeJS Games",
+      "fullText": "Introducing GGEZ: The Nextjs for ThreeJS Games\n\nIt's an open source framework which adds all the missing pieces to vibe code better ThreeJS games\n\nIt has full codex integration, so a $20 ChatGPT sub is enough to build games!\n\nLiterally \"bun run start\" and you have the full development environment on localhost\n\n0. GGEZ Runtime \n- Abstraction layer over physics libraries\n- Character Controllers\n- It's just ThreeJS, no magic\n- Load ggez scenes and animations automatically \n\n1. Trident - a World Editor\n- Codex World agent\n- A full editor to build scenes\n- Including Mesh editing, vertex, edge, face\n- Terrain sculpting\n- Physics and Player Controller settings\n- It's just exporting json files and glb assets, no magic\n\n2. Animation Studio - The best you can find on the web\n- Codex Animation agent\n- Build state machines and animation graphs\n- Multi dimensional blend trees\n- Clip Editor: Create new animations with codex or edit keyframes\n- Equipment Editor: Never miss the placement of your rifle anymore\n- ROOT MOTION SUPPORT\n\n3. GGEZ CLI \nYea relax, it works fully headless and you can just create new games with\nbunx create-ggez new-game\n\nBut at this point just use vanilla threejs??\n\nAnyways if you are like me and you can't guess with code where objects should be placed and you are fifty prompts deep into figuring out where that box should be placed, this is for you\n\nIf you are an anti AI game developer who insists that this is slop, then just leave a raging comment below please it's good for the algo 🙏 \n\nThe whole thing is absolutely experimental and things will break as i move very fast, but I will be building my game with it so i will make sure it becomes stable asap!\n\nLink to repo below",
+      "author": "alightinastorm",
+      "authorName": "robot",
+      "url": "https://x.com/alightinastorm/status/2038393642130272762",
+      "likes": 602,
+      "retweets": 54,
+      "date": 1774825890000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2038393487842799616/img/H6Om21siAv2_NcnO.jpg:small"
+    },
+    {
       "id": "2037187127838953582",
       "text": "This is my ultimate end goal for Three.js Water Pro 🤩 so cool.",
       "fullText": "This is my ultimate end goal for Three.js Water Pro 🤩 so cool.",
