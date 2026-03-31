@@ -421,6 +421,20 @@
       "mediaUrl": "https://pbs.twimg.com/media/HBYGNvyWcAEehtG.jpg:small"
     },
     {
+      "id": "2023468856220807539",
+      "text": "I think more and more companies/startups will implement a Code Factory system like this.",
+      "fullText": "I think more and more companies/startups will implement a Code Factory system like this.\n\nJust point your agent at this agent with the prompt \n\n\"Read this and create a .md plan for migrating our codebase to a Code Factory model\"",
+      "author": "ryancarson",
+      "authorName": "Ryan Carson",
+      "url": "https://x.com/ryancarson/status/2023468856220807539",
+      "likes": 2199,
+      "retweets": 161,
+      "date": 1771267544000,
+      "dateStr": "2/16/2026",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2023386898455261360",
       "text": "ANNOUNCEMENT: We've built a coding agent that beats Claude Code on long tasks. ",
       "fullText": "ANNOUNCEMENT: We've built a coding agent that beats Claude Code on long tasks. \n\nToday we're releasing it for free. Meet Volt: The coding agent who never forgets. \n\n→ Dominates Claude Code on the OOLONG long-context benchmark, including at every length from 32K to 1M tokens. \n\n→ Has unlimited recall. No more amnesia. Volt can code for weeks in a single coherent session. \n\n→ Massively parallel. One tool call can process thousands of tasks. Like \"Map\" for LLMs. \n→ Open source and model agnostic. Try Volt today with @OpenRouterAI or your API of choice. \n\nVolt's performance is the result of a new architecture, Lossless Context Management (LCM), which applies lessons from the history of operating systems and programming languages to LLMs. \n\nLCM is like paged virtual memory, except for managing context: \n\n- Layer 1. An immutable append-only store of everything that occurs in the coding session.\n\n- Layer 2. The active \"context window\" which functions like a cache layer for navigating to the appropriate section(s) of Layer 1 via a high-fanout DAG. \n\nFrom a user perspective, this feels like an infinite context window, because the model never forgets and performance stays crisp. \n\nFor the technical details, read our paper: https://t.co/wuyz3osmJh\n\nFor the code, go to https://t.co/tBGzZWyngT. \n\nOr get started with one line: \ncurl -fsSL https://t.co/sIHoG3zHfQ | sh",
@@ -3617,6 +3631,20 @@
     }
   ],
   "Code & Dev Tools": [
+    {
+      "id": "2038484201478217898",
+      "text": "hermes-agent + exclidraw + obsidian and it one-shot when I ask he to be my second-brain. well done @Teknium https://t.co/HKABnI1l16",
+      "fullText": "hermes-agent + exclidraw + obsidian and it one-shot when I ask he to be my second-brain. well done @Teknium https://t.co/HKABnI1l16",
+      "author": "asmedeus4",
+      "authorName": "Asmedeus",
+      "url": "https://x.com/asmedeus4/status/2038484201478217898",
+      "likes": 223,
+      "retweets": 5,
+      "date": 1774847481000,
+      "dateStr": "Yesterday",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HEola6TaMAABiYS.jpg:small"
+    },
     {
       "id": "2038393642130272762",
       "text": "Introducing GGEZ: The Nextjs for ThreeJS Games",
@@ -7093,6 +7121,20 @@
       "dateStr": "Today",
       "mediaType": "photo",
       "mediaUrl": "https://pbs.twimg.com/media/HBToLn8a8AADJyV.png:small"
+    },
+    {
+      "id": "2022997060190884335",
+      "text": "I’ve been exploring what I’d call Cosmic Mythic Sci-Fi, a fusion of medieval epic, ancient sacred architecture and interstellar atmosphere, rendered in a hand-drawn European graphic novel style.",
+      "fullText": "I’ve been exploring what I’d call Cosmic Mythic Sci-Fi, a fusion of medieval epic, ancient sacred architecture and interstellar atmosphere, rendered in a hand-drawn European graphic novel style.\n\nNot action-driven. Not glossy. More like a forgotten civilization remembering itself beneath a dying sun.\n\nOnce again, I used Midjourney for the concept art, Grok Imagine for the animations, and Suno for the soundtrack.",
+      "author": "Artedeingenio",
+      "authorName": "OscarAI",
+      "url": "https://x.com/Artedeingenio/status/2022997060190884335",
+      "likes": 2231,
+      "retweets": 176,
+      "date": 1771155059000,
+      "dateStr": "2/15/2026",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2022996160508731392/img/8vB8Emu89nmQj2Dt.jpg:small"
     },
     {
       "id": "2021160634428309908",
