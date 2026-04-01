@@ -1,6 +1,34 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2039144761375043873",
+      "text": "🚨 DO NOT USE THIS",
+      "fullText": "🚨 DO NOT USE THIS\n\nThis emulator makes your api call to claude 100% identical to claude code request from your subscription plan.\nSince this is 100% same, making @AnthropicAI difficult to detect abusers. \n\nNEVER USE THIS. YOU CAN MAKE LEGIT API REQUEST.\n\nhttps://t.co/LT485lpOQo",
+      "author": "q_yeon_gyu_kim",
+      "authorName": "Q",
+      "url": "https://x.com/q_yeon_gyu_kim/status/2039144761375043873",
+      "likes": 410,
+      "retweets": 24,
+      "date": 1775004971000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2039013038620074309",
+      "text": "It's much better to have your own harness working for you. Rather than relying on a third-party harness that you keep guessing how it works until they open source it. Or you find its leaked source cod",
+      "fullText": "It's much better to have your own harness working for you. Rather than relying on a third-party harness that you keep guessing how it works until they open source it. Or you find its leaked source code going viral on X.\n\nI built my own voice dictation for my CLI. I built my own creature even before Claude Code decided to work on it.\n\nI built my own subagent and agent swarms the way I wanted to. I adjusted my harness based on my workflow, not how a closed-source harness wants me to work.\n\nIn frame: a custom harness system based on Pi that works hours autonomously to build and finish projects end to end. \n\nBuilt on Pi by the GOAT @badlogicgames",
+      "author": "baanditeagle",
+      "authorName": "Abhishek Tiwari",
+      "url": "https://x.com/baanditeagle/status/2039013038620074309",
+      "likes": 212,
+      "retweets": 13,
+      "date": 1774973566000,
+      "dateStr": "Yesterday",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HEwFy5EasAA7BH6.jpg:small"
+    },
+    {
       "id": "2037234555640266768",
       "text": "Someone help me understand what is going on with all these AI assistant programs (Claude Cowork, OpenClaw, etc.). Are they actually useful?",
       "fullText": "Someone help me understand what is going on with all these AI assistant programs (Claude Cowork, OpenClaw, etc.). Are they actually useful?\n\nI saw someone used OpenClaw to negotiate car prices or make appointments for them. I’d never trust an AI with something like that.\n\nI’m far from being the most privacy/security conscious person in the room, but aren’t people worried about giving an AI write access to their email/calendar/files?\n\nNot hating, genuinely curious, trying to stay up to date with these tools.",
