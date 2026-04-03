@@ -1,6 +1,34 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2039807064889778445",
+      "text": "Running Hermes agent Locally with Gemma4",
+      "fullText": "Running Hermes agent Locally with Gemma4\nDevice: Macbook Air\nCPU: M4\nRAM: 16GB\n\nOpen Source. Free. Private.\nWith TurboQuant cache in @Atomic_Chat_HQ app https://t.co/Cs322N6DuG",
+      "author": "atomic_chat_hq",
+      "authorName": "atomic.chat",
+      "url": "https://x.com/atomic_chat_hq/status/2039807064889778445",
+      "likes": 1262,
+      "retweets": 122,
+      "date": 1775162876000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2039806822484209664/img/QZBnBqMAwHJl3iy0.jpg:small"
+    },
+    {
+      "id": "2039378745329602871",
+      "text": "in the next release of @opencode",
+      "fullText": "in the next release of @opencode\n\n/init becomes a guided AGENTS.md setup\n\nit reads the repo, figures out the stuff agents actually need to know, and asks a couple targeted questions when the important bits aren’t obvious from the codebase https://t.co/bZykcoxVUW",
+      "author": "nexxeln",
+      "authorName": "nexxel",
+      "url": "https://x.com/nexxeln/status/2039378745329602871",
+      "likes": 1333,
+      "retweets": 50,
+      "date": 1775060757000,
+      "dateStr": "2 days ago",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HE1T3S7boAcuEJN.jpg:small"
+    },
+    {
       "id": "2039144761375043873",
       "text": "🚨 DO NOT USE THIS",
       "fullText": "🚨 DO NOT USE THIS\n\nThis emulator makes your api call to claude 100% identical to claude code request from your subscription plan.\nSince this is 100% same, making @AnthropicAI difficult to detect abusers. \n\nNEVER USE THIS. YOU CAN MAKE LEGIT API REQUEST.\n\nhttps://t.co/LT485lpOQo",
