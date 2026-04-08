@@ -3688,6 +3688,48 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2041361025929462064",
+      "text": "At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding.",
+      "fullText": "At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding.\n \nHere are some tips and tricks we're seeing dev teams use with agents like @devinai to handle the SDLC:\n\n1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes through onboarding, exercises core flows, and gets a pass/fail report in Slack every morning. You can even watch the screen recording or have it sent directly to you via Slack.\nhttps://t.co/OwlJ9X5YEv\n\n2. Auto-triaging production errors: it's easy to wire Sentry (or other) webhooks so new errors get root-caused, fixed, and shipped with a regression test before an on-call even has to look at their phone.\nhttps://t.co/K8gePoOGxl\n\n3. Scheduling weekly dependency updates: a scheduled session checks for outdated packages, runs your full test suite, and opens upgrade PRs grouped by patch, minor, and major bumps. Merge what's green, review what's not.\nhttps://t.co/leZZ8mjOft\n\n4. Morning health digests: a scheduled session queries Datadog for error spikes, latency regressions, and failing monitors, then posts a severity-rated summary to Slack before standup. \n\n5. Auto-fix on every PR: Sophisticated review agents like Devin Review catch bugs, security issues, and style violations on open PRs, then automatically push fixes directly to the branch. No back-and-forth in review comments, the agent handles the entire loop.\nhttps://t.co/qjhGUguMMm\n\n6. Parallelization of large migrations: for instance scope a REST-to-GraphQL or JS-to-TS migration, split it into conflict-free work packages, and run 8+ sessions in parallel. \n\n7. Scheduling feature flag cleanups after releases: teams leave flags in place as a kill switch after new launches, then never get around to removing them. You can set a one-time session for a week after ship day and the cleanup actually happens: dead code path removed, tests updated, PR opened. (done via Scheduled Sessions)\n\n8. Weekly changelogs: once per week, a scheduled session groups merged PRs by category (features, fixes, improvements), posts the digest to Slack + anywhere else relevant, and updates CHANGELOG.md\n\n9. Reproducing customer-reported bugs from support tickets: paste a customer issue into Slack, tag Devin, and it attempts to reproduce the problem in the browser. You get a screen recording of the reproduction and a filed bug with exact steps-to-reproduce attached.\n\n10. Enforcing your design system: schedule a session that scans merged PRs for hardcoded colors, missing design tokens, style violations, etc... Auto-creates tickets or kicks off sessions for anything that slipped through.\n\n11. Auto-generating API docs from a ticket: create a docs Playbook, sync it as a Linear label, and apply it to any ticket. Devin generates documentation following your conventions and opens a PR.\n\n12. Keeping docs in sync with code changes: schedule a daily session that reviews the previous 24 hours of merged PRs against your documentation. If an API endpoint changed, a config option was renamed, or a feature works differently now, it opens a PR to update the docs before users hit stale information.\n\n13. Racing competing solutions against the same problem: if have a slow API endpoint you launch 3 parallel sessions, each trying a different optimization strategies (caching, query rewrite, denormalization). Compare the benchmarks and merge the winner (this can also be automated)\n\n14. Automated visual regressions tests before every PR: add a repo skill that triggers whenever UI files change. Devin starts the app, screenshots every affected page at multiple viewports, and flags layout breakage, overflow, or missing elements (or you can have Devin autofix them)\n\nThis type of work is already partially being automated by a lot of teams, but usually by a human in the loop meaning they're taking time away from more important work to do things that don't usually provide immediate impact or business value\n\nIt's obvious that automating these repetitive tasks frees up engineering time, but to me it's also not a bad recruiting tactic - if you work here you won't be spending any of your time doing boring work.",
+      "author": "dabit3",
+      "authorName": "nader dabit",
+      "url": "https://x.com/dabit3/status/2041361025929462064",
+      "likes": 797,
+      "retweets": 44,
+      "date": 1775533369000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2041215611330531454",
+      "text": "introducing pi-psst 🤫, your agent uses secrets without ever seeing them. no more scrubbing for @badlogicgames!",
+      "fullText": "introducing pi-psst 🤫, your agent uses secrets without ever seeing them. no more scrubbing for @badlogicgames!\n\nsecrets are injected as env vars to bash tool, scrubbed from all tool output, stored in local encrypted vault. the agent knows what's available but never sees a value.\n\nset secrets directly from pi\n\n/psst-set SECRET <VALUE>\n\nlist secrets\n\n/psst\n\nbuilt on\nhttps://t.co/B68WA1b9Kf\nhttps://t.co/OiCxt8Xto9\n\ninstall with\n\nnpm install -g psst-cli\npi install npm:@miclivs/pi-psst",
+      "author": "micLivs",
+      "authorName": "Michael Livs",
+      "url": "https://x.com/micLivs/status/2041215611330531454",
+      "likes": 210,
+      "retweets": 8,
+      "date": 1775498700000,
+      "dateStr": "Yesterday",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HFPZS35XMAA8ppV.png:small"
+    },
+    {
+      "id": "2041140744295997779",
+      "text": "And just like that,  the Theo Von meltdown makes sense. https://t.co/p8SGbmprfE",
+      "fullText": "And just like that,  the Theo Von meltdown makes sense. https://t.co/p8SGbmprfE",
+      "author": "MagaMemeWizard",
+      "authorName": "Magical Trevor (Meme TV)",
+      "url": "https://x.com/MagaMemeWizard/status/2041140744295997779",
+      "likes": 12372,
+      "retweets": 562,
+      "date": 1775480850000,
+      "dateStr": "2 days ago",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HFOWsJRW8AA9glo.jpg:small"
+    },
+    {
       "id": "2039805659525644595",
       "text": "LLM Knowledge Bases",
       "fullText": "LLM Knowledge Bases\n\nSomething I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating knowledge (stored as markdown and images). The latest LLMs are quite good at it. So:\n\nData ingest:\nI index source documents (articles, papers, repos, datasets, images, etc.) into a raw/ directory, then I use an LLM to incrementally \"compile\" a wiki, which is just a collection of .md files in a directory structure. The wiki includes summaries of all the data in raw/, backlinks, and then it categorizes data into concepts, writes articles for them, and links them all. To convert web articles into .md files I like to use the Obsidian Web Clipper extension, and then I also use a hotkey to download all the related images to local so that my LLM can easily reference them.\n\nIDE:\nI use Obsidian as the IDE \"frontend\" where I can view the raw data, the the compiled wiki, and the derived visualizations. Important to note that the LLM writes and maintains all of the data of the wiki, I rarely touch it directly. I've played with a few Obsidian plugins to render and view data in other ways (e.g. Marp for slides).\n\nQ&A:\nWhere things get interesting is that once your wiki is big enough (e.g. mine on some recent research is ~100 articles and ~400K words), you can ask your LLM agent all kinds of complex questions against the wiki, and it will go off, research the answers, etc. I thought I had to reach for fancy RAG, but the LLM has been pretty good about auto-maintaining index files and brief summaries of all the documents and it reads all the important related data fairly easily at this ~small scale.\n\nOutput:\nInstead of getting answers in text/terminal, I like to have it render markdown files for me, or slide shows (Marp format), or matplotlib images, all of which I then view again in Obsidian. You can imagine many other visual output formats depending on the query. Often, I end up \"filing\" the outputs back into the wiki to enhance it for further queries. So my own explorations and queries always \"add up\" in the knowledge base.\n\nLinting:\nI've run some LLM \"health checks\" over the wiki to e.g. find inconsistent data, impute missing data (with web searchers), find interesting connections for new article candidates, etc., to incrementally clean up the wiki and enhance its overall data integrity. The LLMs are quite good at suggesting further questions to ask and look into.\n\nExtra tools:\nI find myself developing additional tools to process the data, e.g. I vibe coded a small and naive search engine over the wiki, which I both use directly (in a web ui), but more often I want to hand it off to an LLM via CLI as a tool for larger queries. \n\nFurther explorations:\nAs the repo grows, the natural desire is to also think about synthetic data generation + finetuning to have your LLM \"know\" the data in its weights instead of just context windows.\n\nTLDR: raw data from a given number of sources is collected, then compiled by an LLM into a .md wiki, then operated on by various CLIs by the LLM to do Q&A and to incrementally enhance the wiki, and all of it viewable in Obsidian. You rarely ever write or edit the wiki manually, it's the domain of the LLM. I think there is room here for an incredible new product instead of a hacky collection of scripts.",
@@ -12902,6 +12944,20 @@
     }
   ],
   "General": [
+    {
+      "id": "2041548810804211936",
+      "text": "https://t.co/YtE6RMgCS5",
+      "fullText": "https://t.co/YtE6RMgCS5",
+      "author": "rohit4verse",
+      "authorName": "Rohit",
+      "url": "https://x.com/rohit4verse/status/2041548810804211936",
+      "likes": 715,
+      "retweets": 78,
+      "date": 1775578141000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2037663947197686040",
       "text": "These ultra geniuses beat Sonnet 4.5 performance on LiveCodeBench with Qwen3-14B, a single RTX 5060 and a great harness. https://t.co/2bHTmIEtT8",
