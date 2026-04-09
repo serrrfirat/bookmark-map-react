@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2041888545674027126",
+      "text": "为 Hermes 打造的 HUD 一款开源的 TUI 显示器",
+      "fullText": "为 Hermes 打造的 HUD 一款开源的 TUI 显示器\n  \n→ 从 Hermes Agent 数据目录实时读取记忆、纠错、工具使用等状态并渲染成交互式 TUI\n  → 9 个标签页覆盖仪表盘、成长对比、Cron 任务、项目追踪、健康检查、Prompt 模式等\n  → 4 套赛博朋克风格主题（Neural Awakening / Blade Runner / fsociety / Digital Soul）\n  → 快照对比功能直观展示 Agent 从昨天到今天记住了什么、少犯了什么错\n\nhttps://t.co/THc0RdodTI",
+      "author": "QingQ77",
+      "authorName": "Geek Lite",
+      "url": "https://x.com/QingQ77/status/2041888545674027126",
+      "likes": 188,
+      "retweets": 24,
+      "date": 1775659140000,
+      "dateStr": "Yesterday",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HFSU6WhbcAAln5-.png:small"
+    },
+    {
       "id": "2039807064889778445",
       "text": "Running Hermes agent Locally with Gemma4",
       "fullText": "Running Hermes agent Locally with Gemma4\nDevice: Macbook Air\nCPU: M4\nRAM: 16GB\n\nOpen Source. Free. Private.\nWith TurboQuant cache in @Atomic_Chat_HQ app https://t.co/Cs322N6DuG",
