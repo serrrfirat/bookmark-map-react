@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2041900381350117648",
+      "text": "alright agent nerds, if you care about your tokens and usage limits, pay attention to the tools you give to your agents.",
+      "fullText": "alright agent nerds, if you care about your tokens and usage limits, pay attention to the tools you give to your agents.\n\ni built a benchmark that compared various browser tools for agents, and here's an example of their massive difference in cost and latency doing the same task https://t.co/pvuIo5TP44",
+      "author": "kunchenguid",
+      "authorName": "Kun Chen",
+      "url": "https://x.com/kunchenguid/status/2041900381350117648",
+      "likes": 2250,
+      "retweets": 154,
+      "date": 1775661962000,
+      "dateStr": "2 days ago",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2041898707734724608/img/uyYBrf0faTA6xUBm.jpg:small"
+    },
+    {
       "id": "2041888545674027126",
       "text": "为 Hermes 打造的 HUD 一款开源的 TUI 显示器",
       "fullText": "为 Hermes 打造的 HUD 一款开源的 TUI 显示器\n  \n→ 从 Hermes Agent 数据目录实时读取记忆、纠错、工具使用等状态并渲染成交互式 TUI\n  → 9 个标签页覆盖仪表盘、成长对比、Cron 任务、项目追踪、健康检查、Prompt 模式等\n  → 4 套赛博朋克风格主题（Neural Awakening / Blade Runner / fsociety / Digital Soul）\n  → 快照对比功能直观展示 Agent 从昨天到今天记住了什么、少犯了什么错\n\nhttps://t.co/THc0RdodTI",
@@ -12958,6 +12972,34 @@
     }
   ],
   "General": [
+    {
+      "id": "2042539396638085339",
+      "text": "https://t.co/4AHzhcBlTY",
+      "fullText": "https://t.co/4AHzhcBlTY",
+      "author": "blocmates",
+      "authorName": "blocmates.",
+      "url": "https://x.com/blocmates/status/2042539396638085339",
+      "likes": 316,
+      "retweets": 41,
+      "date": 1775814315000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2041927488918413589",
+      "text": "https://t.co/n1HUIEbky8",
+      "fullText": "https://t.co/n1HUIEbky8",
+      "author": "Vtrivedy10",
+      "authorName": "Viv",
+      "url": "https://x.com/Vtrivedy10/status/2041927488918413589",
+      "likes": 784,
+      "retweets": 88,
+      "date": 1775668425000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2041548810804211936",
       "text": "https://t.co/YtE6RMgCS5",
