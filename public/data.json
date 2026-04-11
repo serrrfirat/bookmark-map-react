@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2042641521653256234",
+      "text": "Introducing MMX-CLI — our first piece of infrastructure built not for humans, but for Agents.",
+      "fullText": "Introducing MMX-CLI — our first piece of infrastructure built not for humans, but for Agents.\nYour Agent can read, think, and write. But ask it to sing, paint, or show you a world it's never seen — and it falls silent. Not because it doesn't understand, but because it has no mouth, no hands, no camera. Today, that changes.\n\nMMX-CLI gives every Agent seven new senses — image, video, voice, music, vision, search, conversation — powered by MiniMax's full-modal stack, today's SOTA across mainstream omni-modal models.\nOne command: mmxAgent-native I/O. Zero MCP glue. Runs on your existing Token Plan.\n\nTwo lines to give your Agent a voice:\n\nnpx skills add MiniMax-AI/cli -y -g \nnpm install -g mmx-cli\n\nThen tell it: \"you have mmx commands available.\"\nIt'll learn the rest.\n\nGithub → https://t.co/fSRc5Lo30j\nToken Plan:\nhttps://t.co/BDCycxepZw",
+      "author": "MiniMax_AI",
+      "authorName": "MiniMax (official)",
+      "url": "https://x.com/MiniMax_AI/status/2042641521653256234",
+      "likes": 2829,
+      "retweets": 325,
+      "date": 1775838663000,
+      "dateStr": "Yesterday",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HFjrmYuakAQVPU2.jpg:small"
+    },
+    {
       "id": "2041900381350117648",
       "text": "alright agent nerds, if you care about your tokens and usage limits, pay attention to the tools you give to your agents.",
       "fullText": "alright agent nerds, if you care about your tokens and usage limits, pay attention to the tools you give to your agents.\n\ni built a benchmark that compared various browser tools for agents, and here's an example of their massive difference in cost and latency doing the same task https://t.co/pvuIo5TP44",
@@ -3715,6 +3729,20 @@
     }
   ],
   "Code & Dev Tools": [
+    {
+      "id": "2042851792657015247",
+      "text": "Active Memory is the most important feature of this new @openclaw release:",
+      "fullText": "Active Memory is the most important feature of this new @openclaw release:\n\nevery memory system I've seen so far is reactive. you say \"remember this\" or you call /search-memory and the agent looks something up. the burden is on you to know when memory is relevant. if you forget to ask, the agent forgets to look.\n\nActive Memory inverts this. it's a dedicated memory sub-agent that runs right before the main reply. every turn. automatically. it pulls in relevant preferences, context, and past details without you having to ask. the main agent gets the memory it needs without you remembering to request it.\n\ninstead of \"agent + manual memory lookups,\" you get \"agent + automatic memory hydration.\" the memory layer becomes part of every response, not a separate tool you have to invoke.\n\nwhy this is huge: this is a different category from dreaming (4.5), grounded REM backfill (4.9), and memory-wiki (4.7). those are all about what gets stored. Active Memory is about when memory gets read. complementary, not competing.\n\n----\n\nthe rest of the release worth knowing:\n\n// bundled Codex provider\ncodex/gpt-* models now use Codex-managed auth, native threads, model discovery, and compaction as a separate path from openai/gpt-*. cleaner separation between OpenAI direct and Codex CLI.\n\n// openclaw exec-policy command\nlocal CLI for synchronising requested tools.exec.* config with the local exec approvals file. show, preset, set subcommands. version control for your security posture.\n\n// Seedance 2.0 video generation\nadded to the bundled fal provider with full duration, resolution, audio, and seed metadata. video generation in agent frameworks is becoming standard.\n\n// massive Microsoft Teams overhaul\ncovering media downloads, Bot Framework auth, OneDrive/SharePoint integration, SSO callbacks, thread context, cron announcements.\n\nwatch this category. seriously.",
+      "author": "witcheer",
+      "authorName": "witcheer ☯︎",
+      "url": "https://x.com/witcheer/status/2042851792657015247",
+      "likes": 66,
+      "retweets": 5,
+      "date": 1775888796000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2041361025929462064",
       "text": "At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding.",
@@ -12983,6 +13011,20 @@
       "retweets": 41,
       "date": 1775814315000,
       "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2042529018260656555",
+      "text": "https://t.co/WAHeaJM8h1",
+      "fullText": "https://t.co/WAHeaJM8h1",
+      "author": "zodchiii",
+      "authorName": "darkzodchi",
+      "url": "https://x.com/zodchiii/status/2042529018260656555",
+      "likes": 2044,
+      "retweets": 123,
+      "date": 1775811840000,
+      "dateStr": "Yesterday",
       "mediaType": null,
       "mediaUrl": null
     },
