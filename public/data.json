@@ -3730,6 +3730,20 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2043342359551766929",
+      "text": "as more and more people start using pi, i now get this question often:",
+      "fullText": "as more and more people start using pi, i now get this question often:\n\n\"what are essential extensions i should install?\"\n\nnone. zero. start vanilla. only build/install something if you feel a recuring pain that you can't get rid of by reevaluating your workflow learned with another harness.\n\ni have 2 extensions:\n- promot-url-widget.ts in pi-mono/.pi/extensions: if a git issue/pr url is mentioned in a user message, it displays a little widget above the editor with the issue/pr title, submitter account id, and link to cmd+click. if i have multiple sessions open i know immediately what it's about\n- pi-diff-viewer, simple slash command spawning a GUI that lets me annotate a diff or any file in the working directory. once done, annotations are feed back to pi as a prompt, with a request for the model to act on the annotations.\n\nthis is all i ever use. no, i don't use web search, mcp, multi-agents, whatever. i'm likely still outperforming you productivity wise with less token usage.",
+      "author": "badlogicgames",
+      "authorName": "Mario Zechner",
+      "url": "https://x.com/badlogicgames/status/2043342359551766929",
+      "likes": 638,
+      "retweets": 32,
+      "date": 1776005756000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2042851792657015247",
       "text": "Active Memory is the most important feature of this new @openclaw release:",
       "fullText": "Active Memory is the most important feature of this new @openclaw release:\n\nevery memory system I've seen so far is reactive. you say \"remember this\" or you call /search-memory and the agent looks something up. the burden is on you to know when memory is relevant. if you forget to ask, the agent forgets to look.\n\nActive Memory inverts this. it's a dedicated memory sub-agent that runs right before the main reply. every turn. automatically. it pulls in relevant preferences, context, and past details without you having to ask. the main agent gets the memory it needs without you remembering to request it.\n\ninstead of \"agent + manual memory lookups,\" you get \"agent + automatic memory hydration.\" the memory layer becomes part of every response, not a separate tool you have to invoke.\n\nwhy this is huge: this is a different category from dreaming (4.5), grounded REM backfill (4.9), and memory-wiki (4.7). those are all about what gets stored. Active Memory is about when memory gets read. complementary, not competing.\n\n----\n\nthe rest of the release worth knowing:\n\n// bundled Codex provider\ncodex/gpt-* models now use Codex-managed auth, native threads, model discovery, and compaction as a separate path from openai/gpt-*. cleaner separation between OpenAI direct and Codex CLI.\n\n// openclaw exec-policy command\nlocal CLI for synchronising requested tools.exec.* config with the local exec approvals file. show, preset, set subcommands. version control for your security posture.\n\n// Seedance 2.0 video generation\nadded to the bundled fal provider with full duration, resolution, audio, and seed metadata. video generation in agent frameworks is becoming standard.\n\n// massive Microsoft Teams overhaul\ncovering media downloads, Bot Framework auth, OneDrive/SharePoint integration, SSO callbacks, thread context, cron announcements.\n\nwatch this category. seriously.",
@@ -13025,6 +13039,20 @@
       "retweets": 298,
       "date": 1775919005000,
       "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2042950334469787975",
+      "text": "https://t.co/NVq0bYi6s9",
+      "fullText": "https://t.co/NVq0bYi6s9",
+      "author": "GabLesperance",
+      "authorName": "Gabriel Lespérance",
+      "url": "https://x.com/GabLesperance/status/2042950334469787975",
+      "likes": 426,
+      "retweets": 41,
+      "date": 1775912290000,
+      "dateStr": "2 days ago",
       "mediaType": null,
       "mediaUrl": null
     },
