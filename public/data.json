@@ -3744,6 +3744,20 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2044403192549478459",
+      "text": "I've recorded it for you guys. Trust me, there is no better harness than this. I haven't touched it since Monday. 5x speed https://t.co/bucQSWHzJp",
+      "fullText": "I've recorded it for you guys. Trust me, there is no better harness than this. I haven't touched it since Monday. 5x speed https://t.co/bucQSWHzJp",
+      "author": "mkurman88",
+      "authorName": "Mariusz Kurman",
+      "url": "https://x.com/mkurman88/status/2044403192549478459",
+      "likes": 940,
+      "retweets": 20,
+      "date": 1776258678000,
+      "dateStr": "Yesterday",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2044402464443498496/img/1n9XMvJ11p4o1P6Z.jpg:small"
+    },
+    {
       "id": "2043342359551766929",
       "text": "as more and more people start using pi, i now get this question often:",
       "fullText": "as more and more people start using pi, i now get this question often:\n\n\"what are essential extensions i should install?\"\n\nnone. zero. start vanilla. only build/install something if you feel a recuring pain that you can't get rid of by reevaluating your workflow learned with another harness.\n\ni have 2 extensions:\n- promot-url-widget.ts in pi-mono/.pi/extensions: if a git issue/pr url is mentioned in a user message, it displays a little widget above the editor with the issue/pr title, submitter account id, and link to cmd+click. if i have multiple sessions open i know immediately what it's about\n- pi-diff-viewer, simple slash command spawning a GUI that lets me annotate a diff or any file in the working directory. once done, annotations are feed back to pi as a prompt, with a request for the model to act on the annotations.\n\nthis is all i ever use. no, i don't use web search, mcp, multi-agents, whatever. i'm likely still outperforming you productivity wise with less token usage.",
@@ -13042,6 +13056,20 @@
     }
   ],
   "General": [
+    {
+      "id": "2044548257058328723",
+      "text": "https://t.co/Ljzw0lmvao",
+      "fullText": "https://t.co/Ljzw0lmvao",
+      "author": "trq212",
+      "authorName": "Thariq",
+      "url": "https://x.com/trq212/status/2044548257058328723",
+      "likes": 6984,
+      "retweets": 829,
+      "date": 1776293265000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2043677918262395235",
       "text": "One of the best diagrams I've seen of a harness",
