@@ -3744,6 +3744,20 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2045420155434320270",
+      "text": "10 GitHub repos to spend 60-90% less tokens in Claude Code:",
+      "fullText": "10 GitHub repos to spend 60-90% less tokens in Claude Code:\n\n1. RTK (Rust Token Killer)\n\nCLI proxy that filters terminal output before it hits your context\n\n- 60-90% reduction on common dev commands\n- one binary, zero dependencies\n- works with Claude Code, Cursor, Copilot\n\nRepo: https://t.co/WayvpBtyBH\n\n2. Context Mode\n\nSandboxes raw tool output into SQLite instead of dumping it into context\n\n- 98% context reduction on Playwright, GitHub, logs\n- only clean summaries enter your conversation\n- works as Claude Code plugin\n\nRepo: https://t.co/YNbFIGQz7X\n\n3. code-review-graph\n\nLocal knowledge graph that maps your codebase with Tree-sitter\n\n- Claude reads only what matters, not the entire repo\n- 49x token reduction on large monorepos\n- 6.8x on average reviews\n\nRepo: https://t.co/9gIzmAWN12\n\n4. Token Savior\n\nMCP server that navigates code by symbols, not full files\n\n- 97% reduction on code navigation\n- persistent memory across sessions\n- 69 tools, zero external deps\n\nRepo: https://t.co/OtvhrMgGWh\n\n5. Caveman Claude\n\nmakes Claude talk like a caveman to cut output tokens\n\n- 65-75% output reduction\n- one-line install\n- keeps full technical accuracy\n\nRepo: https://t.co/onBeghTyfH\n\n6. claude-token-efficient\n\none CLAUDE.md file that keeps responses terse\n\n- drop-in, no code changes\n- reduces output verbosity on heavy workflows\n- best for output-heavy sessions\n\nRepo: https://t.co/j6MKo9klQe\n\n7. token-optimizer-mcp\n\nMCP server with caching, compression, and smart tool intelligence\n\n- 95%+ token reduction through intelligent caching\n- compresses repeated tool outputs\n\nRepo: https://t.co/0jIVQ4ANls\n\n8. claude-token-optimizer\n\nreusable setup prompts for optimizing any project\n\n- 90% token savings in 5 minutes\n- reduces doc token usage from 11K to 1.3K\n\nRepo: https://t.co/puil9WwFGB\n\n9. token-optimizer\n\nfinds ghost tokens that silently eat your context\n\n- survives compaction without losing quality\n- fixes context quality decay\n\nRepo: https://t.co/92G8e4yeGq\n\n10. claude-context (by Zilliz)\n\ncode search MCP that makes your entire codebase the context\n\n- ~40% reduction with equivalent retrieval quality\n- hybrid BM25 + dense vector search\n\nRepo: https://t.co/yjfiQOSy15\n\n[ how to stack them ]:\n\nyou don't need all 10. pick 2-3 based on your workflow:\n\n> heavy terminal output? RTK\n> big codebase? code-review-graph + Token Savior\n> lots of MCP servers? Context Mode\n> quick fix? Caveman + claude-token-efficient\n\nmost people are burning tokens without knowing it\n\nrun /context in a fresh session and see how much is gone before you even type a word\n\nyour pocket will thank me later :<)",
+      "author": "DeRonin_",
+      "authorName": "Ronin",
+      "url": "https://x.com/DeRonin_/status/2045420155434320270",
+      "likes": 790,
+      "retweets": 89,
+      "date": 1776501141000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HGLKx_ybYAAZ58B.jpg:small"
+    },
+    {
       "id": "2045110469426323900",
       "text": "My new skill lineup:",
       "fullText": "My new skill lineup:\n\n/domain-model - replaces /grill-me, integrates some DDD concepts and adds docs & ADR's during discussions\n/to-prd - create a PRD\n/to-issues - create issues with blocking\n/github-triage - triage issues with a state machine-based labelling system\n/tdd - do TDD where appropriate\n\nStill more to flesh out, but this is feeling AWESOME",
@@ -3756,6 +3770,20 @@
       "dateStr": "Today",
       "mediaType": null,
       "mediaUrl": null
+    },
+    {
+      "id": "2045074983961973136",
+      "text": "WhatsApp CLI that works out of the box with no config? Wassist got you",
+      "fullText": "WhatsApp CLI that works out of the box with no config? Wassist got you\n\n&gt; npm i -g @wassist/cli \n\n- supports all message types out of the box\n- sandbox number for direct interactive messaging\n- connect your own numbers to message other people\n- All Official WhatsApp API (no bans) https://t.co/5a7ogbDTvJ",
+      "author": "Jaw9c",
+      "authorName": "Josh Warwick 🦄",
+      "url": "https://x.com/Jaw9c/status/2045074983961973136",
+      "likes": 134,
+      "retweets": 11,
+      "date": 1776418846000,
+      "dateStr": "Yesterday",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2045074404393005056/img/Ny92uuSe69zGKvaz.jpg:small"
     },
     {
       "id": "2044403192549478459",
