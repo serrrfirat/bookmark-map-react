@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2045566281991311483",
+      "text": "Introducing: Browser Harness. A self-healing harness that can complete virtually any browser task. ♞",
+      "fullText": "Introducing: Browser Harness. A self-healing harness that can complete virtually any browser task. ♞\n\nWe got tired of browser frameworks restricting the LLM. So we removed the framework.\n\n> Self-healing — edits helpers.py on the fly\n> Direct CDP — one websocket to Chrome\n> No framework, no rails, complete freedom\n> Drop-in for Claude Code and Codex\n\nI challenge anyone to find a task that DOESN'T work. I couldn't yet.🔥\n\n100% open source ↓",
+      "author": "gregpr07",
+      "authorName": "Gregor Zunic",
+      "url": "https://x.com/gregpr07/status/2045566281991311483",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1776535981000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HGNMnKYaUAARDSW.jpg:small"
+    },
+    {
       "id": "2044269097647779990",
       "text": "The quality of your vibecoded slop is horrible. I've seen it. Absolute dogshit.",
       "fullText": "The quality of your vibecoded slop is horrible. I've seen it. Absolute dogshit.\n\nFortunately, there is a fix.\n\nUse this prompt:\n\nI want to clean up my codebase and improve code quality. This is a complex task, so we'll need 8 subagents. Make a sub agent for each of the following:\n1. Deduplicate and consolidate all code, and implement DRY where it reduces complexity\n2. Find all type definitions and consolidate any that should be shared\n3. Use tools like knip to find all unused code and remove, ensuring that it's actually not referenced anywhere\n4. Untangle any circular dependencies, using tools like madge\n5. Remove any weak types, for example 'unknown' and 'any' (and the equivalent in other languages), research what the types should be, research in the codebase and related packages to make sure that the replacements are strong types and there are no type issues\n6. Remove all try catch and equivalent defensive programming if it doesn't serve a specific role of handling unknown or unsanitized input or otherwise has a reason to be there, with clear error handling and no error hiding or fallback patterns\n7. Find any deprecated, legacy or fallback code, remove, and make sure all code paths are clean, concise and as singular as possible\n8. Find any AI slop, stubs, larp, unnecessary comments and remove. Any comments that describe in-motion work, replacements of previous work with new work, or otherwise are not helpful should be either removed or replaced with helpful comments for a new user trying to understand the codebase-- but if you do edit, be concise\n\nI want each to do detailed research on their task, write a critical assessment of the current code and recommendations, and then implement all high confidence recommendations.",
@@ -13098,6 +13112,20 @@
     }
   ],
   "General": [
+    {
+      "id": "2045566284319134008",
+      "text": "https://t.co/mEQEBH93N7",
+      "fullText": "https://t.co/mEQEBH93N7",
+      "author": "gregpr07",
+      "authorName": "Gregor Zunic",
+      "url": "https://x.com/gregpr07/status/2045566284319134008",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1776535981000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2044738504286974459",
       "text": "https://t.co/FAjyLzZfTi",
