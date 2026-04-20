@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2045895877588361723",
+      "text": "/make-interfaces-feel-better",
+      "fullText": "/make-interfaces-feel-better\n\nnpx skills add jakubkrehel/make-interfaces-feel-better https://t.co/RJw5RHwXpc",
+      "author": "jakubkrehel",
+      "authorName": "Jakub Krehel",
+      "url": "https://x.com/jakubkrehel/status/2045895877588361723",
+      "likes": 1708,
+      "retweets": 43,
+      "date": 1776614562000,
+      "dateStr": "Yesterday",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2045894421825150976/img/tsV4XJ6FwCMhm3kX.jpg:small"
+    },
+    {
       "id": "2045566281991311483",
       "text": "Introducing: Browser Harness. A self-healing harness that can complete virtually any browser task. ♞",
       "fullText": "Introducing: Browser Harness. A self-healing harness that can complete virtually any browser task. ♞\n\nWe got tired of browser frameworks restricting the LLM. So we removed the framework.\n\n> Self-healing — edits helpers.py on the fly\n> Direct CDP — one websocket to Chrome\n> No framework, no rails, complete freedom\n> Drop-in for Claude Code and Codex\n\nI challenge anyone to find a task that DOESN'T work. I couldn't yet.🔥\n\n100% open source ↓",
@@ -3757,6 +3771,34 @@
     }
   ],
   "Code & Dev Tools": [
+    {
+      "id": "2045971295213338888",
+      "text": "Alright, my go-to https://t.co/Es44X52jKi extensions are:",
+      "fullText": "Alright, my go-to https://t.co/Es44X52jKi extensions are:\n\npi-fff: Uses fff by @neogoose_btw to find files. It's so good.\n\npi-thinking-steps: Helps me understand more of what's going on.\n\nplannotator/pi-extension: Reviews the changes in a really nice way, like a git diff.\n\nnpm:pi-cursor-provider: Allows me to use Composer 2 fast by @cursor_ai. 🏎️\n\nsamfp/pi-memory: A plugin currently on trial. It's used to store a local context on preferences, correctness, and so on.\n\nLet me know if there are any more plugins that anyone recommends!",
+      "author": "emil_priver",
+      "authorName": "Emil Privér",
+      "url": "https://x.com/emil_priver/status/2045971295213338888",
+      "likes": 304,
+      "retweets": 17,
+      "date": 1776632543000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2045968003489997060",
+      "text": "This prompt is legit. ",
+      "fullText": "This prompt is legit. \n\nFor @RepoPrompt users, I've written a bespoke multi-agent workflow you can install and use now.\n\nHere's the code:\nhttps://t.co/0VBAcaMTS1",
+      "author": "masonjames",
+      "authorName": "Mason James",
+      "url": "https://x.com/masonjames/status/2045968003489997060",
+      "likes": 50,
+      "retweets": 3,
+      "date": 1776631758000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2045420155434320270",
       "text": "10 GitHub repos to spend 60-90% less tokens in Claude Code:",
