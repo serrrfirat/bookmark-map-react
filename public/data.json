@@ -1,6 +1,48 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2046302876453232667",
+      "text": "i reverse engineered @OpenAI's Codex Computer Use and built pi-computer-use: a model agnostic computer use tool for my fellow pi enjoyers on MacOS.",
+      "fullText": "i reverse engineered @OpenAI's Codex Computer Use and built pi-computer-use: a model agnostic computer use tool for my fellow pi enjoyers on MacOS.\n\ncomes with ax-first navigation &amp; a vision fallback for supported models! source code in comments; would love to get some feedback. https://t.co/BfqcFhksuh",
+      "author": "injaneity",
+      "authorName": "injaneity",
+      "url": "https://x.com/injaneity/status/2046302876453232667",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1776711598000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2046291224609615924",
+      "text": "alright - finally ready to share another secret weapon in my agentic engineering setup",
+      "fullText": "alright - finally ready to share another secret weapon in my agentic engineering setup\n\ngit push no-mistakes\n\nthat's not a joke - it's the real command i run when i push my changes nowadays, and it's what allows me to ship 50-100 good PRs a day\n\ninfo shared in thread below 👇 https://t.co/ziUwhuTL3l",
+      "author": "kunchenguid",
+      "authorName": "kunchenguid",
+      "url": "https://x.com/kunchenguid/status/2046291224609615924",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1776708820000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2046058805864378430",
+      "text": "Claude Codeのトークンを最大90%削減するGitHubリポジトリ10選：",
+      "fullText": "Claude Codeのトークンを最大90%削減するGitHubリポジトリ10選：\n\n1. RTK（Rust Token Killer）\nターミナル出力をコンテキストに流す前にフィルタリング。よく使う開発コマンドで60〜90%削減できる。\nhttps://t.co/KOoxtNuVhK\n\n2. Context Mode\nPlaywrightやGitHubのツール出力をSQLiteに退避して、クリーンな要約だけを会話に渡す。98%削減。\nhttps://t.co/EL5PXYD3zO\n\n3. code-review-graph\nTree-sitterでコードベースをローカルで知識グラフ化。Claudeが必要な部分だけ読むので大規模モノレポで49倍削減。\nhttps://t.co/NFxP9RaT5O\n\n4. Token Savior\nファイル全体ではなくシンボル単位でコードを参照するMCPサーバー。コードナビで97%削減、外部依存ゼロ。\nhttps://t.co/Bp2Z8yGhBM\n\n5. Caveman Claude\nClaudeを穴居人口調で話させてアウトプットトークンを65〜75%削減。技術的な正確さは維持したまま。\nhttps://t.co/sDWdUwoyOX\n\n6. claude-token-efficient\nCLAUDE(.)mdを一つ置くだけで出力を簡潔に保てる。コード変更なし、出力が多いセッションに最適。\nhttps://t.co/Vme8BrAVuu\n\n7. token-optimizer-mcp\nキャッシュ・圧縮・スマートツール制御を備えたMCPサーバー。繰り返しのツール出力を圧縮して95%以上削減。\nhttps://t.co/fcfM86jN0m\n\n8. claude-token-optimizer\nプロジェクトを最適化する再利用可能なセットアッププロンプト集。5分で90%のトークン節約ができる。\nhttps://t.co/LKWBghEo6c\n\n9. token-optimizer\nコンテキストを静かに食い尽くすゴーストトークンを発見。コンパクション後も品質が劣化しない。\nhttps://t.co/DYwlc5rO7A\n\n10. claude-context（by Zilliz）\nBM25＋ベクトル検索でコードベース全体をコンテキストにできるMCP。同等の検索精度で約40%削減。\nhttps://t.co/JaxXXgaX9Y\n\n保存して後で使いこなして。",
+      "author": "so_ainsight",
+      "authorName": "so_ainsight",
+      "url": "https://x.com/so_ainsight/status/2046058805864378430",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1776653407000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2045895877588361723",
       "text": "/make-interfaces-feel-better",
       "fullText": "/make-interfaces-feel-better\n\nnpx skills add jakubkrehel/make-interfaces-feel-better https://t.co/RJw5RHwXpc",
@@ -3796,6 +3838,20 @@
       "retweets": 3,
       "date": 1776631758000,
       "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2045909607990825244",
+      "text": "This really works good, I’ve started to run:",
+      "fullText": "This really works good, I’ve started to run:\n\n/ui-ux-pro-max\n/make-interfaces-feel-better\n/simplify\n\nAfter every major design changes, works like a charm.",
+      "author": "ParthJadhav8",
+      "authorName": "ParthJadhav8",
+      "url": "https://x.com/ParthJadhav8/status/2045909607990825244",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1776617836000,
+      "dateStr": "Yesterday",
       "mediaType": null,
       "mediaUrl": null
     },
@@ -13155,6 +13211,20 @@
   ],
   "General": [
     {
+      "id": "2046240194999755153",
+      "text": "https://t.co/IKBD5ajeIb",
+      "fullText": "https://t.co/IKBD5ajeIb",
+      "author": "raw_works",
+      "authorName": "raw_works",
+      "url": "https://x.com/raw_works/status/2046240194999755153",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1776696654000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2045566284319134008",
       "text": "https://t.co/mEQEBH93N7",
       "fullText": "https://t.co/mEQEBH93N7",
@@ -13207,6 +13277,20 @@
       "retweets": 67,
       "date": 1776085760000,
       "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2043592382856470871",
+      "text": "pi-subagents updated so that if pi-intercom is also installed then subagents can ask the orchestrator for help and get replies back in real-time. Subagents can have a full two-way chat with the orches",
+      "fullText": "pi-subagents updated so that if pi-intercom is also installed then subagents can ask the orchestrator for help and get replies back in real-time. Subagents can have a full two-way chat with the orchestrator. Credit to @DanielGri for the inspo.\n\npi install npm:pi-subagents\nhttps://t.co/CbY36IKZ3z\npi install npm:pi-intercom\nhttps://t.co/4Sjbs8ZBqZ",
+      "author": "nicopreme",
+      "authorName": "nicopreme",
+      "url": "https://x.com/nicopreme/status/2043592382856470871",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1776065366000,
+      "dateStr": "4/13/2026",
       "mediaType": null,
       "mediaUrl": null
     },
