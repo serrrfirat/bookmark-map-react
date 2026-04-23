@@ -1,6 +1,48 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2047127129767203220",
+      "text": "THIS GUY JUST GAVE CLAUDE CODE THE ABILITY TO WATCH VIDEOS",
+      "fullText": "THIS GUY JUST GAVE CLAUDE CODE THE ABILITY TO WATCH VIDEOS\n\nclaude code can't natively see video or hear audio\n\nwhich means every time you want it to \"look at this video\" you have to screenshot frames manually and transcribe the audio yourself\n\nso this guy built a plugin that does the whole perception layer for you\n\n> extracts frames with adaptive fps based on your question (claude picks the rate automatically, denser frames for \"what happens right before the crash\" vs \"summarize this talk\")\n> runs audio through gemini, local whisper, or openai whisper for transcription with timestamps\n> feeds the frames and transcript to claude as one combined input so it reasons about them together\n\nyou just drop a .mov in and ask questions\n\nthe install takes 3 commands inside claude code AND it's fully open source, no paywall or account needed\n\nclaude code just got eyes and ears",
+      "author": "om_patel5",
+      "authorName": "Om Patel",
+      "url": "https://x.com/om_patel5/status/2047127129767203220",
+      "likes": 401,
+      "retweets": 27,
+      "date": 1776908116000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HGjaIcxWAAAYJWK.jpg:small"
+    },
+    {
+      "id": "2047100550446280792",
+      "text": "Introducing the /autobrowse skill (inspired by @karpathy's autoresearch harness)",
+      "fullText": "Introducing the /autobrowse skill (inspired by @karpathy's autoresearch harness)\n\nAsk your agent to perform any task on the web: it explores the page using the @browserbase CLI, learns what went wrong in previous attempts, and iterates until it converges on a reliable workflow.\n\nOnce token usage is optimized, it graduates the winning approach into a reusable skill for your browser.",
+      "author": "shreypandya",
+      "authorName": "Shrey Pandya",
+      "url": "https://x.com/shreypandya/status/2047100550446280792",
+      "likes": 1459,
+      "retweets": 97,
+      "date": 1776901779000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2047094998454435840/img/DhO8Y6S8cliBUe0C.jpg:small"
+    },
+    {
+      "id": "2047077497855213663",
+      "text": "\"People of Pi\" :) I have now updated my Pi-Codex conversion extension to support... you know what. A recap of what it supports:",
+      "fullText": "\"People of Pi\" :) I have now updated my Pi-Codex conversion extension to support... you know what. A recap of what it supports:\n\n- complete rewrite of available tools (exec_command, write_stdin, apply_patch, view_image)\n- lets GPT in Pi do crazy patches - 1,5k+ LoC.\n- skills work - it rebuilds the sysprompt\n- slightly more Codexy system prompt. Very subtle.\n- native web_search via responses api - visible at the end of agent turn, doesn't surface as a tool in Pi\n- and yes, generate_image tool. With submitting images as source. And, as a consequence... Editing. (vid speed x10)\n\n(images are saved under .pi/openai-codex-images/ at the workspace/repo root, with the newest image mirrored to .pi/openai-codex-images/latest.png)\n\npi install npm:@howaboua/pi-codex-conversion\n\nThis required a custom provider. I made sure it follows Pi conventions, but if you have any problems or observe increased token consumption, please submit an issue.\n\nhttps://t.co/rbDEcCXDRw\n\n@badlogicgames - you still get a tag even if you don't like image gen ;)",
+      "author": "Howaboua",
+      "authorName": "Howaboua",
+      "url": "https://x.com/Howaboua/status/2047077497855213663",
+      "likes": 38,
+      "retweets": 1,
+      "date": 1776896283000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2047072095218085889/img/vSXHWFMwKDzm-r9o.jpg:small"
+    },
+    {
       "id": "2046785671965339752",
       "text": "I've been looking into compaction and how most OSS projects do it. Esp what to keep with the summary.",
       "fullText": "I've been looking into compaction and how most OSS projects do it. Esp what to keep with the summary.\n\nCodex & Pi seem to make sense. Summarizing and keeping a small recency window(last few turns). Pi keeps 20k tokens of the latest turns(excluded from summary), Codex keeps all the user msgs till 20k tokens. We do something similar. This path seems most intutive.\n\nWhile @opencode & claude code don't keep literally any of the prev msgs. I'm guessing the idea is the summary covers it all, but keeping the last few turns for continutity seems apt? Worth paying for those 10/20k tokens? Or am I missing something?\n\nThere is a lot of experiment and figure out the right strategy(depends on the usecase ofc), but wanted to know if others have tried different approaches and what the insights were...\n@OpenAIDevs @bcherny @badlogicgames @thdxr",
@@ -13238,6 +13280,20 @@
     }
   ],
   "General": [
+    {
+      "id": "2047067631455461795",
+      "text": "https://t.co/hUK1CU7bJR",
+      "fullText": "https://t.co/hUK1CU7bJR",
+      "author": "codegraph",
+      "authorName": "codegraph 🇺🇸",
+      "url": "https://x.com/codegraph/status/2047067631455461795",
+      "likes": 70,
+      "retweets": 6,
+      "date": 1776893930000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2046240194999755153",
       "text": "https://t.co/IKBD5ajeIb",
