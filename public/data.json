@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2047628152139366766",
+      "text": "A Rust dev just killed Headless Chrome.",
+      "fullText": "A Rust dev just killed Headless Chrome.\n\nIt's called Obscura. The open-source headless browser purpose-built for AI agents and scrapers at scale.\n\nChrome vs Obscura:\n\n- Memory: 200MB+ → 30MB\n- Binary: 300MB+ → 70MB\n- Page load: 500ms → 85ms\n- Startup: 2s → Instant\n- Anti-detect: None → Built-in\n\nSingle binary. No Node, no Chrome, no dependencies.\n\nStealth mode is brutal:\n\n→ Per-session fingerprint randomization (GPU, canvas, audio, battery)\n→ 3,520 tracker domains blocked by default\n→ navigator.webdriver masked to match real Chrome\n→ Native function masking so detectors can't sniff it out\n\nDrop-in replacement for Puppeteer and Playwright over CDP. Zero code changes.\n\nIf you run agents or serious scraping at scale, this repo prints money.\n\n100% Opensource.",
+      "author": "ChrisLaubAI",
+      "authorName": "Chris Laub",
+      "url": "https://x.com/ChrisLaubAI/status/2047628152139366766",
+      "likes": 5952,
+      "retweets": 578,
+      "date": 1777016769000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HGqi9AaagAARMC0.jpg:small"
+    },
+    {
       "id": "2047127129767203220",
       "text": "THIS GUY JUST GAVE CLAUDE CODE THE ABILITY TO WATCH VIDEOS",
       "fullText": "THIS GUY JUST GAVE CLAUDE CODE THE ABILITY TO WATCH VIDEOS\n\nclaude code can't natively see video or hear audio\n\nwhich means every time you want it to \"look at this video\" you have to screenshot frames manually and transcribe the audio yourself\n\nso this guy built a plugin that does the whole perception layer for you\n\n> extracts frames with adaptive fps based on your question (claude picks the rate automatically, denser frames for \"what happens right before the crash\" vs \"summarize this talk\")\n> runs audio through gemini, local whisper, or openai whisper for transcription with timestamps\n> feeds the frames and transcript to claude as one combined input so it reasons about them together\n\nyou just drop a .mov in and ask questions\n\nthe install takes 3 commands inside claude code AND it's fully open source, no paywall or account needed\n\nclaude code just got eyes and ears",
@@ -3883,6 +3897,20 @@
     }
   ],
   "Code & Dev Tools": [
+    {
+      "id": "2048071679398604850",
+      "text": "Introducing termDRAW!",
+      "fullText": "Introducing termDRAW!\n\nIt's a terminal-native illustrator for making agent-friendly ASCII + unicode diagrams.\n\nPrompt more design intent than w/ words, use fewer tokens than screenshots. Works over SSH.\n\nUse it on the CLI or as a Pi extension https://t.co/usR2v0rc7H",
+      "author": "bentlegen",
+      "authorName": "Ben Vinegar",
+      "url": "https://x.com/bentlegen/status/2048071679398604850",
+      "likes": 13,
+      "retweets": 1,
+      "date": 1777122514000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2048071594384494592/img/2tohOWIwIkqidKCG.jpg:small"
+    },
     {
       "id": "2045971295213338888",
       "text": "Alright, my go-to https://t.co/Es44X52jKi extensions are:",
@@ -8940,6 +8968,20 @@
     }
   ],
   "Business & SaaS": [
+    {
+      "id": "2047900744960123050",
+      "text": "10 GitHub repos that print money while you sleep:",
+      "fullText": "10 GitHub repos that print money while you sleep:\n\n1. AutoHedge\nhttps://t.co/YTc8jHhRLo\n\n2. Vibe-Trading\nhttps://t.co/LcBLbWMcAk\n\n3. Claude Ads\nhttps://t.co/b0jENyIACp\n\n4. Toprank\nhttps://t.co/utLdGHcbW2\n\n5. Fincept Terminal\nhttps://t.co/5D3m8P5Sfu\n\n6. Agentic Inbox\nhttps://t.co/RNTsIsZu9m\n\n7. ClawRouter\nhttps://t.co/hz1dJeWusA\n\n8. Camofox Browser\nhttps://t.co/J59ke0F3Kg\n\n9. Open Higgsfield AI\nhttps://t.co/iQwE8LmB9N\n\n10. Hyperframes\nhttps://t.co/t5iMhxzSMk",
+      "author": "heygurisingh",
+      "authorName": "Guri Singh",
+      "url": "https://x.com/heygurisingh/status/2047900744960123050",
+      "likes": 1615,
+      "retweets": 266,
+      "date": 1777081760000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HGua3zOa4AASMJE.jpg:small"
+    },
     {
       "id": "2017303906179481839",
       "text": "@jeffrey_way https://t.co/rc5GHb2B3S not only because it's not a subscription. it has WAY more bells and whistles than the rest of them. and more coming soon 👀",
