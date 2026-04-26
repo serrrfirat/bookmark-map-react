@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2048278689801203787",
+      "text": "dashboards dont work for autonomous agents. maps do. introducing Hermes Labyrinth, mapping agents' actual crossings: prompts, tools, failures, model switches, subagents, memory, redactions, context co",
+      "fullText": "dashboards dont work for autonomous agents. maps do. introducing Hermes Labyrinth, mapping agents' actual crossings: prompts, tools, failures, model switches, subagents, memory, redactions, context compression, more.",
+      "author": "stainlu",
+      "authorName": "Stain Lu",
+      "url": "https://x.com/stainlu/status/2048278689801203787",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1777182669000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2047628152139366766",
       "text": "A Rust dev just killed Headless Chrome.",
       "fullText": "A Rust dev just killed Headless Chrome.\n\nIt's called Obscura. The open-source headless browser purpose-built for AI agents and scrapers at scale.\n\nChrome vs Obscura:\n\n- Memory: 200MB+ → 30MB\n- Binary: 300MB+ → 70MB\n- Page load: 500ms → 85ms\n- Startup: 2s → Instant\n- Anti-detect: None → Built-in\n\nSingle binary. No Node, no Chrome, no dependencies.\n\nStealth mode is brutal:\n\n→ Per-session fingerprint randomization (GPU, canvas, audio, battery)\n→ 3,520 tracker domains blocked by default\n→ navigator.webdriver masked to match real Chrome\n→ Native function masking so detectors can't sniff it out\n\nDrop-in replacement for Puppeteer and Playwright over CDP. Zero code changes.\n\nIf you run agents or serious scraping at scale, this repo prints money.\n\n100% Opensource.",
@@ -13322,6 +13336,20 @@
     }
   ],
   "General": [
+    {
+      "id": "2048150887516836080",
+      "text": "https://t.co/oR8KWMlgwc",
+      "fullText": "https://t.co/oR8KWMlgwc",
+      "author": "mitsuhiko",
+      "authorName": "Armin Ronacher",
+      "url": "https://x.com/mitsuhiko/status/2048150887516836080",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1777152199000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2047067631455461795",
       "text": "https://t.co/hUK1CU7bJR",
