@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2049225750327296199",
+      "text": "built a Pi extension called pi-context-prune because agent sessions are absolute context hoarders",
+      "fullText": "built a Pi extension called pi-context-prune because agent sessions are absolute context hoarders\n\nit:\n\nwatches completed tool-call batches\nsummarizes them\ndrops raw tool spam from future context\nkeeps originals queryable via context_tree_query\n\nless sludge, same memory https://t.co/JN7VfQzcP4",
+      "author": "championswimmer",
+      "authorName": "Arnav Gupta",
+      "url": "https://x.com/championswimmer/status/2049225750327296199",
+      "likes": 162,
+      "retweets": 8,
+      "date": 1777408466000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HHBOzpZbkAEhNNU.jpg:small"
+    },
+    {
       "id": "2048278689801203787",
       "text": "dashboards dont work for autonomous agents. maps do. introducing Hermes Labyrinth, mapping agents' actual crossings: prompts, tools, failures, model switches, subagents, memory, redactions, context co",
       "fullText": "dashboards dont work for autonomous agents. maps do. introducing Hermes Labyrinth, mapping agents' actual crossings: prompts, tools, failures, model switches, subagents, memory, redactions, context compression, more.",
@@ -3911,6 +3925,34 @@
     }
   ],
   "Code & Dev Tools": [
+    {
+      "id": "2049163568491188543",
+      "text": "Say hi to Pi, in our brand new UI.",
+      "fullText": "Say hi to Pi, in our brand new UI.\n\nSwitch between GUI and terminal chat instantly without losing context. https://t.co/JdmXwATz7p",
+      "author": "superdoteng",
+      "authorName": "super.engineering",
+      "url": "https://x.com/superdoteng/status/2049163568491188543",
+      "likes": 819,
+      "retweets": 38,
+      "date": 1777393641000,
+      "dateStr": "Yesterday",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2049027635678990336/img/hDI4m870IwO3AP2L.jpg:small"
+    },
+    {
+      "id": "2049141151484047699",
+      "text": "pi-autoresearch can now run indefinitely.",
+      "fullText": "pi-autoresearch can now run indefinitely.\npi handles compaction itself, then uses the persisted files to pick up where it left off and keep testing new hypotheses. https://t.co/x1IrjLOVlv",
+      "author": "davebcn87",
+      "authorName": "David Cortés",
+      "url": "https://x.com/davebcn87/status/2049141151484047699",
+      "likes": 289,
+      "retweets": 12,
+      "date": 1777388296000,
+      "dateStr": "Yesterday",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HHAAXMIa0AANFxR.jpg:small"
+    },
     {
       "id": "2048071679398604850",
       "text": "Introducing termDRAW!",
@@ -13336,6 +13378,20 @@
     }
   ],
   "General": [
+    {
+      "id": "2049182596471423027",
+      "text": "Building weather for a cold 1-bit island",
+      "fullText": "Building weather for a cold 1-bit island\n\n#indiegame #gamedev #citybuilder https://t.co/Ngz4lOficM",
+      "author": "glagstonegame",
+      "authorName": "GlagStone",
+      "url": "https://x.com/glagstonegame/status/2049182596471423027",
+      "likes": 491,
+      "retweets": 25,
+      "date": 1777398177000,
+      "dateStr": "Today",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2049180750822703105/img/bRXeguq34CqUnu2_.jpg:small"
+    },
     {
       "id": "2048492731929149929",
       "text": "https://t.co/5Vk6U2wDxo",
