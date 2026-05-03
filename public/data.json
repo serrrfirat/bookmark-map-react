@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2050629332536803835",
+      "text": "Symphony: OpenAI's AI Agent orchestrator.",
+      "fullText": "Symphony: OpenAI's AI Agent orchestrator.\n\nIt's a must have if you build with AI.\n\nHands down best AI Agent orchestrator I've used.\n\nThis might sound hyperbolic...\n\n> It can make you *at least* 100x more productive.\n\nAllows me to create in a day what used to take 100.\n\nOpen-source and included with your ChatGPT sub.\n\nCreated a simple way to install and start it on Mac/Linux by asking your agent 👇",
+      "author": "daniel_mac8",
+      "authorName": "Dan McAteer",
+      "url": "https://x.com/daniel_mac8/status/2050629332536803835",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1777743106000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2049225750327296199",
       "text": "built a Pi extension called pi-context-prune because agent sessions are absolute context hoarders",
       "fullText": "built a Pi extension called pi-context-prune because agent sessions are absolute context hoarders\n\nit:\n\nwatches completed tool-call batches\nsummarizes them\ndrops raw tool spam from future context\nkeeps originals queryable via context_tree_query\n\nless sludge, same memory https://t.co/JN7VfQzcP4",
