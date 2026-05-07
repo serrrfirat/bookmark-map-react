@@ -3940,6 +3940,34 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2052110266566107321",
+      "text": "Codex 5.5 hack:",
+      "fullText": "Codex 5.5 hack:\n\n\"Are you 100% confident in this strategy? If not, find all possible loopholes, suggest proper fixes and run this loop until you are factually 100% confident in the new startegy\"\n\nThis works like charm. It makes Codex 5.5 high perform even better than codex 5.5 extra high. \n\nWhy? Codex 5.5 is the only model i noticed that is self aware. It never makes high claims unless the model verifies everything. \n\nThis doesn't work with Opus 4.7 cuz that's a very insecure model. You can paste this prompt over and over again, the model keeps saying \"you're absolutely right,.....\" \n\nBut with codex, after 2-3 iterations you'll notice yourself it actually patched all loopholes and this genuinely sounds like a good strategy. \n\nTry this out, thanks me later.",
+      "author": "cjzafir",
+      "authorName": "CJ Zafir",
+      "url": "https://x.com/cjzafir/status/2052110266566107321",
+      "likes": 2924,
+      "retweets": 177,
+      "date": 1778096188000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2052042499053453330",
+      "text": "1. /grill-with-docs",
+      "fullText": "1. /grill-with-docs\n2. \"Oh, I need to prototype some UI\"\n3. /handoff to /prototype\n4. Create prototype, /handoff back to grilling session\n5. /to-prd, /to-issues\n6. npm run sandcastle\n7. /improve-codebase-architecture\n\nI love this shit",
+      "author": "mattpocockuk",
+      "authorName": "Matt Pocock",
+      "url": "https://x.com/mattpocockuk/status/2052042499053453330",
+      "likes": 2766,
+      "retweets": 119,
+      "date": 1778080031000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2049163568491188543",
       "text": "Say hi to Pi, in our brand new UI.",
       "fullText": "Say hi to Pi, in our brand new UI.\n\nSwitch between GUI and terminal chat instantly without losing context. https://t.co/JdmXwATz7p",
