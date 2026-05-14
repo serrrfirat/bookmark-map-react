@@ -1,6 +1,34 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2054850632067019173",
+      "text": "Wrote a skill that runs codex /review in a loop until there's no booboos anymore.",
+      "fullText": "Wrote a skill that runs codex /review in a loop until there's no booboos anymore.\n\nCaveat: It won't fix system architecture for ya, so you still need BRAIN as master model. https://t.co/0Z6iJnCqCX",
+      "author": "steipete",
+      "authorName": "Peter Steinberger 🦞",
+      "url": "https://x.com/steipete/status/2054850632067019173",
+      "likes": 1636,
+      "retweets": 90,
+      "date": 1778749542000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2054515092914594006",
+      "text": "If you use pi, try pi-agent-browser-native.",
+      "fullText": "If you use pi, try pi-agent-browser-native.\n\nIt makes agent-browser a native pi tool, so agents actually use browser automation instead of awkward bash glue.\n\nIn my runs it has materially improved tool uptake, speed, and token-efficient browser work.\n\nhttps://t.co/KCaBQvRzMY",
+      "author": "fitchmultz",
+      "authorName": "Mitch Fultz",
+      "url": "https://x.com/fitchmultz/status/2054515092914594006",
+      "likes": 222,
+      "retweets": 8,
+      "date": 1778669543000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2053910702843113720",
       "text": "People of Pi! Howcode 0.1.64 is up. We're approaching 67!",
       "fullText": "People of Pi! Howcode 0.1.64 is up... release notes and fixes.",
@@ -3967,6 +3995,34 @@
     }
   ],
   "Code & Dev Tools": [
+    {
+      "id": "2054855404052513133",
+      "text": "For anyone asking about how you'd use /prototype to test pure logic, this is a great example",
+      "fullText": "For anyone asking about how you'd use /prototype to test pure logic, this is a great example\n\nIt built this guy an interactive TUI:",
+      "author": "mattpocockuk",
+      "authorName": "Matt Pocock",
+      "url": "https://x.com/mattpocockuk/status/2054855404052513133",
+      "likes": 288,
+      "retweets": 14,
+      "date": 1778750680000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2054594852818764178",
+      "text": "Install ntn, the Notion CLI.",
+      "fullText": "Install ntn, the Notion CLI.\n\nIt brings the entire Notion API to your terminal, plus everything you need to build and deploy Workers. Built for humans and coding agents alike.\n\nInstall with: curl -fsSL https://t.co/2dJqE3YHvw | bash https://t.co/X4Cr4c9GXg",
+      "author": "NotionDevs",
+      "authorName": "Notion Developers",
+      "url": "https://x.com/NotionDevs/status/2054594852818764178",
+      "likes": 2699,
+      "retweets": 218,
+      "date": 1778688560000,
+      "dateStr": "Yesterday",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2054571358743564288/img/QzdmRgrrqT0OJuNn.jpg:small"
+    },
     {
       "id": "2054191146046476606",
       "text": "这个配合 pi-coding-agent 很好用 https://t.co/v7aEyLJp5T",
