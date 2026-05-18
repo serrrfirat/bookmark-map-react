@@ -29,6 +29,20 @@
       "mediaUrl": null
     },
     {
+      "id": "2055774342689304900",
+      "text": "We're open sourcing LiteLLM Agent Platform",
+      "fullText": "We're open sourcing LiteLLM Agent Platform\n\nRun Claude Code, Codex, Hermes or any coding agent in isolated K8s sandboxes\n\nThe agent never sees your real API keys.\n\nHere's how 👇 https://t.co/NsuT1ljpNQ",
+      "author": "ishaan_jaff",
+      "authorName": "Ishaan",
+      "url": "https://x.com/ishaan_jaff/status/2055774342689304900",
+      "likes": 227,
+      "retweets": 34,
+      "date": 1778969772000,
+      "dateStr": "Yesterday",
+      "mediaType": "animated_gif",
+      "mediaUrl": "https://pbs.twimg.com/tweet_video_thumb/HIeRWhqaIAAayg4.jpg:small"
+    },
+    {
       "id": "2054850632067019173",
       "text": "Wrote a skill that runs codex /review in a loop until there's no booboos anymore.",
       "fullText": "Wrote a skill that runs codex /review in a loop until there's no booboos anymore.\n\nCaveat: It won't fix system architecture for ya, so you still need BRAIN as master model. https://t.co/0Z6iJnCqCX",
@@ -4023,6 +4037,20 @@
     }
   ],
   "Code & Dev Tools": [
+    {
+      "id": "2056088042402914529",
+      "text": "People of pi: `pi-agent-codebase-workflows` v0.3.0 is out.",
+      "fullText": "People of pi: `pi-agent-codebase-workflows` v0.3.0 is out.\n\nMain addition: `safe-start`. A greenfield project workflow for starting new repos with less chaos:\n- clarify intent, data flow, architecture, contracts\n- scaffold minimal baseline\n- add validation early\n- build first thin vertical slice\n- leave durable agent handoff docs behind\n\nSo now the package covers:\nnew project → codebase reconstruction → safe changes → architecture-aware review.\n\nGitHub: https://t.co/l1bCpVs4ki",
+      "author": "TinoWening",
+      "authorName": "Tino Wening",
+      "url": "https://x.com/TinoWening/status/2056088042402914529",
+      "likes": 39,
+      "retweets": 2,
+      "date": 1779044564000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2054855404052513133",
       "text": "For anyone asking about how you'd use /prototype to test pure logic, this is a great example",
