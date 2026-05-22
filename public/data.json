@@ -4038,6 +4038,34 @@
   ],
   "Code & Dev Tools": [
     {
+      "id": "2057538500686176310",
+      "text": "pi-slopchop diff reviewer updated with pierre for nicer diffs - handy for reviewing diffs and asking agents to fix specific lines.",
+      "fullText": "pi-slopchop diff reviewer updated with pierre for nicer diffs - this thing is sooo handy for reviewing diffs and asking questions to your agent about the code or asking it to fix specific lines. Use it all the time. https://t.co/Hx6nMoD7Aw",
+      "author": "robzolkos",
+      "authorName": "Rob Zolkos",
+      "url": "https://x.com/robzolkos/status/2057538500686176310",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1779390380000,
+      "dateStr": "Thu May 21 19:06:20 +0000 2026",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HI3X_zNWAAAyqsx.png"
+    },
+    {
+      "id": "2057521364622553442",
+      "text": "Cursor's most-used internal skill: /thermo-nuclear-code-quality-review.",
+      "fullText": "the most used skill internally at cursor right now /thermo-nuclear-code-quality-review - deletes complexity instead of moving it - blocks files over 1k lines - flags thin wrappers and leaked logic - rejects PRs that work but make code messier",
+      "author": "ericzakariasson",
+      "authorName": "eric zakariasson",
+      "url": "https://x.com/ericzakariasson/status/2057521364622553442",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1779386294000,
+      "dateStr": "Thu May 21 17:58:14 +0000 2026",
+      "mediaType": "video",
+      "mediaUrl": "https://pbs.twimg.com/amplify_video_thumb/2057521313678553088/img/8OXsQ737mQfdGo2M.jpg"
+    },
+    {
       "id": "2056088042402914529",
       "text": "People of pi: `pi-agent-codebase-workflows` v0.3.0 is out.",
       "fullText": "People of pi: `pi-agent-codebase-workflows` v0.3.0 is out.\n\nMain addition: `safe-start`. A greenfield project workflow for starting new repos with less chaos:\n- clarify intent, data flow, architecture, contracts\n- scaffold minimal baseline\n- add validation early\n- build first thin vertical slice\n- leave durable agent handoff docs behind\n\nSo now the package covers:\nnew project → codebase reconstruction → safe changes → architecture-aware review.\n\nGitHub: https://t.co/l1bCpVs4ki",
