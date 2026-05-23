@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2057788210949030351",
+      "text": "HOLY SHIT !! @cursor_ai 's /thermo-nuclear-code-quality-review skill is nuts ",
+      "fullText": "HOLY SHIT !! @cursor_ai 's /thermo-nuclear-code-quality-review skill is nuts \n\nIt ran for around 30 mins on my PR and immensely improved the code quality.\n\nIt's 67x better than /simplify from Claude code..",
+      "author": "ParthJadhav8",
+      "authorName": "Parth Jadhav",
+      "url": "https://x.com/ParthJadhav8/status/2057788210949030351",
+      "likes": 1484,
+      "retweets": 43,
+      "date": 1779449916000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2055405041843052792",
       "text": "How we build software when tokens don't matter: ~100 codex agents for PR/security/issues/benchmarks and autonomous workflows.",
       "fullText": "People freaking out over my AI spend... detailed thread on OpenClaw automation at scale.",
@@ -4037,6 +4051,20 @@
     }
   ],
   "Code & Dev Tools": [
+    {
+      "id": "2057823910574588238",
+      "text": "Cloudsail: Instant Sandboxes for Coding Agents",
+      "fullText": "Cloudsail: Instant Sandboxes for Coding Agents\n\nCreate a new Cloudflare Sandbox for each task with a shell, Codex and GitHub access. Tokens are never exposed to the sandbox. Update your deps far away from your laptop.\n\nnpm install -g cloudsail\ncs\n\nhttps://t.co/fI0ajfNnLV",
+      "author": "cnakazawa",
+      "authorName": "Christoph Nakazawa",
+      "url": "https://x.com/cnakazawa/status/2057823910574588238",
+      "likes": 91,
+      "retweets": 9,
+      "date": 1779458427000,
+      "dateStr": "Yesterday",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HI7VBzDaEAAlOUF.jpg:small"
+    },
     {
       "id": "2057538500686176310",
       "text": "pi-slopchop diff reviewer updated with pierre for nicer diffs - handy for reviewing diffs and asking agents to fix specific lines.",
