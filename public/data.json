@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2058917897590673525",
+      "text": "Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write books in the skill description, and all that crap is loaded into every context.",
+      "fullText": "Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write books in the skill description, and all that crap is loaded into every context.\n\nI wrote a skill that finds the worst offenders. https://t.co/kfaaJpxMXE",
+      "author": "steipete",
+      "authorName": "Peter Steinberger 🦞",
+      "url": "https://x.com/steipete/status/2058917897590673525",
+      "likes": 4344,
+      "retweets": 336,
+      "date": 1779719254000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2057788210949030351",
       "text": "HOLY SHIT !! @cursor_ai 's /thermo-nuclear-code-quality-review skill is nuts ",
       "fullText": "HOLY SHIT !! @cursor_ai 's /thermo-nuclear-code-quality-review skill is nuts \n\nIt ran for around 30 mins on my PR and immensely improved the code quality.\n\nIt's 67x better than /simplify from Claude code..",
@@ -13658,6 +13672,20 @@
     }
   ],
   "General": [
+    {
+      "id": "2059231219477254477",
+      "text": "@Dimillian yo u need https://t.co/SEj2XRpaD1 - it includes a parallels adapter + checkpoints for macOS now.",
+      "fullText": "@Dimillian yo u need https://t.co/SEj2XRpaD1 - it includes a parallels adapter + checkpoints for macOS now.",
+      "author": "steipete",
+      "authorName": "Peter Steinberger 🦞",
+      "url": "https://x.com/steipete/status/2059231219477254477",
+      "likes": 222,
+      "retweets": 3,
+      "date": 1779793956000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2053231239721885918",
       "text": "(link post)",
