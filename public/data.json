@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2059453909819654554",
+      "text": "autoreview is the most impactful skill I've added to my stack (next to https://t.co/SEj2XRpaD1). It automatically reviews your code before landing a PR.",
+      "fullText": "autoreview is the most impactful skill I've added to my stack (next to https://t.co/SEj2XRpaD1). It automatically reviews your code before landing a PR.\n\nFinds so many edge cases.\nSometimes it runs for hours.\n\nhttps://t.co/zbUjIS2e1i",
+      "author": "steipete",
+      "authorName": "Peter Steinberger 🦞",
+      "url": "https://x.com/steipete/status/2059453909819654554",
+      "likes": 1614,
+      "retweets": 76,
+      "date": 1779847049000,
+      "dateStr": "Today",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2058917897590673525",
       "text": "Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write books in the skill description, and all that crap is loaded into every context.",
       "fullText": "Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write books in the skill description, and all that crap is loaded into every context.\n\nI wrote a skill that finds the worst offenders. https://t.co/kfaaJpxMXE",
