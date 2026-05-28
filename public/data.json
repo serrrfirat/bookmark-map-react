@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2059687015038464021",
+      "text": "https://t.co/o9ppsJKSTU",
+      "fullText": "https://t.co/o9ppsJKSTU",
+      "author": "zeeg",
+      "authorName": "David Cramer",
+      "url": "https://x.com/zeeg/status/2059687015038464021",
+      "likes": 0,
+      "retweets": 0,
+      "date": 1779985834444,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HJV6ZbObEAA9BIL.jpg"
+    },
+    {
       "id": "2059453909819654554",
       "text": "autoreview is the most impactful skill I've added to my stack (next to https://t.co/SEj2XRpaD1). It automatically reviews your code before landing a PR.",
       "fullText": "autoreview is the most impactful skill I've added to my stack (next to https://t.co/SEj2XRpaD1). It automatically reviews your code before landing a PR.\n\nFinds so many edge cases.\nSometimes it runs for hours.\n\nhttps://t.co/zbUjIS2e1i",
