@@ -1,6 +1,48 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2060375796204605586",
+      "text": "💡Recent insight: gaslighting @claudeai seems to improve code quality >90% of the time.",
+      "fullText": "💡Recent insight: gaslighting @claudeai seems to improve code quality >90% of the time.\n\n“You overengineered this, there is a simpler way”\n“There is a smaller delta that buys us most of the benefits”\n“There is a more elegant way”\n“This is not architecturally coherent”\n\n…before I even read its code. 😆",
+      "author": "LeaVerou",
+      "authorName": "Lea Verou, PhD",
+      "url": "https://x.com/LeaVerou/status/2060375796204605586",
+      "likes": 781,
+      "retweets": 42,
+      "date": 1780066844000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2060115468531499224",
+      "text": "introducing pi-dynamic-workflows",
+      "fullText": "introducing pi-dynamic-workflows\n\nThis is probably going to be a bigger token burner than pi-goal, BUT, dynamic workflows is the first implementation of subagents that i don't hate, mainly because it's \"code mode\" for subagents. agent writes a js-based workflow DSL into a dedicated tool, engine parses the workflow code and runs it.\n\nthe dsl implements some primitives for the agent (agent(), parallel(), pipeline(), phase() and log()) to keep it as simple as possible.\n\nnow available in @badlogicgames pi!\n\npi install npm:pi-dynamic-workflows",
+      "author": "micLivs",
+      "authorName": "Michael Livs",
+      "url": "https://x.com/micLivs/status/2060115468531499224",
+      "likes": 1066,
+      "retweets": 79,
+      "date": 1780004777000,
+      "dateStr": "Yesterday",
+      "mediaType": "animated_gif",
+      "mediaUrl": "https://pbs.twimg.com/tweet_video_thumb/HJb9jOfXkAcqb1a.jpg:small"
+    },
+    {
+      "id": "2060066484559519932",
+      "text": "People of Pi... Holy shit it's live. All my extensions & skills in one monorepo, with a fully automated CI xDDDDD",
+      "fullText": "People of Pi... Holy shit it's live. All my extensions & skills in one monorepo, with a fully automated CI xDDDDD\n\nOther repos will be archived, imma need some stars, folks :D\n\nYou can now run:\npi install npm:@howaboua/pi-stuff\npi install npm:@howaboua/pi-extensions\npi install npm:@howaboua/pi-skills\n\nThese two are excluded from packs:\n\npi install npm:@howaboua/pi-codex-conversion\npi install npm:@howaboua/pi-skill-omarchy-help\n\nAll the previous package names remain in tact, it's just the repo address that has changed.\n\n10 extensions and 7 skills. Apparently it's all you need.\n\nHappy clanking!\n\nhttps://t.co/ARtBDYm2yq\n\nPS. Sorry, not quite as exciting as a model launch.",
+      "author": "Howaboua",
+      "authorName": "Howaboua",
+      "url": "https://x.com/Howaboua/status/2060066484559519932",
+      "likes": 89,
+      "retweets": 3,
+      "date": 1779993098000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
       "id": "2059687015038464021",
       "text": "https://t.co/o9ppsJKSTU",
       "fullText": "https://t.co/o9ppsJKSTU",
@@ -4093,6 +4135,48 @@
     }
   ],
   "Code & Dev Tools": [
+    {
+      "id": "2060426673292747230",
+      "text": "I made a universal company brain.",
+      "fullText": "I made a universal company brain.\n\n- connect to ANY agent natively\n- Git-like versioning and RBAC permissioning\n- connectors to all sync tools of companies\n- Dreams about your company\n- run on-prem. Free to start.\n\nit's live today.\n\nwe've been using it for 6 months @supermemory https://t.co/xsrenSBHbY",
+      "author": "DhravyaShah",
+      "authorName": "Dhravya Shah",
+      "url": "https://x.com/DhravyaShah/status/2060426673292747230",
+      "likes": 287,
+      "retweets": 19,
+      "date": 1780078974000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HJgZVZLbkAEwEok.jpg:small"
+    },
+    {
+      "id": "2060099876621271321",
+      "text": "We’re open-sourcing Stem Studio, our 3JS game engine today.",
+      "fullText": "We’re open-sourcing Stem Studio, our 3JS game engine today.\n\nThis is a browser-based 3D multiplayer game engine and dev studio based on the idea that game dev should become more open, remixable, and web-native. \n\nAI will make it easier to create games. But shared building blocks will make it easier for developers to build on top of each other.\n\nStem Studio is MIT licensed, JavaScript-based, and built for browser multiplayer 3D worlds.\n\nCode is here: https://t.co/PRNy6sb7ji\nFork it, break it, remix it, and show us what you make.",
+      "author": "markpinc",
+      "authorName": "mark pincus",
+      "url": "https://x.com/markpinc/status/2060099876621271321",
+      "likes": 1520,
+      "retweets": 163,
+      "date": 1780001060000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
+    {
+      "id": "2060057903374246313",
+      "text": "Cursor plan mode — but inside pi.",
+      "fullText": "Cursor plan mode — but inside pi.\n\npi-cursor-sdk v0.1.21 🚀 (+ v0.1.22 same-day patch)\n\n• /cursor-mode plan — flip agent ↔ plan in-session (pi 0.76+, Cursor SDK 1.0.14)\n• clearer callable-tool surfaces on first send (Cursor host vs pi bridge)\n• v0.1.22: auto-compact no longer dies with AgentBusyError on long runs\n\npi install npm:pi-cursor-sdk\npi --model cursor/composer-2.5 --cursor-mode plan\n\nAgent or plan in pi — which do you reach for first?\n\nhttps://t.co/EZCcLpasG7",
+      "author": "fitchmultz",
+      "authorName": "Mitch Fultz",
+      "url": "https://x.com/fitchmultz/status/2060057903374246313",
+      "likes": 43,
+      "retweets": 1,
+      "date": 1779991052000,
+      "dateStr": "Yesterday",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2057823910574588238",
       "text": "Cloudsail: Instant Sandboxes for Coding Agents",
@@ -13700,6 +13784,20 @@
     }
   ],
   "General": [
+    {
+      "id": "2059844244907696186",
+      "text": "https://t.co/0DyFIXJueI",
+      "fullText": "https://t.co/0DyFIXJueI",
+      "author": "addyosmani",
+      "authorName": "Addy Osmani",
+      "url": "https://x.com/addyosmani/status/2059844244907696186",
+      "likes": 2160,
+      "retweets": 297,
+      "date": 1779940112000,
+      "dateStr": "2 days ago",
+      "mediaType": null,
+      "mediaUrl": null
+    },
     {
       "id": "2059231219477254477",
       "text": "@Dimillian yo u need https://t.co/SEj2XRpaD1 - it includes a parallels adapter + checkpoints for macOS now.",
