@@ -1,6 +1,20 @@
 {
   "AI Tools & Agents": [
     {
+      "id": "2061208638027395490",
+      "text": "Been teaching codex to be my QA assistant. For every commit it creates a user-test scenario and uses webVNC (crabbox), computer/browser use (peekaboo/mcporter) to test OpenClaw like a user/QA person w",
+      "fullText": "Been teaching codex to be my QA assistant. For every commit it creates a user-test scenario and uses webVNC (crabbox), computer/browser use (peekaboo/mcporter) to test OpenClaw like a user/QA person would.\n\nThis runs in the background and opens PRs with fixes. https://t.co/xGcKgjyf7F",
+      "author": "steipete",
+      "authorName": "Peter Steinberger 🦞",
+      "url": "https://x.com/steipete/status/2061208638027395490",
+      "likes": 1382,
+      "retweets": 78,
+      "date": 1780265409000,
+      "dateStr": "Today",
+      "mediaType": "photo",
+      "mediaUrl": "https://pbs.twimg.com/media/HJrhp9AXoAQLA50.jpg:small"
+    },
+    {
       "id": "2060610895458553977",
       "text": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. https://t.co/QTnbJID5UK",
       "fullText": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. https://t.co/QTnbJID5UK",
